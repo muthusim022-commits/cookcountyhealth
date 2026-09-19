@@ -1,0 +1,1206 @@
+Patient_ID,Age,Gender,Race_Ethnicity,Insurance_Type,Primary_Language,Community_Area,ZIP_Code,Region,Clinic_Name,Annual_Visits,Systolic_BP,BMI,Household_Income_Est,Registration_Date,Latitude,Longitude
+CCH-00001,44,Female,Hispanic or Latino,Employer-Sponsored PPO,English,Near West Side,60612,Central,John H. Stroger Jr. Hospital,1,123,29.3,59590,2021-03-03,41.86359,-87.67523
+CCH-00002,20,Male,Black or African American,Employer-Sponsored PPO,Spanish,Pilsen,60608,Southwest,Arlington Heights Health Center,2,116,30.5,64526,2022-11-28,41.84781,-87.65362
+CCH-00003,61,Female,Hispanic or Latino,Employer-Sponsored PPO,Polish,Bronzeville,60653,South,Arlington Heights Health Center,3,135,32.3,18494,2021-06-11,41.82811,-87.60879
+CCH-00004,62,Male,White,Uninsured / Self-Pay,Spanish,Austin,60644,West,Arlington Heights Health Center,3,109,30.1,29767,2022-07-24,41.89544,-87.75581
+CCH-00005,30,Male,White,Medicaid,English,Uptown,60640,Far North,Arlington Heights Health Center,16,144,23.7,22269,2022-07-07,41.97024,-87.65003
+CCH-00006,33,Male,Black or African American,CountyCare Health Plan,Cantonese,Near West Side,60612,Central,Near South Health Center,4,97,18.2,59639,2022-03-12,41.88405,-87.65415
+CCH-00007,33,Female,Hispanic or Latino,CountyCare Health Plan,English,Albany Park,60625,North,Ruth M. Rothstein CORE Center,3,129,28.8,10000,2023-11-10,41.96947,-87.70699
+CCH-00008,53,Male,Hispanic or Latino,Uninsured / Self-Pay,Polish,Rogers Park,60626,Far North,John H. Stroger Jr. Hospital,5,133,25.4,19944,2024-10-25,41.99631,-87.67355
+CCH-00009,44,Female,White,Employer-Sponsored PPO,Polish,Pilsen,60608,Southwest,Ruth M. Rothstein CORE Center,9,148,31.8,28209,2023-11-06,41.84594,-87.6712
+CCH-00010,31,Female,Asian,Uninsured / Self-Pay,English,Roseland,60628,Far South,Robbins Health Center,1,109,17.4,73260,2021-02-09,41.69485,-87.6114
+CCH-00011,51,Female,Black or African American,CountyCare Health Plan,Spanish,Rogers Park,60626,Far North,Ruth M. Rothstein CORE Center,4,114,31.7,34849,2021-09-20,42.02281,-87.68243
+CCH-00012,22,Male,Black or African American,Medicaid,Tagalog,Garfield Park,60624,West,Near South Health Center,8,122,24.2,41624,2023-06-17,41.88258,-87.7156
+CCH-00013,50,Male,Black or African American,Employer-Sponsored HMO,Cantonese,Rogers Park,60626,Far North,Near South Health Center,3,127,27.2,56149,2021-05-26,42.00101,-87.68287
+CCH-00014,19,Male,Black or African American,Employer-Sponsored PPO,English,Rogers Park,60626,Far North,Arlington Heights Health Center,2,119,19.2,43319,2022-12-27,42.00858,-87.66146
+CCH-00015,22,Female,Black or African American,Medicaid,English,Pilsen,60608,Southwest,Ruth M. Rothstein CORE Center,1,85,16.9,45584,2023-05-15,41.86305,-87.64728
+CCH-00016,76,Male,Two or More Races,CountyCare Health Plan,Cantonese,Humboldt Park,60651,West,Cottage Grove Health Center,2,139,16.9,41739,2021-12-07,41.88872,-87.68702
+CCH-00017,55,Female,Hispanic or Latino,CountyCare Health Plan,Arabic,Pilsen,60608,Southwest,Prieto Health Center,5,120,31.1,49093,2024-09-17,41.84916,-87.64778
+CCH-00018,70,Male,Asian,Medicare,English,Bridgeport,60616,South,John H. Stroger Jr. Hospital,1,121,31.5,57788,2023-11-07,41.83081,-87.6622
+CCH-00019,41,Female,Black or African American,Medicaid,Spanish,Garfield Park,60624,West,Prieto Health Center,10,115,31.0,62352,2022-10-10,41.88349,-87.72013
+CCH-00020,48,Male,Black or African American,Uninsured / Self-Pay,English,South Shore,60649,South,Provident Hospital of Cook County,3,142,25.3,37684,2021-05-31,41.75932,-87.56213
+CCH-00021,43,Female,Hispanic or Latino,Employer-Sponsored PPO,Tagalog,South Shore,60649,South,Prieto Health Center,4,130,15.7,25528,2021-01-17,41.75033,-87.56499
+CCH-00022,76,Female,Hispanic or Latino,Medicare,Spanish,Garfield Park,60624,West,Cottage Grove Health Center,7,145,24.0,37586,2024-07-22,41.86961,-87.7209
+CCH-00023,51,Male,Hispanic or Latino,Employer-Sponsored PPO,English,Chatham,60619,South,Robbins Health Center,5,123,,35089,2024-02-04,41.7343,-87.62889
+CCH-00024,72,Female,Black or African American,Medicare,English,Austin,60644,West,John H. Stroger Jr. Hospital,1,117,28.4,45452,2023-01-03,41.90064,-87.76152
+CCH-00025,54,Female,Black or African American,Medicaid,Spanish,Rogers Park,60626,Far North,Ruth M. Rothstein CORE Center,1,93,28.0,23673,2023-04-25,42.01688,-87.65723
+CCH-00026,76,Male,Hispanic or Latino,Dual Eligible (Medicare/Medicaid),English,Roseland,60628,Far South,Robbins Health Center,1,113,33.1,30723,2022-04-01,41.69745,-87.63522
+CCH-00027,62,Female,Two or More Races,ACA Marketplace Silver,English,Uptown,60640,Far North,Prieto Health Center,4,96,31.3,26063,2023-03-30,41.95659,-87.65845
+CCH-00028,83,Female,Hispanic or Latino,Medicare,Spanish,Rogers Park,60626,Far North,Near South Health Center,4,131,22.7,36868,2023-06-13,42.02328,-87.67704
+CCH-00029,34,Male,Two or More Races,Employer-Sponsored HMO,Spanish,Austin,60644,West,Cottage Grove Health Center,2,120,40.8,26624,2023-01-16,41.8912,-87.7548
+CCH-00030,28,Female,Hispanic or Latino,CountyCare Health Plan,English,Garfield Park,60624,West,Ruth M. Rothstein CORE Center,2,109,36.5,29192,2022-01-28,41.87541,-87.72822
+CCH-00031,67,Female,White,Medicare,English,Albany Park,60625,North,Near South Health Center,2,113,25.3,20909,2023-08-11,41.97831,-87.72028
+CCH-00032,59,Male,Black or African American,Employer-Sponsored HMO,Spanish,Uptown,60640,Far North,Cottage Grove Health Center,2,86,29.5,29530,2024-10-09,41.95334,-87.65284
+CCH-00033,92,Male,Black or African American,Dual Eligible (Medicare/Medicaid),Spanish,Roseland,60628,Far South,Robbins Health Center,1,139,28.1,36598,2023-03-30,41.69218,-87.62757
+CCH-00034,47,Female,Hispanic or Latino,Employer-Sponsored PPO,English,Pilsen,60608,Southwest,Provident Hospital of Cook County,1,98,21.4,42338,2023-07-24,41.84777,-87.64718
+CCH-00035,32,Male,White,CountyCare Health Plan,English,Little Village,60623,Southwest,Ruth M. Rothstein CORE Center,2,120,28.5,10000,2023-08-31,41.84918,-87.70732
+CCH-00036,41,Female,Black or African American,Medicare,English,Near West Side,60612,Central,Prieto Health Center,1,153,29.4,62450,2021-06-15,41.86764,-87.67598
+CCH-00037,45,Female,Hispanic or Latino,ACA Marketplace Silver,Spanish,Albany Park,60625,North,John H. Stroger Jr. Hospital,2,120,33.8,38551,2024-03-25,41.96728,-87.72753
+CCH-00038,47,Male,Asian,Employer-Sponsored PPO,English,Pilsen,60608,Southwest,Englewood Health Center,3,94,21.8,53294,2023-06-12,41.85735,-87.64926
+CCH-00039,55,Male,Hispanic or Latino,Medicaid,English,Garfield Park,60624,West,John H. Stroger Jr. Hospital,4,101,32.6,51409,2021-06-21,41.87023,-87.71883
+CCH-00040,63,Female,Two or More Races,Medicaid,English,Bronzeville,60653,South,Provident Hospital of Cook County,1,130,4.2,21090,2023-08-22,41.82013,-87.60661
+CCH-00041,31,Male,White,Medicaid,English,Uptown,60640,Far North,Cottage Grove Health Center,3,144,39.0,63597,2021-09-16,41.95201,-87.66737
+CCH-00042,33,Female,White,Medicaid,Polish,Rogers Park,60626,Far North,Provident Hospital of Cook County,1,128,25.1,60265,2024-03-31,42.01262,-87.66256
+CCH-00043,64,Male,White,Medicaid,English,Humboldt Park,60651,West,Provident Hospital of Cook County,6,121,24.9,51862,2024-03-05,41.90496,-87.69208
+CCH-00044,32,Female,Black or African American,CountyCare Health Plan,Cantonese,Chatham,60619,South,Robbins Health Center,2,139,26.9,10000,2021-11-10,41.7386,-87.61429
+CCH-00045,42,Male,Black or African American,Employer-Sponsored HMO,English,Little Village,60623,Southwest,Provident Hospital of Cook County,8,154,28.6,55874,2022-07-26,41.84475,-87.70413
+CCH-00046,33,Female,Black or African American,CountyCare Health Plan,English,Chatham,60619,South,Englewood Health Center,1,116,30.7,35829,2024-02-13,41.73575,-87.61437
+CCH-00047,43,Male,Black or African American,CountyCare Health Plan,English,Bridgeport,60616,South,Arlington Heights Health Center,2,107,22.7,29117,2022-05-14,41.83568,-87.64234
+CCH-00048,28,Male,Black or African American,Medicare,Spanish,Bronzeville,60653,South,Near South Health Center,5,122,36.9,30559,2021-09-02,41.82055,-87.61939
+CCH-00049,57,Female,Black or African American,Medicare,English,Rogers Park,60626,Far North,Cottage Grove Health Center,1,150,35.5,39755,2023-01-10,42.0237,-87.66926
+CCH-00050,39,Male,Black or African American,Employer-Sponsored PPO,English,Bridgeport,60616,South,Englewood Health Center,3,168,20.3,72955,2023-08-20,41.84972,-87.64456
+CCH-00051,46,Female,Black or African American,Employer-Sponsored HMO,English,Humboldt Park,60651,West,Englewood Health Center,18,157,35.7,56431,2021-06-24,41.89922,-87.71478
+CCH-00052,22,Female,Hispanic or Latino,Medicare,English,Albany Park,60625,North,John H. Stroger Jr. Hospital,11,108,36.4,53846,2024-06-02,41.96471,-87.70214
+CCH-00053,37,Female,Hispanic or Latino,Medicaid,English,Near West Side,60612,Central,Englewood Health Center,1,117,26.0,13975,2021-03-08,41.86461,-87.67605
+CCH-00054,20,Male,Black or African American,Employer-Sponsored PPO,English,Roseland,60628,Far South,Cottage Grove Health Center,1,132,28.1,46820,2024-08-19,41.71374,-87.62231
+CCH-00055,76,Male,White,Medicare,Spanish,Chatham,60619,South,Englewood Health Center,3,,21.2,46234,2023-10-22,41.74308,-87.62034
+CCH-00056,69,Male,Hispanic or Latino,CountyCare Health Plan,Arabic,Austin,60644,West,Englewood Health Center,1,109,28.7,19971,2024-03-26,41.87834,-87.75014
+CCH-00057,23,Female,Hispanic or Latino,Uninsured / Self-Pay,English,Rogers Park,60626,Far North,Near South Health Center,1,96,31.6,51959,2024-10-04,42.00748,-87.66057
+CCH-00058,20,Female,Black or African American,Medicare,Polish,Roseland,60628,Far South,Arlington Heights Health Center,6,126,40.1,38233,2023-11-20,41.7065,-87.62636
+CCH-00059,41,Female,Black or African American,Employer-Sponsored PPO,English,Rogers Park,60626,Far North,Englewood Health Center,8,127,27.0,38371,2023-06-17,42.01709,-87.66624
+CCH-00060,24,Male,Other,Medicaid,Cantonese,South Shore,60649,South,Robbins Health Center,4,105,36.0,68603,2021-08-29,41.76213,-87.57343
+CCH-00061,39,Female,Hispanic or Latino,Employer-Sponsored HMO,Cantonese,Little Village,60623,Southwest,Prieto Health Center,7,150,26.7,65884,2021-10-07,41.86021,-87.72159
+CCH-00062,10,Female,Hispanic or Latino,Employer-Sponsored HMO,Spanish,Chatham,60619,South,Ruth M. Rothstein CORE Center,3,145,24.3,54759,2023-07-04,41.72608,-87.60722
+CCH-00063,27,Female,White,CountyCare Health Plan,English,Near West Side,60612,Central,Near South Health Center,5,121,30.6,23356,2023-08-27,41.88882,-87.67114
+CCH-00064,29,Non-Binary,Black or African American,Uninsured / Self-Pay,English,Little Village,60623,Southwest,Robbins Health Center,3,100,19.5,44848,2021-07-24,41.85974,-87.72511
+CCH-00065,24,Female,Hispanic or Latino,Employer-Sponsored HMO,English,Little Village,60623,Southwest,Near South Health Center,7,138,24.7,47557,2024-10-13,41.85425,-87.72095
+CCH-00066,41,Male,Black or African American,Employer-Sponsored HMO,English,Austin,60644,West,Provident Hospital of Cook County,13,99,29.0,13090,2023-06-08,41.89412,-87.77196
+CCH-00067,55,Female,Black or African American,  Medicare  ,English,Austin,60644,West,Prieto Health Center,3,131,29.3,28579,2023-04-24,41.87698,-87.75512
+CCH-00068,79,Male,Hispanic or Latino,Medicare,English,Near West Side,60612,Central,John H. Stroger Jr. Hospital,8,141,26.9,29571,2023-08-11,41.87433,-87.66081
+CCH-00069,31,Male,Black or African American,CountyCare Health Plan,Tagalog,Uptown,60640,Far North,Robbins Health Center,1,131,21.6,28862,2021-08-07,41.97966,-87.64759
+CCH-00070,62,Non-Binary,White,ACA Marketplace Silver,Polish,Uptown,60640,Far North,Robbins Health Center,5,125,29.7,66568,2022-08-10,41.96267,-87.66806
+CCH-00071,49,Female,Hispanic or Latino,ACA Marketplace Silver,Cantonese,Roseland,60628,Far South,John H. Stroger Jr. Hospital,6,136,33.8,,2022-09-25,41.71163,-87.62022
+CCH-00072,73,Female,Other,Medicare,English,Pilsen,60608,Southwest,Englewood Health Center,1,151,31.4,21636,2021-12-03,41.84647,-87.66734
+CCH-00073,57,Female,Black or African American,Employer-Sponsored PPO,Spanish,Humboldt Park,60651,West,Arlington Heights Health Center,2,101,28.6,35408,2024-02-16,41.90125,-87.71474
+CCH-00074,27,Male,Black or African American,Employer-Sponsored HMO,Spanish,Uptown,60640,Far North,Robbins Health Center,4,121,33.2,33013,2021-02-21,41.95866,-87.65687
+CCH-00075,26,Male,Black or African American,CountyCare Health Plan,Arabic,Little Village,60623,Southwest,Englewood Health Center,1,111,29.1,57780,2023-10-06,41.85808,-87.71983
+CCH-00076,33,Male,Black or African American,Employer-Sponsored PPO,English,Bridgeport,60616,South,Provident Hospital of Cook County,4,135,32.8,33156,2023-09-30,41.84978,-87.65113
+CCH-00077,42,Female,Hispanic or Latino,Employer-Sponsored HMO,Polish,Near West Side,60612,Central,Near South Health Center,2,115,29.5,45590,2021-05-05,41.88506,-87.67532
+CCH-00078,58,Male,Black or African American,Medicaid,Tagalog,Uptown,60640,Far North,Cottage Grove Health Center,6,111,21.1,30897,2021-05-21,41.96998,-87.63917
+CCH-00079,52,Male,Black or African American,ACA Marketplace Silver,English,Roseland,60628,Far South,Englewood Health Center,1,115,30.5,31670,2021-12-24,41.71702,-87.63991
+CCH-00080,27,Male,Hispanic or Latino,Employer-Sponsored PPO,Spanish,Austin,60644,West,Robbins Health Center,6,147,25.6,37361,2023-07-08,41.88083,-87.77743
+CCH-00081,3,Female,Hispanic or Latino,Medicaid,English,Roseland,60628,Far South,Robbins Health Center,2,125,35.5,53850,2023-04-03,41.71726,-87.62023
+CCH-00082,10,Female,Hispanic or Latino,CountyCare Health Plan,English,Englewood,60621,South,Prieto Health Center,3,137,26.3,33502,2022-08-27,41.76677,-87.65005
+CCH-00083,36,Male,Asian,CountyCare Health Plan,English,Roseland,60628,Far South,Robbins Health Center,2,96,33.5,47495,2023-03-28,41.70654,-87.61404
+CCH-00084,38,Female,Hispanic or Latino,Medicaid,Spanish,Garfield Park,60624,West,Near South Health Center,3,112,22.0,27378,2021-09-24,41.88063,-87.73476
+CCH-00085,42,female,Black or African American,ACA Marketplace Silver,English,Uptown,60640,Far North,Englewood Health Center,1,133,25.0,37568,2022-12-22,41.97903,-87.65561
+CCH-00086,12,Female,White,CountyCare Health Plan,Spanish,Albany Park,60625,North,Prieto Health Center,4,129,23.5,17406,2021-02-23,41.96433,-87.70652
+CCH-00087,61,Male,Hispanic or Latino,ACA Marketplace Silver,English,Garfield Park,60624,West,Ruth M. Rothstein CORE Center,12,128,34.4,48725,2024-07-20,41.87659,-87.73732
+CCH-00088,32,Female,Black or African American,Employer-Sponsored HMO,,South Shore,60649,South,Ruth M. Rothstein CORE Center,1,138,33.9,46490,2024-06-19,41.76725,-87.56669
+CCH-00089,25,Female,Black or African American,CountyCare Health Plan,Spanish,Near West Side,60612,Central,Robbins Health Center,4,136,34.0,42517,2023-12-16,41.88205,-87.67489
+CCH-00090,45,Female,Black or African American,Medicare,English,Near West Side,60612,Central,Arlington Heights Health Center,1,124,24.3,35647,2021-12-26,41.88242,-87.65538
+CCH-00091,22,Female,Asian,Medicaid,Spanish,Pilsen,60608,Southwest,Arlington Heights Health Center,2,117,25.3,27799,2024-03-20,41.86705,-87.67003
+CCH-00092,8,Female,Hispanic or Latino,Medicaid,English,Rogers Park,60626,Far North,Arlington Heights Health Center,2,149,38.7,53344,2024-04-21,42.0082,-87.66431
+CCH-00093,46,Male,Asian,CountyCare Health Plan,English,Humboldt Park,60651,West,Ruth M. Rothstein CORE Center,1,114,28.3,47870,2022-04-29,41.90251,-87.71358
+CCH-00094,64,Female,Hispanic or Latino,Employer-Sponsored HMO,Spanish,Roseland,60628,Far South,Near South Health Center,2,148,22.3,44651,2024-07-08,41.70884,-87.62608
+CCH-00095,25,Male,Black or African American,CountyCare Health Plan,Spanish,Bronzeville,60653,South,Provident Hospital of Cook County,7,105,33.3,20557,2024-08-13,41.82522,-87.62369
+CCH-00096,26,Male,Hispanic or Latino,ACA Marketplace Silver,English,Roseland,60628,Far South,Robbins Health Center,1,125,30.9,40835,2023-10-24,41.71217,-87.63877
+CCH-00097,60,Male,Other,Employer-Sponsored PPO,English,Albany Park,60625,North,Ruth M. Rothstein CORE Center,2,117,27.2,54054,2023-01-16,41.97268,-87.72823
+CCH-00098,34,Male,Hispanic or Latino,Employer-Sponsored HMO,English,Uptown,60640,Far North,Ruth M. Rothstein CORE Center,1,144,21.7,10000,2022-11-14,41.96084,-87.65841
+CCH-00099,37,Male,Black or African American,Medicare,Spanish,Englewood,60621,South,Ruth M. Rothstein CORE Center,5,147,47.2,20121,2024-10-04,41.78265,-87.63016
+CCH-00100,53,Male,Black or African American,Medicaid,Arabic,Albany Park,60625,North,Robbins Health Center,1,122,29.9,42877,2022-01-29,41.96415,-87.71852
+CCH-00101,51,Male,Asian,Employer-Sponsored HMO,English,Chatham,60619,South,Arlington Heights Health Center,1,119,33.3,14035,2021-11-12,41.74816,-87.6132
+CCH-00102,50,Female,Hispanic or Latino,Uninsured / Self-Pay,Spanish,Pilsen,60608,Southwest,Robbins Health Center,3,117,24.6,65088,2022-04-25,41.85213,-87.64971
+CCH-00103,13,Female,Hispanic or Latino,Medicaid,English,Rogers Park,60626,Far North,Ruth M. Rothstein CORE Center,6,131,31.2,47273,2022-02-13,42.02393,-87.67115
+CCH-00104,23,Male,Black or African American,Medicaid,English,Humboldt Park,60651,West,Robbins Health Center,1,100,,52819,2023-11-18,41.90854,-87.70152
+CCH-00105,50,Female,Hispanic or Latino,CountyCare Health Plan,English,Austin,60644,West,Cottage Grove Health Center,2,143,35.9,52776,2021-02-27,41.88805,-87.76711
+CCH-00106,41,Female,White,Medicaid,English,Garfield Park,60624,West,John H. Stroger Jr. Hospital,1,133,29.1,46894,2021-06-12,41.89129,-87.71662
+CCH-00107,69,Female,Hispanic or Latino,Medicare,Spanish,Roseland,60628,Far South,Robbins Health Center,1,117,34.9,25895,2021-05-09,41.69864,-87.63097
+CCH-00108,68,Female,Hispanic or Latino,Medicare,English,Englewood,60621,South,Provident Hospital of Cook County,13,127,34.9,46066,2023-12-09,41.77354,-87.65825
+CCH-00109,1,Female,White,Medicaid,English,Little Village,60623,Southwest,Provident Hospital of Cook County,1,123,26.9,31753,2022-12-08,41.83211,-87.71729
+CCH-00110,20,Female,White,Medicaid,English,Bronzeville,60653,South,Robbins Health Center,1,112,34.5,57028,2024-07-17,41.82638,-87.60859
+CCH-00111,51,Female,Hispanic or Latino,Uninsured / Self-Pay,Tagalog,Roseland,60628,Far South,Prieto Health Center,1,124,28.5,27581,2023-08-28,41.69598,-87.63874
+CCH-00112,27,Male,Hispanic or Latino,CountyCare Health Plan,English,Bronzeville,60653,South,Arlington Heights Health Center,13,147,21.6,38447,2022-11-26,41.8182,-87.60902
+CCH-00113,66,MALE,Black or African American,Employer-Sponsored PPO,English,Bridgeport,60616,South,Provident Hospital of Cook County,2,117,26.6,54676,2021-06-13,41.83413,-87.65078
+CCH-00114,44,Female,Other,CountyCare Health Plan,English,Little Village,60623,Southwest,John H. Stroger Jr. Hospital,4,116,22.6,48668,2021-06-03,41.83207,-87.7028
+CCH-00115,46,Female,Black or African American,Medicaid,Spanish,Chatham,60619,South,Near South Health Center,2,116,21.2,29056,2023-01-12,41.74423,-87.60556
+CCH-00116,28,Female,Black or African American,CountyCare Health Plan,English,Roseland,60628,Far South,Provident Hospital of Cook County,5,90,22.7,38095,2021-02-23,41.69231,-87.63587
+CCH-00117,34,Female,Other,Employer-Sponsored PPO,English,Little Village,60623,Southwest,Ruth M. Rothstein CORE Center,3,121,33.5,27676,2021-06-01,41.83724,-87.71054
+CCH-00118,70,Male,Black or African American,Medicare,English,Bronzeville,60653,South,Ruth M. Rothstein CORE Center,1,138,25.7,46716,2024-07-30,41.83004,-87.61171
+CCH-00119,78,Female,White,Medicare,English,Little Village,60623,Southwest,Provident Hospital of Cook County,2,123,37.6,37935,2021-05-15,41.83159,-87.71228
+CCH-00120,16,Male,Hispanic or Latino,Medicaid,English,Humboldt Park,60651,West,Ruth M. Rothstein CORE Center,4,121,34.7,75907,2024-02-04,41.89096,-87.70749
+CCH-00121,10,Female,Two or More Races,Medicaid,English,Humboldt Park,60651,West,Prieto Health Center,7,140,28.4,60717,2022-08-05,41.90274,-87.70788
+CCH-00122,38,Female,Hispanic or Latino,Employer-Sponsored HMO,English,Albany Park,60625,North,Near South Health Center,1,123,30.0,33026,2024-02-29,41.9561,-87.71017
+CCH-00123,76,Female,Hispanic or Latino,Dual Eligible (Medicare/Medicaid),English,Near West Side,60612,Central,Englewood Health Center,11,117,18.0,41092,2024-08-07,41.88241,-87.6658
+CCH-00124,40,Female,Black or African American,CountyCare Health Plan,English,Austin,60644,West,Near South Health Center,13,113,32.2,49272,2022-12-09,41.88034,-87.76653
+CCH-00125,32,Female,Two or More Races,Medicaid,Spanish,South Shore,60649,South,Arlington Heights Health Center,11,120,37.1,21111,2022-05-24,41.75909,-87.58577
+CCH-00126,73,Female,Black or African American,Medicare,English,Englewood,60621,South,Arlington Heights Health Center,3,115,28.8,59136,2023-11-02,41.77975,-87.64286
+CCH-00127,60,Male,White,CountyCare Health Plan,English,Chatham,60619,South,Englewood Health Center,5,129,24.5,50079,2023-01-20,41.74563,-87.61488
+CCH-00128,36,Male,White,CountyCare Health Plan,English,Humboldt Park,60651,West,Provident Hospital of Cook County,13,121,20.3,55610,2021-09-21,41.89879,-87.70349
+CCH-00129,24,Male,Black or African American,Medicaid,Spanish,Near West Side,60612,Central,Robbins Health Center,3,158,22.9,26074,2023-11-30,41.87747,-87.66626
+CCH-00130,35,Female,White,CountyCare Health Plan,English,Rogers Park,60626,Far North,Englewood Health Center,6,145,22.5,55626,2023-08-31,42.01658,-87.67602
+CCH-00131,70,Male,Black or African American,Medicare,Spanish,Bridgeport,60616,South,Cottage Grove Health Center,3,123,32.3,57780,2021-04-16,41.84756,-87.64482
+CCH-00132,21,Female,Black or African American,Employer-Sponsored PPO,English,Uptown,60640,Far North,Arlington Heights Health Center,2,105,30.4,56100,2021-11-07,41.95807,-87.65112
+CCH-00133,31,Male,Black or African American,Medicaid,Spanish,Bridgeport,60616,South,Prieto Health Center,2,114,34.3,69255,2023-02-11,41.82327,-87.65956
+CCH-00134,37,Male,Hispanic or Latino,  Medicaid  ,Arabic,Bridgeport,60616,South,Englewood Health Center,2,138,43.8,21669,2024-02-17,41.84182,-87.63959
+CCH-00135,50,Male,White,Uninsured / Self-Pay,English,Little Village,60623,Southwest,Provident Hospital of Cook County,4,101,16.6,68730,2024-03-20,41.84031,-87.71844
+CCH-00136,65,Male,Asian,Medicare,Spanish,South Shore,60649,South,Robbins Health Center,1,89,15.3,29070,2022-03-15,41.74686,-87.56134
+CCH-00137,43,Male,Black or African American,ACA Marketplace Silver,English,Rogers Park,60626,Far North,Provident Hospital of Cook County,2,117,19.8,42173,2023-04-27,42.00158,-87.68348
+CCH-00138,77,Non-Binary,Hispanic or Latino,CountyCare Health Plan,English,Englewood,60621,South,Englewood Health Center,2,157,37.6,47945,2022-10-20,41.77701,-87.63025
+CCH-00139,39,Male,Asian,Medicaid,English,Chatham,60619,South,John H. Stroger Jr. Hospital,6,116,32.2,62501,2023-03-25,41.7541,-87.6016
+CCH-00140,57,Female,Black or African American,Uninsured / Self-Pay,Tagalog,South Shore,60649,South,Prieto Health Center,3,116,38.9,26243,2023-12-10,41.76264,-87.58678
+CCH-00141,35,Female,Black or African American,Employer-Sponsored PPO,English,Englewood,60621,South,Englewood Health Center,4,128,31.2,58598,2024-03-08,41.78673,-87.63885
+CCH-00142,-3,Female,Black or African American,Medicaid,English,Bronzeville,60653,South,Cottage Grove Health Center,2,113,29.3,64676,2021-01-14,41.8126,-87.61292
+CCH-00143,61,Male,Hispanic or Latino,Medicaid,English,Austin,60644,West,Ruth M. Rothstein CORE Center,4,122,39.1,22452,2023-04-11,41.88345,-87.76821
+CCH-00144,50,Male,Hispanic or Latino,Uninsured / Self-Pay,English,South Shore,60649,South,Near South Health Center,5,101,36.7,23973,2023-05-02,41.75663,-87.58337
+CCH-00145,57,Male,Hispanic or Latino,Medicaid,Spanish,Uptown,60640,Far North,Provident Hospital of Cook County,1,97,34.3,10000,2024-03-01,41.97344,-87.64211
+CCH-00146,53,Female,Hispanic or Latino,Medicaid,English,Chatham,60619,South,Prieto Health Center,6,144,21.7,43537,2023-07-02,41.74161,-87.62551
+CCH-00147,41,Female,Black or African American,Medicaid,English,Roseland,60628,Far South,Provident Hospital of Cook County,2,127,26.2,18990,2021-04-03,41.69925,-87.63935
+CCH-00148,82,Non-Binary,White,Dual Eligible (Medicare/Medicaid),Polish,Little Village,60623,Southwest,Arlington Heights Health Center,17,138,19.7,59739,2023-02-06,41.83175,-87.71663
+CCH-00149,61,Male,Black or African American,ACA Marketplace Silver,Tagalog,Uptown,60640,Far North,Arlington Heights Health Center,1,117,39.3,33953,2023-12-20,41.97704,-87.66431
+CCH-00150,48,Female,Black or African American,ACA Marketplace Silver,English,Bridgeport,60616,South,Englewood Health Center,10,81,28.0,30266,2022-01-22,41.83773,-87.64774
+CCH-00151,53,Male,Hispanic or Latino,Medicaid,English,Garfield Park,60624,West,John H. Stroger Jr. Hospital,5,110,24.9,44737,2022-05-17,41.89307,-87.73028
+CCH-00152,54,Female,Hispanic or Latino,ACA Marketplace Silver,English,Albany Park,60625,North,Near South Health Center,2,157,33.7,56417,2022-05-01,41.9831,-87.72238
+CCH-00153,49,Female,Hispanic or Latino,Employer-Sponsored HMO,English,Rogers Park,60626,Far North,Near South Health Center,4,139,29.5,24335,2024-08-10,42.02079,-87.65765
+CCH-00154,38,Female,White,Medicaid,English,Roseland,60628,Far South,Robbins Health Center,3,130,35.7,33893,2021-04-29,41.70614,-87.63277
+CCH-00155,55,Female,Hispanic or Latino,CountyCare Health Plan,Spanish,Uptown,60640,Far North,John H. Stroger Jr. Hospital,2,134,27.1,35214,2022-07-04,41.95317,-87.65481
+CCH-00156,76,Male,Black or African American,CountyCare Health Plan,Arabic,Uptown,60640,Far North,John H. Stroger Jr. Hospital,10,138,31.2,36113,2022-03-10,41.96757,-87.65392
+CCH-00157,67,Female,Black or African American,Medicare,English,Rogers Park,60626,Far North,Robbins Health Center,4,125,26.4,52100,2023-12-29,42.01551,-87.6731
+CCH-00158,61,Male,Black or African American,ACA Marketplace Silver,English,Bridgeport,60616,South,Cottage Grove Health Center,1,113,21.1,31033,2021-10-26,41.83548,-87.63851
+CCH-00159,44,Female,Hispanic or Latino,CountyCare Health Plan,Spanish,Near West Side,60612,Central,Englewood Health Center,12,112,24.2,23555,2023-09-28,41.8708,-87.6533
+CCH-00160,62,Female,Other,ACA Marketplace Silver,Arabic,Bridgeport,60616,South,Prieto Health Center,7,150,38.0,51297,2021-03-11,41.8378,-87.65818
+CCH-00161,48,Female,Hispanic or Latino,Medicaid,English,Uptown,60640,Far North,Robbins Health Center,3,126,35.7,38841,2024-09-12,41.95774,-87.64708
+CCH-00162,69,Female,White,Dual Eligible (Medicare/Medicaid),Cantonese,South Shore,60649,South,Provident Hospital of Cook County,3,127,28.9,60215,2021-07-17,41.74611,-87.56561
+CCH-00163,46,Male,Other,Employer-Sponsored HMO,English,Humboldt Park,60651,West,Provident Hospital of Cook County,16,140,27.5,34716,2024-08-31,41.89839,-87.70482
+CCH-00164,32,Female,Hispanic or Latino,CountyCare Health Plan,Spanish,Uptown,60640,Far North,Provident Hospital of Cook County,9,134,30.0,72152,2023-12-18,41.95108,-87.66316
+CCH-00165,38,Female,Hispanic or Latino,ACA Marketplace Silver,English,Garfield Park,60624,West,Near South Health Center,11,106,20.1,24100,2021-02-02,41.86863,-87.70973
+CCH-00166,42,Female,Hispanic or Latino,ACA Marketplace Silver,English,Englewood,60621,South,Arlington Heights Health Center,6,110,27.5,31997,2021-10-14,41.78172,-87.6413
+CCH-00167,46,Female,Two or More Races,Employer-Sponsored PPO,English,Near West Side,60612,Central,Near South Health Center,4,111,29.7,20877,2021-03-02,41.88456,-87.66808
+CCH-00168,50,Female,Hispanic or Latino,Medicaid,Spanish,Englewood,60621,South,Provident Hospital of Cook County,2,146,21.0,57171,2021-06-18,41.78519,-87.63848
+CCH-00169,57,Female,Black or African American,CountyCare Health Plan,English,Humboldt Park,60651,West,Ruth M. Rothstein CORE Center,2,139,22.8,32475,2023-06-02,41.88736,-87.70775
+CCH-00170,63,female,Hispanic or Latino,Medicaid,Spanish,Rogers Park,60626,Far North,Prieto Health Center,3,128,31.1,51706,2022-05-13,42.01793,-87.65909
+CCH-00171,56,Female,White,Medicare,English,Humboldt Park,60651,West,Cottage Grove Health Center,3,136,23.6,26152,2024-07-04,41.89222,-87.70872
+CCH-00172,48,Female,Black or African American,Medicare,Spanish,Chatham,60619,South,Ruth M. Rothstein CORE Center,2,127,32.1,34515,2022-09-08,41.74461,-87.60488
+CCH-00173,28,Male,White,Uninsured / Self-Pay,English,South Shore,60649,South,Englewood Health Center,2,164,31.9,33577,2023-03-16,41.76765,-87.57101
+CCH-00174,58,Male,Hispanic or Latino,Employer-Sponsored PPO,English,Austin,60644,West,Provident Hospital of Cook County,4,125,31.6,48426,2023-04-18,41.90419,-87.76515
+CCH-00175,46,Female,Hispanic or Latino,CountyCare Health Plan,English,Pilsen,60608,Southwest,Arlington Heights Health Center,1,135,37.2,33095,2024-01-19,41.84342,-87.64158
+CCH-00176,56,Male,Hispanic or Latino,CountyCare Health Plan,English,Humboldt Park,60651,West,Arlington Heights Health Center,12,106,27.6,38986,2022-11-11,41.91027,-87.69727
+CCH-00177,45,Female,Hispanic or Latino,CountyCare Health Plan,Spanish,Rogers Park,60626,Far North,Prieto Health Center,2,145,31.1,39155,2021-11-05,42.01503,-87.67837
+CCH-00178,7,Female,Black or African American,Medicaid,English,Bridgeport,60616,South,Robbins Health Center,2,146,26.7,24754,2021-07-19,41.82565,-87.65434
+CCH-00179,36,Female,Asian,Employer-Sponsored PPO,Spanish,Chatham,60619,South,Prieto Health Center,3,153,25.4,52731,2021-12-24,41.73629,-87.62572
+CCH-00180,15,Male,Hispanic or Latino,Medicaid,English,Englewood,60621,South,Arlington Heights Health Center,1,132,29.4,50608,2023-03-08,41.78401,-87.64534
+CCH-00181,37,Male,Hispanic or Latino,Medicare,English,Roseland,60628,Far South,Robbins Health Center,12,98,26.2,52629,2023-12-17,41.71616,-87.63439
+CCH-00182,40,Female,Black or African American,Employer-Sponsored PPO,English,Little Village,60623,Southwest,Provident Hospital of Cook County,1,130,32.1,47215,2024-10-08,41.84932,-87.70449
+CCH-00183,58,Female,Hispanic or Latino,CountyCare Health Plan,English,Pilsen,60608,Southwest,Ruth M. Rothstein CORE Center,1,148,27.5,47993,2024-02-11,41.85909,-87.65406
+CCH-00184,60,Male,Hispanic or Latino,CountyCare Health Plan,Spanish,Austin,60644,West,Arlington Heights Health Center,2,107,32.0,22345,2023-10-05,41.89014,-87.77315
+CCH-00185,50,Male,White,Medicare,English,South Shore,60649,South,Robbins Health Center,3,127,24.3,32425,2024-01-31,41.74658,-87.58325
+CCH-00186,2,Male,White,Medicaid,Spanish,Little Village,60623,Southwest,Englewood Health Center,2,112,22.2,61999,2021-03-08,41.84719,-87.69921
+CCH-00187,8,Female,Hispanic or Latino,CountyCare Health Plan,English,Bridgeport,60616,South,Ruth M. Rothstein CORE Center,6,145,31.0,18459,2022-02-28,41.83904,-87.65318
+CCH-00188,23,Female,Hispanic or Latino,Uninsured / Self-Pay,Cantonese,Bridgeport,60616,South,Provident Hospital of Cook County,11,121,31.3,10000,2021-10-05,41.83018,-87.64652
+CCH-00189,83,Female,Black or African American,Medicare,Spanish,Chatham,60619,South,Arlington Heights Health Center,1,124,22.9,21371,2023-09-30,41.72998,-87.62461
+CCH-00190,41,Male,Two or More Races,Medicaid,English,Roseland,60628,Far South,Robbins Health Center,3,130,36.0,15248,2022-11-02,41.69279,-87.62453
+CCH-00191,87,Male,Black or African American,Medicare,English,Bridgeport,60616,South,Cottage Grove Health Center,2,149,30.9,25198,2023-10-11,41.83215,-87.6618
+CCH-00192,26,Female,Hispanic or Latino,Medicaid,Spanish,Bronzeville,60653,South,John H. Stroger Jr. Hospital,9,116,31.9,52797,2021-09-12,41.83682,-87.61013
+CCH-00193,65,Non-Binary,Two or More Races,Medicare,English,Garfield Park,60624,West,Near South Health Center,1,125,24.1,18110,2022-05-28,41.87036,-87.718
+CCH-00194,70,Male,Black or African American,Dual Eligible (Medicare/Medicaid),English,Roseland,60628,Far South,Ruth M. Rothstein CORE Center,1,133,28.1,36022,2024-04-30,41.69702,-87.62034
+CCH-00195,35,Non-Binary,Black or African American,Medicaid,Spanish,Pilsen,60608,Southwest,Provident Hospital of Cook County,2,98,26.7,52969,2022-10-04,41.86202,-87.65697
+CCH-00196,61,Male,Hispanic or Latino,Medicaid,English,Uptown,60640,Far North,Cottage Grove Health Center,5,95,35.4,27321,2024-07-10,41.95509,-87.65238
+CCH-00197,35,Male,Two or More Races,CountyCare Health Plan,English,Englewood,60621,South,Ruth M. Rothstein CORE Center,2,129,34.8,48258,2022-05-23,41.78737,-87.64061
+CCH-00198,27,Male,Black or African American,ACA Marketplace Silver,English,Bridgeport,60616,South,Cottage Grove Health Center,2,113,40.1,49491,2023-03-14,41.8222,-87.63829
+CCH-00199,67,Female,Black or African American,CountyCare Health Plan,English,Little Village,60623,Southwest,Near South Health Center,2,120,31.6,23822,2021-09-28,41.84994,-87.72677
+CCH-00200,36,Female,Black or African American,Medicaid,Cantonese,Roseland,60628,Far South,Arlington Heights Health Center,2,123,26.1,11435,2023-11-04,41.69219,-87.62238
+CCH-00201,30,Male,Hispanic or Latino,  Medicare  ,English,Albany Park,60625,North,Ruth M. Rothstein CORE Center,2,133,20.0,23964,2024-01-04,41.97178,-87.72108
+CCH-00202,31,Female,Black or African American,Medicaid,English,Pilsen,60608,Southwest,Robbins Health Center,4,107,24.9,62520,2024-06-07,41.8631,-87.64591
+CCH-00203,46,Male,Hispanic or Latino,CountyCare Health Plan,Spanish,Bridgeport,60616,South,Englewood Health Center,2,117,28.4,10000,2021-12-08,41.82174,-87.64881
+CCH-00204,46,Male,White,Medicaid,English,Bronzeville,60653,South,Provident Hospital of Cook County,3,118,24.0,52497,2023-10-14,41.83421,-87.62484
+CCH-00205,31,Female,White,Medicaid,English,Humboldt Park,60651,West,John H. Stroger Jr. Hospital,1,119,19.8,65142,2022-05-16,41.91403,-87.69678
+CCH-00206,66,Female,Black or African American,Medicare,English,Roseland,60628,Far South,Near South Health Center,6,162,25.8,34494,2022-07-10,41.71742,-87.61778
+CCH-00207,44,Female,Hispanic or Latino,Medicaid,English,Albany Park,60625,North,Englewood Health Center,1,121,23.0,42121,2022-11-02,41.98274,-87.70078
+CCH-00208,38,Male,White,CountyCare Health Plan,English,Near West Side,60612,Central,Prieto Health Center,1,153,29.6,36549,2022-05-18,41.87332,-87.66055
+CCH-00209,22,Male,White,Employer-Sponsored HMO,Spanish,Austin,60644,West,Provident Hospital of Cook County,3,120,28.9,56570,2022-02-25,41.90413,-87.77896
+CCH-00210,92,Male,Hispanic or Latino,CountyCare Health Plan,Cantonese,Humboldt Park,60651,West,Robbins Health Center,3,146,20.1,37223,2021-06-23,41.88852,-87.71006
+CCH-00211,28,Female,Black or African American,Medicaid,Spanish,Uptown,60640,Far North,Near South Health Center,3,139,29.8,76159,2022-10-14,41.97973,-87.6612
+CCH-00212,67,Female,Hispanic or Latino,Medicare,Polish,Humboldt Park,60651,West,Cottage Grove Health Center,2,146,28.1,46051,2023-07-15,41.89213,-87.70302
+CCH-00213,62,Male,Black or African American,ACA Marketplace Silver,Spanish,Bridgeport,60616,South,Near South Health Center,3,146,26.4,26856,2023-03-23,41.8395,-87.65725
+CCH-00214,51,Female,Black or African American,Medicaid,Spanish,Little Village,60623,Southwest,Provident Hospital of Cook County,1,125,29.2,26868,2021-01-25,41.84748,-87.7124
+CCH-00215,52,Male,Black or African American,ACA Marketplace Silver,Tagalog,Uptown,60640,Far North,Cottage Grove Health Center,2,141,37.1,63129,2024-08-15,41.95332,-87.65072
+CCH-00216,54,Female,White,CountyCare Health Plan,English,Little Village,60623,Southwest,Arlington Heights Health Center,2,113,20.7,65778,2024-10-31,41.83232,-87.70118
+CCH-00217,43,Female,Hispanic or Latino,Medicare,English,Rogers Park,60626,Far North,John H. Stroger Jr. Hospital,2,143,30.9,46103,2021-06-29,42.01298,-87.67763
+CCH-00218,63,Male,White,CountyCare Health Plan,English,Roseland,60628,Far South,Robbins Health Center,9,113,22.6,37761,2022-12-06,41.70631,-87.63941
+CCH-00219,53,Female,Hispanic or Latino,Employer-Sponsored PPO,English,Garfield Park,60624,West,Cottage Grove Health Center,1,138,25.9,27498,2021-11-23,41.89072,-87.72907
+CCH-00220,63,Female,Two or More Races,CountyCare Health Plan,Tagalog,Near West Side,60612,Central,Ruth M. Rothstein CORE Center,1,93,24.5,61836,2021-12-27,41.87667,-87.64882
+CCH-00221,31,Male,Black or African American,Employer-Sponsored HMO,Tagalog,Bronzeville,60653,South,Robbins Health Center,2,142,25.9,38417,2024-01-16,41.83843,-87.61609
+CCH-00222,48,Female,Black or African American,Employer-Sponsored PPO,English,Austin,60644,West,Near South Health Center,1,137,17.3,19508,2021-05-02,41.88555,-87.76058
+CCH-00223,52,Male,Black or African American,CountyCare Health Plan,English,Humboldt Park,60651,West,Ruth M. Rothstein CORE Center,5,95,20.8,46827,2021-11-19,41.89841,-87.68874
+CCH-00224,31,Male,Black or African American,Employer-Sponsored PPO,English,Albany Park,60625,North,Ruth M. Rothstein CORE Center,2,127,27.3,30264,2023-02-14,41.97411,-87.70153
+CCH-00225,41,Male,Black or African American,Employer-Sponsored HMO,English,Pilsen,60608,Southwest,Cottage Grove Health Center,3,87,31.3,34587,2024-08-02,41.86672,-87.64818
+CCH-00226,46,NON-BINARY,Hispanic or Latino,ACA Marketplace Silver,Spanish,Englewood,60621,South,Near South Health Center,1,114,30.6,61810,2023-07-04,41.78389,-87.62941
+CCH-00227,28,Male,Asian,Uninsured / Self-Pay,English,Austin,60644,West,Arlington Heights Health Center,3,148,33.7,48879,2022-12-21,41.88718,-87.75702
+CCH-00228,64,Male,Black or African American,Medicaid,English,Englewood,60621,South,Provident Hospital of Cook County,2,108,31.0,31864,2021-06-01,41.77834,-87.63432
+CCH-00229,85,Non-Binary,Black or African American,Medicare,Arabic,Bronzeville,60653,South,Ruth M. Rothstein CORE Center,8,143,29.9,44169,2024-05-28,41.82782,-87.61459
+CCH-00230,50,Male,Black or African American,Employer-Sponsored HMO,English,Bridgeport,60616,South,Arlington Heights Health Center,3,135,26.5,38304,2024-03-16,41.84917,-87.6475
+CCH-00231,54,Male,Black or African American,Medicaid,English,Uptown,60640,Far North,Provident Hospital of Cook County,7,126,26.3,53035,2023-08-28,41.96881,-87.66231
+CCH-00232,20,Female,Black or African American,CountyCare Health Plan,English,Albany Park,60625,North,Robbins Health Center,2,127,32.3,20387,2023-08-11,41.96493,-87.71827
+CCH-00233,63,Female,Hispanic or Latino,Uninsured / Self-Pay,English,Uptown,60640,Far North,Arlington Heights Health Center,2,146,17.0,30889,2023-12-07,41.96111,-87.65206
+CCH-00234,10,Female,Hispanic or Latino,Medicaid,English,Humboldt Park,60651,West,Ruth M. Rothstein CORE Center,10,131,15.0,50288,2021-09-04,41.89904,-87.69138
+CCH-00235,53,Female,Other,CountyCare Health Plan,English,Austin,60644,West,Englewood Health Center,9,135,30.3,34939,2022-10-17,41.8883,-87.74935
+CCH-00236,33,Female,White,Medicaid,English,South Shore,60649,South,Arlington Heights Health Center,2,136,33.0,55093,2021-08-19,41.76119,-87.56249
+CCH-00237,49,Male,Asian,ACA Marketplace Silver,Spanish,Rogers Park,60626,Far North,Englewood Health Center,4,88,22.5,30081,2023-02-24,42.01779,-87.66143
+CCH-00238,55,Male,Black or African American,ACA Marketplace Silver,English,Uptown,60640,Far North,Robbins Health Center,8,140,39.0,41740,2022-07-05,41.97161,-87.66714
+CCH-00239,42,Female,Black or African American,Medicaid,Spanish,Bridgeport,60616,South,Near South Health Center,5,138,26.4,33759,2022-07-06,41.84195,-87.63453
+CCH-00240,9,Female,Hispanic or Latino,Employer-Sponsored HMO,English,Little Village,60623,Southwest,Englewood Health Center,2,138,29.7,18853,2023-11-04,41.85358,-87.70288
+CCH-00241,36,Male,Asian,CountyCare Health Plan,Spanish,Near West Side,60612,Central,Englewood Health Center,6,121,20.2,37268,2023-01-25,41.88451,-87.67082
+CCH-00242,50,Female,Hispanic or Latino,CountyCare Health Plan,English,Rogers Park,60626,Far North,Englewood Health Center,2,128,25.8,44239,2021-07-05,42.00778,-87.65618
+CCH-00243,5,Male,Hispanic or Latino,CountyCare Health Plan,Spanish,Uptown,60640,Far North,John H. Stroger Jr. Hospital,9,107,23.7,20662,2023-08-29,41.95755,-87.6621
+CCH-00244,60,Male,Asian,Medicaid,Spanish,South Shore,60649,South,Robbins Health Center,1,126,26.1,56370,2022-06-01,41.76698,-87.56872
+CCH-00245,29,Female,Hispanic or Latino,Employer-Sponsored HMO,English,Uptown,60640,Far North,Provident Hospital of Cook County,1,111,36.7,36327,2023-09-14,41.97979,-87.64312
+CCH-00246,56,Male,Black or African American,CountyCare Health Plan,English,Garfield Park,60624,West,Arlington Heights Health Center,2,116,29.2,40798,2024-09-14,41.88594,-87.73185
+CCH-00247,31,Male,Hispanic or Latino,Employer-Sponsored PPO,English,Pilsen,60608,Southwest,Cottage Grove Health Center,4,126,14.8,43775,2023-12-31,41.85285,-87.67024
+CCH-00248,37,Female,Black or African American,Medicaid,English,Uptown,60640,Far North,Prieto Health Center,10,136,35.2,24241,2022-01-10,41.97709,-87.66287
+CCH-00249,49,Male,Black or African American,Medicaid,Spanish,Pilsen,60608,Southwest,Robbins Health Center,7,137,16.3,18723,2021-04-20,41.86484,-87.66136
+CCH-00250,81,Female,Asian,Medicare,English,Chatham,60619,South,Cottage Grove Health Center,2,140,17.0,23283,2022-12-03,41.74642,-87.6131
+CCH-00251,31,Male,Black or African American,Uninsured / Self-Pay,English,Roseland,60628,Far South,Robbins Health Center,1,129,29.5,17261,2022-07-15,41.69242,-87.63002
+CCH-00252,64,Male,Two or More Races,CountyCare Health Plan,English,Englewood,60621,South,John H. Stroger Jr. Hospital,1,149,27.7,39927,2023-12-30,41.78323,-87.6393
+CCH-00253,32,Female,Asian,Medicaid,English,Uptown,60640,Far North,Provident Hospital of Cook County,3,153,27.7,43517,2023-02-25,41.95092,-87.64629
+CCH-00254,89,Female,Other,CountyCare Health Plan,English,Albany Park,60625,North,Robbins Health Center,5,137,34.8,67995,2023-01-06,41.97119,-87.71926
+CCH-00255,48,female,Black or African American,CountyCare Health Plan,Spanish,Englewood,60621,South,John H. Stroger Jr. Hospital,7,123,28.1,57779,2023-02-08,41.77114,-87.65764
+CCH-00256,92,Male,Hispanic or Latino,Medicare,English,Uptown,60640,Far North,Englewood Health Center,5,141,30.8,61398,2023-08-30,41.97588,-87.66685
+CCH-00257,65,Female,White,Medicare,English,Albany Park,60625,North,Provident Hospital of Cook County,1,126,31.4,44592,2022-08-02,41.9614,-87.71123
+CCH-00258,51,Female,Hispanic or Latino,Medicaid,Cantonese,Near West Side,60612,Central,Robbins Health Center,1,137,30.9,38552,2022-11-09,41.87014,-87.66601
+CCH-00259,65,Female,Asian,Dual Eligible (Medicare/Medicaid),English,Humboldt Park,60651,West,Robbins Health Center,2,139,38.5,47070,2022-08-30,41.91059,-87.71475
+CCH-00260,71,Female,White,Medicare,English,Uptown,60640,Far North,Ruth M. Rothstein CORE Center,4,103,22.6,67874,2024-09-20,41.96018,-87.64614
+CCH-00261,60,Male,Two or More Races,CountyCare Health Plan,English,Bronzeville,60653,South,Arlington Heights Health Center,6,122,22.3,15009,2023-09-07,41.83445,-87.62751
+CCH-00262,68,Female,White,Medicare,Spanish,Chatham,60619,South,Ruth M. Rothstein CORE Center,2,142,27.5,41002,2024-06-05,41.73078,-87.61652
+CCH-00263,33,Non-Binary,Hispanic or Latino,ACA Marketplace Silver,English,Englewood,60621,South,Near South Health Center,5,97,24.1,13423,2021-01-26,41.77929,-87.64366
+CCH-00264,26,Non-Binary,Hispanic or Latino,Employer-Sponsored HMO,English,Uptown,60640,Far North,Cottage Grove Health Center,2,116,25.8,23888,2023-09-14,41.97699,-87.65273
+CCH-00265,59,Non-Binary,Hispanic or Latino,CountyCare Health Plan,English,Austin,60644,West,Ruth M. Rothstein CORE Center,5,108,26.2,50953,2021-06-03,41.87595,-87.75097
+CCH-00266,43,Male,White,CountyCare Health Plan,English,Pilsen,60608,Southwest,Robbins Health Center,2,144,37.9,34794,2023-07-05,41.8533,-87.66425
+CCH-00267,65,Female,Hispanic or Latino,Dual Eligible (Medicare/Medicaid),English,Albany Park,60625,North,Prieto Health Center,1,127,21.7,10000,2024-02-26,41.95331,-87.72667
+CCH-00268,43,Female,White,  Employer-Sponsored HMO  ,English,Little Village,60623,Southwest,Robbins Health Center,1,130,28.2,37107,2021-08-22,41.84076,-87.70588
+CCH-00269,31,Male,Black or African American,Medicaid,English,Albany Park,60625,North,Arlington Heights Health Center,1,143,29.4,45652,2021-08-08,41.96896,-87.70834
+CCH-00270,54,Male,Asian,CountyCare Health Plan,Spanish,Near West Side,60612,Central,Provident Hospital of Cook County,3,117,22.6,27913,2023-07-12,41.8809,-87.67507
+CCH-00271,48,Male,Hispanic or Latino,CountyCare Health Plan,Cantonese,Albany Park,60625,North,Ruth M. Rothstein CORE Center,1,125,29.5,31138,2024-03-30,41.98136,-87.70424
+CCH-00272,33,Female,White,ACA Marketplace Silver,English,Garfield Park,60624,West,Near South Health Center,3,107,32.4,50271,2022-08-26,41.87794,-87.70811
+CCH-00273,37,Female,Hispanic or Latino,Employer-Sponsored PPO,English,Bridgeport,60616,South,Cottage Grove Health Center,5,100,23.3,10000,2024-07-02,41.83783,-87.65428
+CCH-00274,66,Non-Binary,Black or African American,Medicare,English,Englewood,60621,South,Robbins Health Center,3,144,25.4,23569,2024-04-08,41.77992,-87.63747
+CCH-00275,46,Female,Hispanic or Latino,Medicaid,English,Chatham,60619,South,John H. Stroger Jr. Hospital,2,95,32.1,10000,2022-02-14,41.73867,-87.62862
+CCH-00276,42,Female,White,Medicaid,English,Roseland,60628,Far South,Prieto Health Center,5,117,24.4,33574,2022-04-05,41.69885,-87.61739
+CCH-00277,53,Female,White,CountyCare Health Plan,Spanish,Uptown,60640,Far North,Prieto Health Center,1,98,28.3,60273,2021-04-21,41.95221,-87.65685
+CCH-00278,54,Male,Hispanic or Latino,CountyCare Health Plan,Spanish,Garfield Park,60624,West,Cottage Grove Health Center,2,94,32.3,59764,2022-02-01,41.88541,-87.71621
+CCH-00279,51,Female,Black or African American,Medicaid,Spanish,Pilsen,60608,Southwest,John H. Stroger Jr. Hospital,3,135,29.9,36251,2022-11-08,41.84242,-87.66293
+CCH-00280,68,Male,Hispanic or Latino,Medicare,English,Uptown,60640,Far North,Near South Health Center,1,116,29.3,43501,2023-12-13,41.96927,-87.64844
+CCH-00281,28,Male,Black or African American,Employer-Sponsored HMO,English,Humboldt Park,60651,West,Prieto Health Center,19,125,35.7,10000,2023-08-31,41.89768,-87.6905
+CCH-00282,73,Female,Black or African American,Medicare,Spanish,Garfield Park,60624,West,Arlington Heights Health Center,2,127,23.8,34736,2021-08-21,41.88567,-87.70994
+CCH-00283,75,Female,Hispanic or Latino,Medicare,English,Roseland,60628,Far South,Provident Hospital of Cook County,1,110,35.3,32606,2021-07-16,41.70526,-87.6254
+CCH-00284,53,Male,Black or African American,ACA Marketplace Silver,Spanish,Roseland,60628,Far South,Arlington Heights Health Center,6,126,36.3,48662,2024-08-17,41.6964,-87.61944
+CCH-00285,75,Female,Hispanic or Latino,Medicare,English,Humboldt Park,60651,West,Englewood Health Center,2,129,24.2,25558,2023-04-15,41.88883,-87.69317
+CCH-00286,73,Male,Black or African American,Dual Eligible (Medicare/Medicaid),Spanish,Uptown,60640,Far North,Near South Health Center,1,128,29.5,24812,2023-10-27,41.97241,-87.6664
+CCH-00287,73,Female,Black or African American,Medicare,Spanish,Pilsen,60608,Southwest,Prieto Health Center,11,140,33.8,56928,2022-08-28,41.86586,-87.67038
+CCH-00288,74,Male,Black or African American,CountyCare Health Plan,English,Bronzeville,60653,South,Arlington Heights Health Center,3,111,31.8,43600,2024-01-06,41.83872,-87.63267
+CCH-00289,45,Female,Black or African American,Medicaid,Spanish,Garfield Park,60624,West,Cottage Grove Health Center,1,100,31.9,10000,2021-08-23,41.88578,-87.72212
+CCH-00290,71,Non-Binary,Black or African American,Dual Eligible (Medicare/Medicaid),English,Little Village,60623,Southwest,Robbins Health Center,2,96,26.4,27703,2022-11-09,41.85014,-87.72671
+CCH-00291,45,Female,Hispanic or Latino,Medicare,English,Little Village,60623,Southwest,Near South Health Center,11,131,30.9,50096,2022-10-10,41.84432,-87.71041
+CCH-00292,53,Male,Asian,Employer-Sponsored PPO,English,South Shore,60649,South,Near South Health Center,3,101,34.9,52558,2022-09-18,41.7708,-87.58597
+CCH-00293,59,Male,Black or African American,ACA Marketplace Silver,English,Garfield Park,60624,West,John H. Stroger Jr. Hospital,4,132,31.3,18565,2023-11-05,41.88256,-87.7296
+CCH-00294,48,Female,White,CountyCare Health Plan,English,South Shore,60649,South,Cottage Grove Health Center,5,115,26.7,55297,2024-04-22,41.7619,-87.56004
+CCH-00295,28,Female,White,Uninsured / Self-Pay,Spanish,Uptown,60640,Far North,Ruth M. Rothstein CORE Center,1,124,21.5,29630,2023-07-03,41.95797,-87.63938
+CCH-00296,54,Male,Black or African American,Medicaid,English,Bronzeville,60653,South,Cottage Grove Health Center,8,119,24.2,51794,2023-11-27,41.81121,-87.61016
+CCH-00297,41,Non-Binary,Black or African American,Employer-Sponsored HMO,Spanish,Bronzeville,60653,South,Prieto Health Center,1,127,25.3,25453,2024-03-13,41.8131,-87.60395
+CCH-00298,27,Female,White,CountyCare Health Plan,English,Pilsen,60608,Southwest,Robbins Health Center,1,101,33.0,26368,2024-05-22,41.87038,-87.66461
+CCH-00299,49,Female,Black or African American,Employer-Sponsored PPO,English,Englewood,60621,South,Near South Health Center,3,145,24.4,39460,2021-08-21,41.77041,-87.64743
+CCH-00300,65,Female,Hispanic or Latino,Medicare,Cantonese,Austin,60644,West,Ruth M. Rothstein CORE Center,1,151,34.6,28966,2021-04-25,41.87944,-87.76123
+CCH-00301,7,Male,Black or African American,Medicaid,English,Garfield Park,60624,West,Robbins Health Center,1,149,32.2,19021,2023-09-14,41.88799,-87.71765
+CCH-00302,56,Female,Asian,Employer-Sponsored HMO,English,Uptown,60640,Far North,Provident Hospital of Cook County,2,97,29.1,40159,2022-04-16,41.96612,-87.66327
+CCH-00303,7,Male,Hispanic or Latino,Medicaid,English,Chatham,60619,South,Prieto Health Center,5,121,35.5,50977,2023-10-28,41.73049,-87.62611
+CCH-00304,65,Female,Asian,Medicare,Spanish,Roseland,60628,Far South,Arlington Heights Health Center,10,114,18.5,41068,2022-04-15,41.71036,-87.62706
+CCH-00305,27,Male,Hispanic or Latino,Medicaid,English,Chatham,60619,South,Provident Hospital of Cook County,4,149,24.1,34647,2022-08-04,41.7469,-87.62607
+CCH-00306,76,Female,White,Dual Eligible (Medicare/Medicaid),English,Albany Park,60625,North,Near South Health Center,1,126,25.8,28028,2021-08-07,41.95683,-87.72918
+CCH-00307,58,Female,Hispanic or Latino,Medicaid,English,South Shore,60649,South,Ruth M. Rothstein CORE Center,3,112,11.2,42870,2023-01-29,41.77535,-87.57808
+CCH-00308,19,Female,Hispanic or Latino,Employer-Sponsored PPO,Spanish,Englewood,60621,South,Ruth M. Rothstein CORE Center,1,113,24.1,46507,2021-07-25,41.79045,-87.63852
+CCH-00309,20,Male,White,Employer-Sponsored PPO,English,Englewood,60621,South,Arlington Heights Health Center,1,118,28.8,44433,2021-06-30,41.77647,-87.63922
+CCH-00310,64,Non-Binary,Black or African American,Uninsured / Self-Pay,Spanish,Rogers Park,60626,Far North,Ruth M. Rothstein CORE Center,3,129,39.7,40097,2024-08-04,42.01409,-87.67641
+CCH-00311,66,Female,Black or African American,Medicare,English,Roseland,60628,Far South,Cottage Grove Health Center,1,117,39.2,83339,2024-09-03,41.70799,-87.62453
+CCH-00312,50,Female,Asian,Employer-Sponsored PPO,English,Rogers Park,60626,Far North,Prieto Health Center,2,111,,35056,2024-04-08,42.00041,-87.68454
+CCH-00313,37,Male,Hispanic or Latino,CountyCare Health Plan,English,Rogers Park,60626,Far North,Near South Health Center,6,119,39.8,29214,2021-08-28,41.99454,-87.67975
+CCH-00314,56,Male,Two or More Races,Employer-Sponsored PPO,English,Pilsen,60608,Southwest,Robbins Health Center,7,106,23.9,39396,2024-04-16,41.8581,-87.6482
+CCH-00315,23,Female,Hispanic or Latino,Uninsured / Self-Pay,English,Bridgeport,60616,South,Englewood Health Center,2,144,20.6,53776,2022-05-24,41.8283,-87.65423
+CCH-00316,34,Female,Two or More Races,Medicaid,Spanish,Bronzeville,60653,South,Cottage Grove Health Center,5,143,28.8,49858,2023-10-19,41.82061,-87.60617
+CCH-00317,45,Male,Asian,Medicaid,Spanish,Chatham,60619,South,Robbins Health Center,1,137,37.5,10000,2024-06-11,41.74456,-87.62432
+CCH-00318,57,Female,Hispanic or Latino,ACA Marketplace Silver,Tagalog,Garfield Park,60624,West,Prieto Health Center,2,113,28.4,29617,2022-07-28,41.89596,-87.71059
+CCH-00319,28,Male,Black or African American,Employer-Sponsored HMO,Polish,Austin,60644,West,Prieto Health Center,2,123,37.1,39266,2023-08-01,41.89067,-87.76719
+CCH-00320,40,Female,Hispanic or Latino,Medicaid,English,Chatham,60619,South,Near South Health Center,3,131,30.6,62092,2022-01-12,41.73379,-87.61254
+CCH-00321,22,Female,White,Employer-Sponsored HMO,Spanish,Englewood,60621,South,Cottage Grove Health Center,2,148,26.0,44113,2024-02-12,41.78194,-87.62892
+CCH-00322,56,Male,Hispanic or Latino,ACA Marketplace Silver,English,Englewood,60621,South,Near South Health Center,2,123,21.5,30112,2023-09-24,41.77745,-87.65427
+CCH-00323,24,Female,White,Medicaid,English,Chatham,60619,South,Near South Health Center,3,140,30.4,24336,2024-02-22,41.73363,-87.60383
+CCH-00324,32,Male,Black or African American,Employer-Sponsored HMO,Spanish,Rogers Park,60626,Far North,Near South Health Center,4,133,19.0,40051,2022-10-28,42.00037,-87.66772
+CCH-00325,60,Female,Asian,Employer-Sponsored HMO,English,Uptown,60640,Far North,Arlington Heights Health Center,1,115,25.6,49544,2021-05-27,41.9795,-87.64225
+CCH-00326,30,Male,Black or African American,ACA Marketplace Silver,English,Pilsen,60608,Southwest,Robbins Health Center,1,105,30.2,31440,2023-04-28,41.84934,-87.65795
+CCH-00327,48,Male,Black or African American,Medicaid,Spanish,Bridgeport,60616,South,Prieto Health Center,1,138,20.5,54415,2021-04-21,41.8238,-87.65869
+CCH-00328,59,Female,White,Medicaid,English,Uptown,60640,Far North,Ruth M. Rothstein CORE Center,3,132,29.1,41758,2021-09-26,41.97875,-87.6566
+CCH-00329,22,Male,Hispanic or Latino,Medicaid,Polish,Little Village,60623,Southwest,Prieto Health Center,3,153,19.1,45173,2021-12-29,41.86005,-87.71268
+CCH-00330,60,Male,White,CountyCare Health Plan,English,Albany Park,60625,North,Near South Health Center,2,114,28.4,38205,2023-04-25,41.96259,-87.71898
+CCH-00331,60,Female,White,CountyCare Health Plan,English,Little Village,60623,Southwest,Arlington Heights Health Center,4,97,30.5,18695,2022-08-23,41.84685,-87.70827
+CCH-00332,61,Female,Black or African American,CountyCare Health Plan,English,Near West Side,60612,Central,Arlington Heights Health Center,1,156,29.6,10000,2024-07-04,41.8643,-87.65619
+CCH-00333,56,Female,Black or African American,Medicaid,English,Bridgeport,60616,South,Provident Hospital of Cook County,3,103,19.8,45265,2024-07-28,41.83736,-87.65564
+CCH-00334,31,Female,Black or African American,Medicare,English,Albany Park,60625,North,John H. Stroger Jr. Hospital,1,126,32.4,39034,2022-04-22,41.95396,-87.70023
+CCH-00335,19,Female,White,  CountyCare Health Plan  ,Arabic,Bronzeville,60653,South,John H. Stroger Jr. Hospital,5,139,34.3,45819,2022-06-30,41.82391,-87.60926
+CCH-00336,59,Male,Hispanic or Latino,Employer-Sponsored PPO,Polish,Chatham,60619,South,Cottage Grove Health Center,1,154,28.2,30922,2021-03-10,41.72638,-87.59976
+CCH-00337,40,Female,White,Employer-Sponsored PPO,English,South Shore,60649,South,Provident Hospital of Cook County,3,116,26.7,52421,2022-06-03,41.77369,-87.58524
+CCH-00338,72,Non-Binary,Black or African American,Medicare,English,Near West Side,60612,Central,Cottage Grove Health Center,12,133,20.6,26045,2021-01-19,41.87839,-87.66856
+CCH-00339,43,MALE,Two or More Races,Employer-Sponsored HMO,Tagalog,Near West Side,60612,Central,John H. Stroger Jr. Hospital,2,117,32.5,54331,2021-05-03,41.86413,-87.67556
+CCH-00340,63,female,Hispanic or Latino,Employer-Sponsored PPO,English,Albany Park,60625,North,Arlington Heights Health Center,5,137,28.4,42541,2023-01-04,41.97696,-87.7067
+CCH-00341,40,Male,White,CountyCare Health Plan,English,Little Village,60623,Southwest,Prieto Health Center,1,106,31.1,49081,2021-11-25,41.83649,-87.7233
+CCH-00342,45,Female,Hispanic or Latino,ACA Marketplace Silver,English,Uptown,60640,Far North,Cottage Grove Health Center,5,141,24.5,21304,2022-10-19,41.96598,-87.64629
+CCH-00343,30,Female,Black or African American,CountyCare Health Plan,English,Albany Park,60625,North,Provident Hospital of Cook County,7,138,36.5,61685,2021-03-31,41.95792,-87.72091
+CCH-00344,53,Female,Hispanic or Latino,CountyCare Health Plan,English,Rogers Park,60626,Far North,John H. Stroger Jr. Hospital,1,143,28.2,35455,2023-01-21,42.01365,-87.67334
+CCH-00345,70,Male,Hispanic or Latino,Medicare,Arabic,Chatham,60619,South,Arlington Heights Health Center,6,114,35.9,45938,2023-01-26,41.7284,-87.60497
+CCH-00346,18,Male,White,Medicaid,English,Humboldt Park,60651,West,Cottage Grove Health Center,3,121,28.5,60418,2022-01-31,41.91554,-87.68818
+CCH-00347,59,Female,White,Employer-Sponsored HMO,English,Humboldt Park,60651,West,Provident Hospital of Cook County,6,149,21.9,32143,2021-12-08,41.91019,-87.6997
+CCH-00348,34,Male,Black or African American,Uninsured / Self-Pay,English,Garfield Park,60624,West,Arlington Heights Health Center,4,109,24.7,33710,2022-10-25,41.87697,-87.72805
+CCH-00349,51,Female,Other,Employer-Sponsored PPO,English,Little Village,60623,Southwest,Prieto Health Center,17,89,26.8,50811,2021-10-04,41.84422,-87.71699
+CCH-00350,53,Female,Hispanic or Latino,ACA Marketplace Silver,English,Chatham,60619,South,Ruth M. Rothstein CORE Center,1,156,26.4,44878,2021-07-13,41.7543,-87.60433
+CCH-00351,31,Female,Black or African American,Employer-Sponsored HMO,English,Roseland,60628,Far South,Near South Health Center,1,141,32.5,16242,2023-09-16,41.69901,-87.62289
+CCH-00352,12,Male,White,Medicaid,Cantonese,South Shore,60649,South,Near South Health Center,8,109,16.1,52812,2022-12-14,41.74672,-87.56575
+CCH-00353,69,Male,Hispanic or Latino,Dual Eligible (Medicare/Medicaid),English,Chatham,60619,South,John H. Stroger Jr. Hospital,3,144,32.4,53264,2022-10-16,41.74407,-87.62866
+CCH-00354,48,Male,Black or African American,Employer-Sponsored HMO,English,Pilsen,60608,Southwest,Arlington Heights Health Center,1,131,35.0,48324,2021-10-31,41.87033,-87.64871
+CCH-00355,64,Female,Hispanic or Latino,Employer-Sponsored PPO,English,Albany Park,60625,North,Arlington Heights Health Center,3,130,10.0,17505,2024-08-28,41.96633,-87.70846
+CCH-00356,33,Female,Hispanic or Latino,Medicaid,English,Pilsen,60608,Southwest,Near South Health Center,2,124,27.3,36029,2022-01-26,41.8509,-87.64358
+CCH-00357,28,Male,White,Medicaid,English,Roseland,60628,Far South,Near South Health Center,5,170,30.1,31760,2021-11-16,41.70327,-87.63563
+CCH-00358,88,Male,White,Medicare,English,Chatham,60619,South,Robbins Health Center,2,139,28.1,26980,2021-02-16,41.75097,-87.62037
+CCH-00359,18,Male,Black or African American,CountyCare Health Plan,English,Rogers Park,60626,Far North,Prieto Health Center,1,118,32.0,41949,2021-03-31,42.0163,-87.68076
+CCH-00360,42,Female,Asian,Employer-Sponsored HMO,English,Austin,60644,West,Provident Hospital of Cook County,2,113,32.7,27421,2021-02-09,41.8776,-87.75919
+CCH-00361,68,Male,Black or African American,Medicare,English,Garfield Park,60624,West,Robbins Health Center,9,123,32.7,39623,2024-02-23,41.87586,-87.7115
+CCH-00362,31,Female,Black or African American,CountyCare Health Plan,Tagalog,Englewood,60621,South,Prieto Health Center,6,123,20.0,14647,2022-07-19,41.76535,-87.63777
+CCH-00363,72,Female,Hispanic or Latino,Medicare,English,Albany Park,60625,North,Arlington Heights Health Center,11,107,22.2,23441,2023-12-03,41.98177,-87.72263
+CCH-00364,48,Female,Black or African American,CountyCare Health Plan,English,South Shore,60649,South,Prieto Health Center,6,137,31.6,27544,2024-11-01,41.77289,-87.58012
+CCH-00365,40,Female,Asian,Uninsured / Self-Pay,English,Garfield Park,60624,West,Prieto Health Center,10,107,32.1,47471,2023-12-28,41.89567,-87.73315
+CCH-00366,68,Male,White,Medicare,Spanish,Garfield Park,60624,West,Englewood Health Center,6,108,31.3,44357,2021-11-08,41.89559,-87.70866
+CCH-00367,48,Female,Black or African American,Medicaid,English,Rogers Park,60626,Far North,Robbins Health Center,3,104,21.2,22562,2021-10-02,42.01277,-87.66711
+CCH-00368,22,Female,Two or More Races,CountyCare Health Plan,Cantonese,Englewood,60621,South,Arlington Heights Health Center,5,148,38.1,36011,2022-04-01,41.76971,-87.65151
+CCH-00369,84,Non-Binary,Asian,CountyCare Health Plan,English,Chatham,60619,South,John H. Stroger Jr. Hospital,5,140,24.7,47465,2024-05-30,41.74451,-87.60836
+CCH-00370,24,Male,Black or African American,Medicaid,English,Albany Park,60625,North,John H. Stroger Jr. Hospital,3,109,20.9,53906,2022-05-19,41.97254,-87.70828
+CCH-00371,26,Male,White,ACA Marketplace Silver,English,Austin,60644,West,Ruth M. Rothstein CORE Center,2,119,36.2,26073,2023-05-16,41.8813,-87.76581
+CCH-00372,63,Male,Two or More Races,Employer-Sponsored PPO,Spanish,Humboldt Park,60651,West,Ruth M. Rothstein CORE Center,2,115,24.9,41050,2023-03-17,41.90888,-87.7136
+CCH-00373,23,Female,White,Employer-Sponsored HMO,English,Little Village,60623,Southwest,Provident Hospital of Cook County,1,112,23.2,42749,2021-07-06,41.83351,-87.71918
+CCH-00374,29,Male,Black or African American,Employer-Sponsored HMO,English,Albany Park,60625,North,Near South Health Center,7,123,30.6,30770,2024-03-04,41.97166,-87.7246
+CCH-00375,65,Female,Hispanic or Latino,Medicare,English,South Shore,60649,South,Ruth M. Rothstein CORE Center,1,147,28.5,35503,2022-02-20,41.75489,-87.56694
+CCH-00376,25,Male,Hispanic or Latino,Employer-Sponsored HMO,English,Rogers Park,60626,Far North,Provident Hospital of Cook County,4,126,28.6,58133,2024-05-16,42.02088,-87.67786
+CCH-00377,30,Male,Black or African American,CountyCare Health Plan,English,Austin,60644,West,Englewood Health Center,9,112,34.1,43039,2022-11-10,41.88115,-87.77735
+CCH-00378,58,Male,Two or More Races,Employer-Sponsored HMO,Spanish,Bridgeport,60616,South,Near South Health Center,1,147,26.7,52612,2021-03-15,41.8424,-87.64653
+CCH-00379,42,Female,White,Medicaid,English,Albany Park,60625,North,Arlington Heights Health Center,1,130,28.9,43357,2023-12-11,41.95525,-87.71528
+CCH-00380,1,Female,Other,Employer-Sponsored HMO,English,Humboldt Park,60651,West,Near South Health Center,3,106,33.8,37532,2022-06-16,41.90171,-87.69634
+CCH-00381,62,Female,Black or African American,ACA Marketplace Silver,English,Uptown,60640,Far North,Cottage Grove Health Center,1,140,18.3,44250,2021-01-04,41.96573,-87.64406
+CCH-00382,46,Male,Hispanic or Latino,Employer-Sponsored HMO,English,Pilsen,60608,Southwest,Cottage Grove Health Center,1,115,32.9,43590,2022-07-31,41.85362,-87.66129
+CCH-00383,17,Female,Black or African American,CountyCare Health Plan,English,Bronzeville,60653,South,Near South Health Center,9,117,21.9,40375,2022-11-24,41.82024,-87.61127
+CCH-00384,56,Female,White,CountyCare Health Plan,English,Little Village,60623,Southwest,John H. Stroger Jr. Hospital,2,127,27.6,24240,2023-12-04,41.85756,-87.71279
+CCH-00385,35,Male,Black or African American,Medicaid,Spanish,Roseland,60628,Far South,Near South Health Center,4,123,32.5,20595,2023-02-08,41.71749,-87.61613
+CCH-00386,28,Male,Black or African American,Employer-Sponsored PPO,English,Roseland,60628,Far South,Cottage Grove Health Center,3,139,32.3,34597,2023-02-01,41.69925,-87.61427
+CCH-00387,44,Male,White,CountyCare Health Plan,Cantonese,Roseland,60628,Far South,Ruth M. Rothstein CORE Center,2,133,16.7,41375,2022-01-25,41.69606,-87.63722
+CCH-00388,41,Male,Black or African American,Employer-Sponsored HMO,Spanish,Humboldt Park,60651,West,Robbins Health Center,5,139,27.9,37796,2023-03-05,41.91186,-87.68886
+CCH-00389,71,Male,White,Medicare,Spanish,Humboldt Park,60651,West,John H. Stroger Jr. Hospital,5,115,25.8,29589,2024-03-28,41.8972,-87.69032
+CCH-00390,51,Male,Black or African American,Medicaid,English,Roseland,60628,Far South,Prieto Health Center,1,138,21.3,32665,2023-11-19,41.70323,-87.63647
+CCH-00391,41,Male,Black or African American,Employer-Sponsored HMO,English,Rogers Park,60626,Far North,Ruth M. Rothstein CORE Center,3,163,27.2,31243,2021-03-01,42.00174,-87.68286
+CCH-00392,64,Female,Hispanic or Latino,Employer-Sponsored PPO,English,Rogers Park,60626,Far North,Near South Health Center,5,131,25.0,20634,2022-02-10,42.02114,-87.66612
+CCH-00393,76,Female,Black or African American,Dual Eligible (Medicare/Medicaid),English,Englewood,60621,South,Robbins Health Center,1,121,30.3,69361,2023-08-22,41.76759,-87.63423
+CCH-00394,17,Female,Black or African American,Employer-Sponsored HMO,English,Bridgeport,60616,South,Provident Hospital of Cook County,1,102,17.3,42137,2023-09-01,41.84892,-87.65379
+CCH-00395,43,Male,Black or African American,Employer-Sponsored PPO,English,Albany Park,60625,North,Englewood Health Center,3,140,24.8,31636,2023-12-28,41.95639,-87.70487
+CCH-00396,47,Female,White,Employer-Sponsored HMO,English,Humboldt Park,60651,West,Near South Health Center,4,135,32.4,59085,2024-01-21,41.89742,-87.69258
+CCH-00397,45,Male,White,Employer-Sponsored HMO,English,Humboldt Park,60651,West,Arlington Heights Health Center,4,100,25.3,18191,2021-05-23,41.90496,-87.70311
+CCH-00398,53,Male,Asian,ACA Marketplace Silver,English,Austin,60644,West,John H. Stroger Jr. Hospital,4,113,23.8,41867,2021-10-28,41.87832,-87.75449
+CCH-00399,32,Female,Black or African American,ACA Marketplace Silver,Arabic,Garfield Park,60624,West,Arlington Heights Health Center,16,114,21.5,27071,2022-12-07,41.8759,-87.72039
+CCH-00400,12,Male,White,Medicaid,Spanish,Austin,60644,West,Near South Health Center,7,123,31.2,29243,2021-08-13,41.88668,-87.76253
+CCH-00401,41,Female,Black or African American,Medicaid,English,Pilsen,60608,Southwest,Prieto Health Center,7,110,24.5,50792,2023-02-27,41.85338,-87.65824
+CCH-00402,38,Female,Hispanic or Latino,  Employer-Sponsored PPO  ,English,Austin,60644,West,Ruth M. Rothstein CORE Center,1,157,32.4,10000,2021-06-23,41.87775,-87.77853
+CCH-00403,68,Male,Hispanic or Latino,Medicare,English,Rogers Park,60626,Far North,Ruth M. Rothstein CORE Center,4,110,18.5,23422,2023-05-20,41.99979,-87.66972
+CCH-00404,48,Female,Hispanic or Latino,Medicaid,English,Albany Park,60625,North,Robbins Health Center,1,144,26.5,10000,2021-06-13,41.97059,-87.7284
+CCH-00405,78,Female,Hispanic or Latino,Medicare,Spanish,Humboldt Park,60651,West,Provident Hospital of Cook County,4,123,29.9,24776,2024-11-01,41.9029,-87.6987
+CCH-00406,62,Male,Black or African American,Employer-Sponsored HMO,English,Little Village,60623,Southwest,Englewood Health Center,1,130,25.8,17684,2022-08-16,41.84442,-87.70172
+CCH-00407,36,Female,Other,Medicaid,Spanish,Uptown,60640,Far North,John H. Stroger Jr. Hospital,3,152,30.0,42576,2022-08-11,41.96499,-87.66323
+CCH-00408,49,Male,Black or African American,Medicaid,English,South Shore,60649,South,Ruth M. Rothstein CORE Center,2,114,30.0,26362,2024-09-11,41.77134,-87.58957
+CCH-00409,40,Male,Hispanic or Latino,Uninsured / Self-Pay,Spanish,Chatham,60619,South,Robbins Health Center,5,108,28.9,55185,2023-04-26,41.72699,-87.59948
+CCH-00410,38,Male,Black or African American,ACA Marketplace Silver,English,Bronzeville,60653,South,Robbins Health Center,3,117,40.8,26441,2022-09-10,41.81163,-87.62507
+CCH-00411,49,Female,Asian,Medicaid,English,South Shore,60649,South,Near South Health Center,4,150,40.9,47114,2023-12-22,41.74995,-87.56389
+CCH-00412,17,Female,White,Medicaid,English,Garfield Park,60624,West,Arlington Heights Health Center,5,95,28.3,11950,2023-08-03,41.88596,-87.72932
+CCH-00413,36,Female,Black or African American,Medicaid,English,Bridgeport,60616,South,Arlington Heights Health Center,3,120,26.3,24314,2021-07-20,41.8512,-87.6543
+CCH-00414,44,Female,White,Employer-Sponsored HMO,Arabic,Rogers Park,60626,Far North,Provident Hospital of Cook County,1,113,23.9,28500,2021-09-03,41.99716,-87.65684
+CCH-00415,49,Male,Hispanic or Latino,Medicaid,Arabic,Englewood,60621,South,Robbins Health Center,5,102,25.3,15801,2022-07-21,41.79168,-87.63743
+CCH-00416,48,Male,Black or African American,CountyCare Health Plan,Arabic,South Shore,60649,South,Englewood Health Center,2,113,15.1,39911,2021-12-31,41.76891,-87.57852
+CCH-00417,38,Female,Black or African American,Employer-Sponsored HMO,English,Englewood,60621,South,Englewood Health Center,1,119,36.9,49046,2021-07-31,41.78102,-87.64536
+CCH-00418,47,Female,Black or African American,Employer-Sponsored HMO,Spanish,Uptown,60640,Far North,Arlington Heights Health Center,1,122,25.8,11497,2024-03-22,41.97001,-87.64031
+CCH-00419,28,Male,Two or More Races,Medicaid,Spanish,Roseland,60628,Far South,Robbins Health Center,3,,33.4,32011,2021-09-06,41.71356,-87.6238
+CCH-00420,39,Male,Black or African American,Uninsured / Self-Pay,English,Uptown,60640,Far North,Englewood Health Center,1,111,14.1,23941,2024-08-19,41.95352,-87.65226
+CCH-00421,38,Female,Hispanic or Latino,Medicaid,Spanish,Humboldt Park,60651,West,Ruth M. Rothstein CORE Center,1,114,26.9,16934,2021-03-15,41.90612,-87.70622
+CCH-00422,40,Male,Two or More Races,ACA Marketplace Silver,English,South Shore,60649,South,Near South Health Center,2,126,27.3,21952,2021-04-25,41.76059,-87.56105
+CCH-00423,53,Female,Black or African American,Employer-Sponsored PPO,English,Uptown,60640,Far North,Ruth M. Rothstein CORE Center,4,148,15.6,44436,2023-09-29,41.97691,-87.6522
+CCH-00424,73,Female,Black or African American,CountyCare Health Plan,English,Englewood,60621,South,Provident Hospital of Cook County,1,133,21.8,25566,2021-08-06,41.78378,-87.63116
+CCH-00425,58,female,Other,Medicare,English,Chatham,60619,South,Ruth M. Rothstein CORE Center,7,130,31.0,11792,2022-10-21,41.75547,-87.60865
+CCH-00426,33,Female,Black or African American,CountyCare Health Plan,English,Englewood,60621,South,John H. Stroger Jr. Hospital,1,118,33.0,19965,2021-10-01,41.78753,-87.65326
+CCH-00427,47,Female,Hispanic or Latino,Employer-Sponsored PPO,English,Austin,60644,West,Robbins Health Center,1,123,23.9,23011,2021-09-17,41.87582,-87.75122
+CCH-00428,10,Male,Black or African American,CountyCare Health Plan,Spanish,Austin,60644,West,Englewood Health Center,2,145,24.9,34295,2022-12-14,41.89349,-87.75748
+CCH-00429,92,Male,White,Medicare,Spanish,Chatham,60619,South,Englewood Health Center,1,122,30.9,14707,2021-04-19,41.74883,-87.61281
+CCH-00430,67,Female,Black or African American,Medicare,English,Uptown,60640,Far North,Robbins Health Center,1,122,35.2,44429,2021-03-30,41.97848,-87.66668
+CCH-00431,49,Female,Black or African American,Employer-Sponsored HMO,English,Humboldt Park,60651,West,Near South Health Center,6,129,27.2,44453,2022-04-17,41.91405,-87.69536
+CCH-00432,44,Female,Hispanic or Latino,Medicaid,English,Near West Side,60612,Central,Robbins Health Center,2,93,34.5,57293,2021-12-31,41.86161,-87.66075
+CCH-00433,13,Female,Black or African American,Medicaid,English,Englewood,60621,South,Arlington Heights Health Center,5,93,29.3,51143,2021-12-17,41.76576,-87.64124
+CCH-00434,64,Male,Black or African American,ACA Marketplace Silver,Spanish,Garfield Park,60624,West,Robbins Health Center,3,149,30.8,26939,2022-03-20,41.8715,-87.7084
+CCH-00435,43,Female,Two or More Races,Uninsured / Self-Pay,Cantonese,Bronzeville,60653,South,John H. Stroger Jr. Hospital,14,100,34.7,42494,2023-05-06,41.82303,-87.62633
+CCH-00436,47,Male,Hispanic or Latino,Medicaid,English,Little Village,60623,Southwest,John H. Stroger Jr. Hospital,10,121,31.7,47922,2023-04-13,41.85509,-87.708
+CCH-00437,42,Female,Hispanic or Latino,Employer-Sponsored HMO,Polish,South Shore,60649,South,Robbins Health Center,7,120,19.9,53832,2021-10-11,41.75045,-87.57622
+CCH-00438,33,Male,Hispanic or Latino,Employer-Sponsored PPO,English,Chatham,60619,South,Englewood Health Center,3,138,31.2,10924,2024-06-08,41.74482,-87.61745
+CCH-00439,79,Male,Black or African American,Medicare,English,Austin,60644,West,Robbins Health Center,1,142,22.8,55209,2024-06-21,41.89104,-87.7517
+CCH-00440,40,Male,Hispanic or Latino,Medicaid,Arabic,Englewood,60621,South,Cottage Grove Health Center,2,106,33.9,26671,2022-04-07,41.79424,-87.65114
+CCH-00441,41,Female,White,Medicaid,Spanish,Little Village,60623,Southwest,Prieto Health Center,3,128,22.5,55636,2022-08-22,41.84539,-87.7131
+CCH-00442,29,Male,Asian,Medicaid,English,Near West Side,60612,Central,Provident Hospital of Cook County,1,84,30.9,43859,2021-08-12,41.88616,-87.66456
+CCH-00443,54,Male,Black or African American,CountyCare Health Plan,English,Austin,60644,West,Robbins Health Center,1,134,28.9,41133,2024-08-13,41.8844,-87.74991
+CCH-00444,57,Female,Black or African American,Employer-Sponsored HMO,English,Bronzeville,60653,South,Prieto Health Center,2,97,27.4,46025,2024-01-29,41.82235,-87.62272
+CCH-00445,49,Female,Black or African American,ACA Marketplace Silver,English,Little Village,60623,Southwest,Ruth M. Rothstein CORE Center,9,116,27.3,25263,2024-06-20,41.84196,-87.72026
+CCH-00446,80,Male,Other,Medicare,English,Uptown,60640,Far North,Robbins Health Center,2,120,30.9,62086,2022-06-18,41.97463,-87.66346
+CCH-00447,21,Female,Asian,Medicare,English,Little Village,60623,Southwest,Robbins Health Center,10,87,31.4,33915,2021-10-25,41.847,-87.72402
+CCH-00448,69,Female,Two or More Races,Medicare,Tagalog,Uptown,60640,Far North,Ruth M. Rothstein CORE Center,5,122,33.1,31174,2024-03-03,41.97196,-87.65408
+CCH-00449,62,Female,White,CountyCare Health Plan,English,Uptown,60640,Far North,Provident Hospital of Cook County,1,137,23.6,21573,2022-10-31,41.96733,-87.65906
+CCH-00450,54,Female,Two or More Races,Employer-Sponsored HMO,Polish,Austin,60644,West,Arlington Heights Health Center,3,162,22.9,26435,2022-02-03,41.87811,-87.75352
+CCH-00451,72,Female,Black or African American,Medicare,English,Bridgeport,60616,South,Robbins Health Center,1,134,27.5,20825,2024-02-23,41.84701,-87.65261
+CCH-00452,79,FEMALE,Hispanic or Latino,Dual Eligible (Medicare/Medicaid),Spanish,Roseland,60628,Far South,Provident Hospital of Cook County,1,124,16.9,43109,2021-10-22,41.71184,-87.61307
+CCH-00453,53,Male,Black or African American,Employer-Sponsored HMO,English,Roseland,60628,Far South,Robbins Health Center,5,125,30.8,45781,2024-03-09,41.70127,-87.6398
+CCH-00454,30,Female,White,CountyCare Health Plan,English,Chatham,60619,South,John H. Stroger Jr. Hospital,2,139,39.0,29725,2021-11-12,41.73506,-87.61144
+CCH-00455,21,Male,Black or African American,Employer-Sponsored HMO,Spanish,Pilsen,60608,Southwest,Robbins Health Center,4,130,24.1,51978,2021-05-17,41.84658,-87.6441
+CCH-00456,34,Male,Black or African American,Employer-Sponsored PPO,English,Bridgeport,60616,South,John H. Stroger Jr. Hospital,2,130,30.7,32023,2021-10-27,41.84595,-87.6525
+CCH-00457,54,Female,Hispanic or Latino,Medicare,English,Garfield Park,60624,West,Cottage Grove Health Center,1,136,36.4,52963,2024-07-10,41.89505,-87.73604
+CCH-00458,11,Male,Black or African American,CountyCare Health Plan,English,Uptown,60640,Far North,Near South Health Center,1,117,22.8,36238,2021-10-22,41.9748,-87.66016
+CCH-00459,30,Male,White,ACA Marketplace Silver,English,Humboldt Park,60651,West,Prieto Health Center,5,127,25.3,10465,2023-12-26,41.89374,-87.7019
+CCH-00460,12,Female,Black or African American,Medicaid,Spanish,Englewood,60621,South,Prieto Health Center,1,143,25.2,62885,2022-12-02,41.7925,-87.64391
+CCH-00461,53,Male,Black or African American,Medicaid,Spanish,Bridgeport,60616,South,Provident Hospital of Cook County,1,131,22.3,39678,2021-06-09,41.8282,-87.65994
+CCH-00462,48,Male,Black or African American,Medicaid,Spanish,Rogers Park,60626,Far North,Provident Hospital of Cook County,9,129,31.9,71080,2021-09-11,41.99618,-87.68143
+CCH-00463,53,Female,Black or African American,Employer-Sponsored HMO,Spanish,Chatham,60619,South,Cottage Grove Health Center,3,139,34.6,50260,2023-11-01,41.74839,-87.62068
+CCH-00464,59,Female,White,Medicaid,Cantonese,South Shore,60649,South,Prieto Health Center,2,126,23.1,28829,2023-08-31,41.75075,-87.56738
+CCH-00465,57,Female,White,CountyCare Health Plan,English,Pilsen,60608,Southwest,Robbins Health Center,3,123,22.9,38398,2021-08-14,41.85392,-87.65587
+CCH-00466,40,Female,Black or African American,Employer-Sponsored HMO,Polish,Little Village,60623,Southwest,Robbins Health Center,3,150,25.5,68446,2022-04-08,41.83427,-87.72039
+CCH-00467,49,Male,Hispanic or Latino,Medicaid,Spanish,Little Village,60623,Southwest,Arlington Heights Health Center,3,131,27.1,30782,2023-06-17,41.85897,-87.71788
+CCH-00468,25,Non-Binary,Other,Medicaid,English,Bridgeport,60616,South,Arlington Heights Health Center,1,141,22.3,46572,2021-09-09,41.84916,-87.63436
+CCH-00469,49,Male,Hispanic or Latino,  CountyCare Health Plan  ,English,Roseland,60628,Far South,Arlington Heights Health Center,3,98,32.2,52081,2023-09-20,41.71368,-87.62069
+CCH-00470,62,Female,Hispanic or Latino,ACA Marketplace Silver,English,Englewood,60621,South,Ruth M. Rothstein CORE Center,4,138,26.1,50030,2023-02-23,41.76569,-87.63617
+CCH-00471,25,Male,Hispanic or Latino,Medicaid,English,Albany Park,60625,North,Englewood Health Center,2,107,33.0,22467,2024-01-16,41.97633,-87.70562
+CCH-00472,51,Female,Hispanic or Latino,ACA Marketplace Silver,English,Garfield Park,60624,West,Ruth M. Rothstein CORE Center,4,124,30.6,10000,2024-02-15,41.86997,-87.724
+CCH-00473,56,Female,Hispanic or Latino,Employer-Sponsored HMO,Spanish,Pilsen,60608,Southwest,Robbins Health Center,3,140,29.5,42506,2023-09-02,41.85582,-87.66802
+CCH-00474,44,Female,Black or African American,Medicare,English,Uptown,60640,Far North,Near South Health Center,6,147,19.9,24287,2022-12-16,41.96138,-87.63897
+CCH-00475,34,Female,Black or African American,Medicaid,English,Bronzeville,60653,South,Provident Hospital of Cook County,7,114,31.1,44430,2021-05-15,41.82236,-87.63131
+CCH-00476,42,Male,White,Medicaid,English,Pilsen,60608,Southwest,Near South Health Center,3,124,27.2,44517,2023-02-13,41.85824,-87.64426
+CCH-00477,19,Female,Hispanic or Latino,CountyCare Health Plan,English,Little Village,60623,Southwest,Arlington Heights Health Center,3,127,34.3,14956,2022-02-18,41.84588,-87.70595
+CCH-00478,58,Female,Hispanic or Latino,Employer-Sponsored PPO,Arabic,Austin,60644,West,Provident Hospital of Cook County,2,109,37.9,49796,2024-04-27,41.88452,-87.76179
+CCH-00479,34,Male,Hispanic or Latino,Medicare,English,Uptown,60640,Far North,Arlington Heights Health Center,1,127,19.8,35697,2023-04-04,41.97551,-87.65316
+CCH-00480,11,Male,Two or More Races,Medicaid,Spanish,Albany Park,60625,North,Robbins Health Center,10,116,20.6,33490,2022-07-03,41.97918,-87.71209
+CCH-00481,49,Male,Black or African American,CountyCare Health Plan,Spanish,Uptown,60640,Far North,Englewood Health Center,2,109,36.5,10900,2023-06-11,41.9526,-87.66228
+CCH-00482,23,Female,Hispanic or Latino,Employer-Sponsored HMO,English,South Shore,60649,South,Cottage Grove Health Center,1,102,31.4,22190,2021-02-26,41.76498,-87.58231
+CCH-00483,29,Male,White,Medicaid,English,Austin,60644,West,Prieto Health Center,4,119,37.4,44718,2021-12-27,41.88166,-87.77082
+CCH-00484,48,Male,Hispanic or Latino,ACA Marketplace Silver,English,Bronzeville,60653,South,Provident Hospital of Cook County,10,120,27.9,29308,2023-03-24,41.82805,-87.60698
+CCH-00485,69,Male,Hispanic or Latino,Dual Eligible (Medicare/Medicaid),English,Albany Park,60625,North,Provident Hospital of Cook County,4,142,29.1,24271,2022-05-03,41.97323,-87.71199
+CCH-00486,61,Male,Black or African American,Medicaid,Polish,Bridgeport,60616,South,Robbins Health Center,1,103,22.7,28097,2023-04-17,41.82848,-87.65101
+CCH-00487,16,Female,White,Medicaid,English,Pilsen,60608,Southwest,Robbins Health Center,6,153,43.4,43512,2023-01-24,41.85545,-87.66391
+CCH-00488,19,Male,Hispanic or Latino,Medicaid,English,Austin,60644,West,Near South Health Center,3,107,28.9,55230,2021-09-07,41.89632,-87.75534
+CCH-00489,92,Male,Black or African American,CountyCare Health Plan,English,Garfield Park,60624,West,Ruth M. Rothstein CORE Center,4,128,35.6,19245,2023-06-18,41.87407,-87.73479
+CCH-00490,43,Male,Asian,Employer-Sponsored PPO,English,Chatham,60619,South,Arlington Heights Health Center,6,128,26.2,19976,2021-07-25,41.74938,-87.61425
+CCH-00491,32,Male,Hispanic or Latino,Employer-Sponsored PPO,English,Bridgeport,60616,South,Robbins Health Center,1,143,21.8,51155,2024-08-05,41.8312,-87.64284
+CCH-00492,44,Female,Black or African American,Employer-Sponsored HMO,English,Albany Park,60625,North,Arlington Heights Health Center,3,132,30.6,31886,2022-10-17,41.97471,-87.70637
+CCH-00493,58,Female,Asian,Medicaid,Arabic,South Shore,60649,South,Cottage Grove Health Center,10,145,35.8,27272,2021-02-12,41.75156,-87.57757
+CCH-00494,19,Non-Binary,Hispanic or Latino,Medicaid,English,Near West Side,60612,Central,Ruth M. Rothstein CORE Center,11,101,32.0,56154,2021-07-02,41.86725,-87.65275
+CCH-00495,68,Male,White,Medicare,English,Garfield Park,60624,West,Englewood Health Center,5,127,23.9,49474,2022-08-13,41.88001,-87.71729
+CCH-00496,50,Male,Black or African American,CountyCare Health Plan,English,Bridgeport,60616,South,Englewood Health Center,4,136,33.1,29547,2022-04-28,41.84172,-87.65115
+CCH-00497,39,Female,Black or African American,CountyCare Health Plan,English,Englewood,60621,South,Arlington Heights Health Center,1,109,30.1,41137,2024-05-08,41.79094,-87.62907
+CCH-00498,40,Male,White,Employer-Sponsored HMO,English,Rogers Park,60626,Far North,Englewood Health Center,4,136,26.5,53167,2023-10-31,42.02258,-87.65598
+CCH-00499,14,Male,Black or African American,Medicaid,English,Rogers Park,60626,Far North,Provident Hospital of Cook County,5,156,24.3,43083,2022-10-12,41.99978,-87.6799
+CCH-00500,27,Female,Asian,CountyCare Health Plan,English,Chatham,60619,South,Englewood Health Center,2,166,32.3,29300,2023-11-25,41.73443,-87.61818
+CCH-00501,77,Female,Black or African American,Medicare,English,Chatham,60619,South,Ruth M. Rothstein CORE Center,3,125,31.8,53368,2021-03-15,41.75369,-87.6099
+CCH-00502,75,Female,Hispanic or Latino,Medicare,Spanish,Little Village,60623,Southwest,Ruth M. Rothstein CORE Center,2,148,29.8,50532,2021-09-11,41.8415,-87.70763
+CCH-00503,62,Male,Other,Employer-Sponsored HMO,English,Rogers Park,60626,Far North,Ruth M. Rothstein CORE Center,9,103,28.6,56781,2023-05-03,42.02113,-87.66743
+CCH-00504,60,Female,Black or African American,Uninsured / Self-Pay,English,Uptown,60640,Far North,John H. Stroger Jr. Hospital,3,133,26.7,20348,2021-06-16,41.95446,-87.65709
+CCH-00505,37,Male,Black or African American,Uninsured / Self-Pay,Spanish,Bronzeville,60653,South,Ruth M. Rothstein CORE Center,7,116,29.9,25628,2022-03-09,41.83909,-87.61331
+CCH-00506,55,Male,Two or More Races,Medicaid,Spanish,Rogers Park,60626,Far North,Provident Hospital of Cook County,7,100,33.6,61762,2021-02-12,42.00584,-87.67303
+CCH-00507,40,Male,Asian,Employer-Sponsored PPO,Cantonese,Humboldt Park,60651,West,Ruth M. Rothstein CORE Center,4,152,31.8,21309,2023-01-06,41.89616,-87.69297
+CCH-00508,9,Female,Black or African American,Medicaid,English,Rogers Park,60626,Far North,Arlington Heights Health Center,1,128,24.9,52970,2021-07-10,42.01241,-87.68229
+CCH-00509,51,Female,Hispanic or Latino,Medicaid,English,Little Village,60623,Southwest,Robbins Health Center,1,150,37.1,62858,2022-09-08,41.84662,-87.70948
+CCH-00510,58,female,Hispanic or Latino,CountyCare Health Plan,English,Austin,60644,West,Robbins Health Center,5,109,30.5,24157,2024-09-15,41.89213,-87.75148
+CCH-00511,20,Female,Hispanic or Latino,Medicaid,English,Bridgeport,60616,South,Englewood Health Center,3,111,20.1,44649,2022-10-05,41.84125,-87.65831
+CCH-00512,36,Male,Other,Medicaid,English,Chatham,60619,South,Provident Hospital of Cook County,3,117,31.3,,2023-06-08,41.7503,-87.62267
+CCH-00513,56,Male,Black or African American,Employer-Sponsored PPO,Spanish,Chatham,60619,South,Near South Health Center,12,142,23.6,12228,2024-10-11,41.74573,-87.60667
+CCH-00514,55,Female,Black or African American,ACA Marketplace Silver,English,Chatham,60619,South,Cottage Grove Health Center,7,130,32.9,22523,2023-06-12,41.72648,-87.59988
+CCH-00515,73,Female,White,Medicare,Polish,Pilsen,60608,Southwest,Robbins Health Center,7,140,25.1,32525,2021-02-10,41.84185,-87.66632
+CCH-00516,16,Female,Hispanic or Latino,Medicaid,English,Austin,60644,West,Prieto Health Center,1,113,22.8,49318,2022-08-19,41.87868,-87.75357
+CCH-00517,40,Male,Hispanic or Latino,CountyCare Health Plan,English,Chatham,60619,South,Provident Hospital of Cook County,8,89,22.7,47012,2022-07-03,41.74064,-87.60757
+CCH-00518,4,Female,Hispanic or Latino,CountyCare Health Plan,English,Bridgeport,60616,South,Prieto Health Center,3,127,23.2,10000,2022-03-26,41.83449,-87.65886
+CCH-00519,64,Female,White,Uninsured / Self-Pay,Spanish,Garfield Park,60624,West,Near South Health Center,6,105,32.9,19508,2023-08-26,41.8752,-87.71616
+CCH-00520,40,Male,White,CountyCare Health Plan,Arabic,Englewood,60621,South,Robbins Health Center,1,152,7.8,16762,2022-09-14,41.77,-87.65361
+CCH-00521,38,Male,Black or African American,Medicaid,English,Englewood,60621,South,Cottage Grove Health Center,3,135,10.0,42355,2021-09-05,41.78964,-87.63147
+CCH-00522,53,Male,Hispanic or Latino,Employer-Sponsored PPO,Spanish,Albany Park,60625,North,John H. Stroger Jr. Hospital,6,99,37.9,31752,2023-06-16,41.96132,-87.72486
+CCH-00523,78,Male,Black or African American,Medicare,English,Chatham,60619,South,Cottage Grove Health Center,1,121,26.8,54668,2023-01-11,41.75442,-87.60429
+CCH-00524,17,Female,Black or African American,Medicaid,Polish,Uptown,60640,Far North,John H. Stroger Jr. Hospital,7,125,23.7,40166,2022-05-18,41.96171,-87.64373
+CCH-00525,53,Male,White,Medicaid,English,Pilsen,60608,Southwest,Cottage Grove Health Center,6,137,23.3,46498,2021-10-10,41.85202,-87.65135
+CCH-00526,12,Male,White,CountyCare Health Plan,English,Bronzeville,60653,South,Provident Hospital of Cook County,2,134,20.3,53948,2021-06-23,41.83831,-87.61972
+CCH-00527,30,Female,Hispanic or Latino,Medicaid,Spanish,Garfield Park,60624,West,Prieto Health Center,2,132,35.2,21654,2022-08-29,41.88564,-87.71042
+CCH-00528,67,Female,Asian,Medicare,Spanish,Bronzeville,60653,South,Robbins Health Center,1,107,18.6,30231,2024-08-11,41.81024,-87.62461
+CCH-00529,30,Male,Black or African American,ACA Marketplace Silver,English,Roseland,60628,Far South,Arlington Heights Health Center,3,105,24.5,35187,2021-09-16,41.70946,-87.61674
+CCH-00530,31,Female,Hispanic or Latino,Employer-Sponsored PPO,English,Uptown,60640,Far North,Englewood Health Center,15,124,30.0,41598,2023-05-16,41.9556,-87.66746
+CCH-00531,29,Female,Hispanic or Latino,CountyCare Health Plan,English,Austin,60644,West,Near South Health Center,6,142,35.9,36573,2022-04-29,41.8983,-87.75076
+CCH-00532,66,Male,White,Dual Eligible (Medicare/Medicaid),English,Rogers Park,60626,Far North,Ruth M. Rothstein CORE Center,3,112,28.5,52260,2023-02-13,42.00142,-87.67602
+CCH-00533,17,Female,Black or African American,Medicaid,English,Humboldt Park,60651,West,Ruth M. Rothstein CORE Center,1,111,36.1,49329,2023-09-03,41.8916,-87.70423
+CCH-00534,28,Male,Hispanic or Latino,CountyCare Health Plan,Arabic,Chatham,60619,South,Robbins Health Center,6,137,30.3,44571,2023-05-04,41.73391,-87.61404
+CCH-00535,44,Male,Black or African American,CountyCare Health Plan,English,Chatham,60619,South,Prieto Health Center,9,117,36.7,59244,2023-01-27,41.74187,-87.60817
+CCH-00536,60,Female,Black or African American,  Uninsured / Self-Pay  ,English,Albany Park,60625,North,Ruth M. Rothstein CORE Center,6,135,16.4,55750,2021-10-19,41.9579,-87.71826
+CCH-00537,42,Female,Asian,CountyCare Health Plan,English,Bridgeport,60616,South,Englewood Health Center,3,138,25.4,51262,2024-03-04,41.83606,-87.66003
+CCH-00538,64,Female,Hispanic or Latino,CountyCare Health Plan,Spanish,Englewood,60621,South,Near South Health Center,6,99,25.4,23887,2021-07-02,41.77994,-87.64447
+CCH-00539,48,Male,Asian,Employer-Sponsored HMO,Spanish,Uptown,60640,Far North,Englewood Health Center,4,141,26.9,32694,2024-02-24,41.9775,-87.64622
+CCH-00540,68,Male,Black or African American,Medicare,Spanish,Rogers Park,60626,Far North,Prieto Health Center,11,120,27.8,48728,2022-01-04,42.01005,-87.66248
+CCH-00541,63,Male,Black or African American,CountyCare Health Plan,Spanish,Humboldt Park,60651,West,John H. Stroger Jr. Hospital,2,99,18.5,54151,2022-11-28,41.91141,-87.69879
+CCH-00542,41,Female,White,Medicaid,English,Humboldt Park,60651,West,Arlington Heights Health Center,1,137,24.5,28648,2024-10-21,41.90345,-87.70844
+CCH-00543,53,Female,Two or More Races,Medicaid,Cantonese,Bronzeville,60653,South,John H. Stroger Jr. Hospital,1,126,24.9,31271,2022-02-19,41.81427,-87.60621
+CCH-00544,25,Male,Hispanic or Latino,CountyCare Health Plan,English,South Shore,60649,South,Cottage Grove Health Center,2,124,36.9,32542,2021-02-08,41.74742,-87.57606
+CCH-00545,47,Male,Hispanic or Latino,ACA Marketplace Silver,Spanish,South Shore,60649,South,Ruth M. Rothstein CORE Center,3,146,30.5,48449,2023-02-04,41.76265,-87.57662
+CCH-00546,90,Male,Black or African American,CountyCare Health Plan,Polish,Austin,60644,West,John H. Stroger Jr. Hospital,10,114,20.6,40412,2021-05-04,41.87563,-87.76506
+CCH-00547,56,Female,Black or African American,Medicare,English,Uptown,60640,Far North,Provident Hospital of Cook County,1,112,24.9,10000,2022-09-08,41.95718,-87.64308
+CCH-00548,36,Male,White,Medicare,English,Near West Side,60612,Central,Englewood Health Center,2,67,25.7,25991,2023-07-17,41.87771,-87.64958
+CCH-00549,58,Female,Hispanic or Latino,Medicaid,Cantonese,Garfield Park,60624,West,Ruth M. Rothstein CORE Center,3,165,26.2,20498,2023-04-27,41.88716,-87.71811
+CCH-00550,41,Male,Hispanic or Latino,ACA Marketplace Silver,Spanish,Uptown,60640,Far North,Near South Health Center,6,130,26.1,45780,2023-02-10,41.95313,-87.66737
+CCH-00551,50,Female,White,Medicaid,Spanish,Little Village,60623,Southwest,Near South Health Center,1,101,24.7,29106,2022-01-28,41.84191,-87.72311
+CCH-00552,44,Female,Hispanic or Latino,Employer-Sponsored PPO,English,Bronzeville,60653,South,Arlington Heights Health Center,7,114,22.3,30143,2021-08-16,41.8111,-87.61821
+CCH-00553,21,Male,White,Employer-Sponsored HMO,English,Uptown,60640,Far North,Cottage Grove Health Center,5,118,26.7,68677,2023-12-08,41.96889,-87.66303
+CCH-00554,94,Male,Two or More Races,Medicare,English,Rogers Park,60626,Far North,John H. Stroger Jr. Hospital,2,132,33.0,37606,2022-10-24,42.00199,-87.6682
+CCH-00555,38,Female,Asian,Medicaid,English,Roseland,60628,Far South,Near South Health Center,2,109,22.3,66396,2021-01-11,41.6913,-87.61836
+CCH-00556,66,Female,Black or African American,Medicare,English,Bridgeport,60616,South,Provident Hospital of Cook County,3,80,31.2,17970,2021-02-27,41.83411,-87.66147
+CCH-00557,35,Female,White,ACA Marketplace Silver,English,Humboldt Park,60651,West,Cottage Grove Health Center,5,115,21.2,19438,2021-05-30,41.90141,-87.68824
+CCH-00558,30,Female,White,ACA Marketplace Silver,Spanish,Austin,60644,West,John H. Stroger Jr. Hospital,1,111,23.7,27094,2023-06-25,41.9031,-87.76768
+CCH-00559,51,Female,Black or African American,Employer-Sponsored PPO,English,Chatham,60619,South,John H. Stroger Jr. Hospital,2,129,31.7,10000,2023-07-18,41.73744,-87.62613
+CCH-00560,34,Male,Black or African American,Employer-Sponsored HMO,English,Roseland,60628,Far South,Provident Hospital of Cook County,6,116,31.0,57582,2024-04-29,41.69078,-87.62448
+CCH-00561,37,Female,Black or African American,Medicaid,English,Bridgeport,60616,South,Arlington Heights Health Center,11,116,28.5,24189,2023-11-17,41.84003,-87.65812
+CCH-00562,70,Female,Hispanic or Latino,Employer-Sponsored PPO,Spanish,South Shore,60649,South,Ruth M. Rothstein CORE Center,1,107,31.5,19418,2021-04-28,41.7637,-87.58127
+CCH-00563,62,Non-Binary,Hispanic or Latino,CountyCare Health Plan,Spanish,Uptown,60640,Far North,Robbins Health Center,4,130,32.9,21427,2024-05-13,41.97806,-87.64474
+CCH-00564,39,Female,Black or African American,Medicaid,English,Humboldt Park,60651,West,Cottage Grove Health Center,3,137,29.9,55828,2022-04-17,41.90083,-87.69332
+CCH-00565,50,MALE,Black or African American,Uninsured / Self-Pay,English,Pilsen,60608,Southwest,John H. Stroger Jr. Hospital,1,96,27.4,48180,2024-02-11,41.84736,-87.66577
+CCH-00566,20,Female,Black or African American,Medicaid,English,Austin,60644,West,Prieto Health Center,1,112,39.5,42144,2022-05-19,41.88157,-87.77048
+CCH-00567,50,Male,Black or African American,CountyCare Health Plan,English,Pilsen,60608,Southwest,Near South Health Center,4,124,43.3,22111,2023-02-02,41.86085,-87.64475
+CCH-00568,84,Male,Black or African American,Medicare,English,Humboldt Park,60651,West,Near South Health Center,4,125,32.7,36272,2022-10-14,41.89075,-87.69052
+CCH-00569,70,Female,Hispanic or Latino,Medicare,English,Albany Park,60625,North,Ruth M. Rothstein CORE Center,12,132,31.4,30792,2023-11-07,41.96213,-87.72494
+CCH-00570,64,Male,White,ACA Marketplace Silver,English,Humboldt Park,60651,West,Prieto Health Center,1,134,26.7,19003,2023-08-09,41.89222,-87.70536
+CCH-00571,2,Female,Black or African American,CountyCare Health Plan,English,Rogers Park,60626,Far North,Cottage Grove Health Center,7,130,24.5,46320,2023-07-15,42.00643,-87.65736
+CCH-00572,64,Male,Black or African American,Employer-Sponsored PPO,English,Bronzeville,60653,South,Cottage Grove Health Center,1,112,23.2,36884,2024-04-10,41.81764,-87.63046
+CCH-00573,28,Female,Black or African American,Medicaid,English,Little Village,60623,Southwest,Near South Health Center,2,131,21.1,37776,2021-06-18,41.84031,-87.71743
+CCH-00574,59,Female,Black or African American,Medicaid,English,Humboldt Park,60651,West,Englewood Health Center,7,132,31.3,58281,2024-10-31,41.88934,-87.71585
+CCH-00575,69,Male,White,Medicare,Spanish,Albany Park,60625,North,Arlington Heights Health Center,6,149,28.4,35528,2023-04-11,41.98067,-87.72914
+CCH-00576,16,Male,Hispanic or Latino,CountyCare Health Plan,English,Chatham,60619,South,Prieto Health Center,5,86,18.4,44808,2023-08-18,41.73793,-87.62219
+CCH-00577,42,Male,Black or African American,ACA Marketplace Silver,English,Bridgeport,60616,South,Ruth M. Rothstein CORE Center,10,135,39.0,39773,2022-09-18,41.83393,-87.65054
+CCH-00578,55,Female,Black or African American,Employer-Sponsored PPO,English,Uptown,60640,Far North,John H. Stroger Jr. Hospital,1,113,33.4,33799,2021-10-12,41.97338,-87.64541
+CCH-00579,30,Male,Black or African American,Uninsured / Self-Pay,English,Chatham,60619,South,Robbins Health Center,2,110,36.4,32589,2021-08-11,41.73773,-87.61756
+CCH-00580,-3,Male,Black or African American,Medicaid,English,Englewood,60621,South,Arlington Heights Health Center,1,135,26.6,56859,2022-08-05,41.76576,-87.63763
+CCH-00581,30,Female,Black or African American,Medicaid,English,Bronzeville,60653,South,Robbins Health Center,2,130,31.6,31803,2021-05-21,41.83579,-87.62067
+CCH-00582,57,Male,Hispanic or Latino,Uninsured / Self-Pay,English,Uptown,60640,Far North,Robbins Health Center,1,115,34.7,37026,2022-07-19,41.96504,-87.65019
+CCH-00583,58,Female,Hispanic or Latino,CountyCare Health Plan,Spanish,Bronzeville,60653,South,Englewood Health Center,8,106,19.7,44733,2024-08-16,41.83731,-87.60662
+CCH-00584,43,Male,Hispanic or Latino,Medicaid,English,Roseland,60628,Far South,Arlington Heights Health Center,1,112,23.1,31312,2024-09-11,41.7155,-87.62755
+CCH-00585,59,Male,Black or African American,Employer-Sponsored HMO,Spanish,South Shore,60649,South,Cottage Grove Health Center,2,122,28.6,29888,2023-10-08,41.77208,-87.57387
+CCH-00586,26,Female,Hispanic or Latino,Medicaid,English,Roseland,60628,Far South,Provident Hospital of Cook County,4,145,28.4,22324,2024-08-01,41.69978,-87.62647
+CCH-00587,46,Female,Hispanic or Latino,Medicaid,English,Austin,60644,West,Robbins Health Center,1,94,23.3,16894,2021-05-20,41.88312,-87.75773
+CCH-00588,28,Female,Black or African American,Medicaid,English,Englewood,60621,South,Arlington Heights Health Center,1,132,29.1,14020,2021-12-11,41.76992,-87.65776
+CCH-00589,56,Female,Black or African American,CountyCare Health Plan,English,Austin,60644,West,Prieto Health Center,4,138,27.0,31706,2024-08-05,41.90238,-87.76303
+CCH-00590,39,Male,Black or African American,Uninsured / Self-Pay,English,Austin,60644,West,Provident Hospital of Cook County,2,109,33.6,37024,2021-02-02,41.89877,-87.75599
+CCH-00591,56,Female,White,Employer-Sponsored HMO,English,Garfield Park,60624,West,Prieto Health Center,6,148,24.8,58162,2021-08-09,41.8693,-87.71244
+CCH-00592,17,Female,Black or African American,Medicaid,English,Pilsen,60608,Southwest,Near South Health Center,2,99,26.3,39514,2021-01-25,41.84482,-87.66489
+CCH-00593,57,Female,Hispanic or Latino,Employer-Sponsored PPO,Tagalog,Humboldt Park,60651,West,Prieto Health Center,1,104,36.0,32487,2024-03-11,41.91376,-87.70467
+CCH-00594,74,Male,Asian,Dual Eligible (Medicare/Medicaid),English,Roseland,60628,Far South,Robbins Health Center,2,123,22.4,24624,2021-05-19,41.71081,-87.63004
+CCH-00595,27,female,White,Medicaid,English,Rogers Park,60626,Far North,Cottage Grove Health Center,5,141,26.9,34155,2023-05-28,42.01554,-87.6846
+CCH-00596,36,Female,Other,Employer-Sponsored PPO,English,Near West Side,60612,Central,Near South Health Center,2,135,22.3,16772,2021-10-02,41.87866,-87.67116
+CCH-00597,10,Male,Hispanic or Latino,Medicaid,Cantonese,Near West Side,60612,Central,Cottage Grove Health Center,4,120,24.6,47552,2022-04-01,41.88481,-87.66836
+CCH-00598,45,Male,Two or More Races,Uninsured / Self-Pay,English,Humboldt Park,60651,West,Ruth M. Rothstein CORE Center,3,126,29.5,27614,2024-04-28,41.91581,-87.71544
+CCH-00599,28,Female,Black or African American,Medicaid,English,Englewood,60621,South,Robbins Health Center,1,125,32.7,24056,2024-07-25,41.78645,-87.65095
+CCH-00600,63,Female,White,Employer-Sponsored PPO,Spanish,Little Village,60623,Southwest,Robbins Health Center,5,121,26.2,40938,2021-02-10,41.84404,-87.71374
+CCH-00601,59,Male,Hispanic or Latino,CountyCare Health Plan,English,Albany Park,60625,North,Robbins Health Center,2,118,27.6,27696,2021-05-28,41.9751,-87.72168
+CCH-00602,48,Male,Two or More Races,Uninsured / Self-Pay,Polish,Bridgeport,60616,South,Near South Health Center,3,125,23.5,21486,2023-02-26,41.84316,-87.64896
+CCH-00603,42,Male,Two or More Races,  Employer-Sponsored PPO  ,Spanish,Pilsen,60608,Southwest,Near South Health Center,5,128,24.7,26500,2023-11-10,41.86916,-87.66643
+CCH-00604,63,Female,Hispanic or Latino,ACA Marketplace Silver,Spanish,Near West Side,60612,Central,Ruth M. Rothstein CORE Center,4,131,31.5,34900,2022-06-20,41.86667,-87.67726
+CCH-00605,47,Male,Asian,Employer-Sponsored HMO,English,Englewood,60621,South,Provident Hospital of Cook County,9,147,30.9,31230,2023-11-28,41.76517,-87.63517
+CCH-00606,22,Female,Hispanic or Latino,Medicare,Spanish,Albany Park,60625,North,Provident Hospital of Cook County,4,136,29.3,23503,2021-08-12,41.97305,-87.71792
+CCH-00607,65,Male,Hispanic or Latino,Medicare,English,Pilsen,60608,Southwest,Arlington Heights Health Center,2,146,26.9,54499,2023-12-12,41.86217,-87.67111
+CCH-00608,52,Female,White,CountyCare Health Plan,English,Little Village,60623,Southwest,John H. Stroger Jr. Hospital,6,135,34.3,80647,2022-01-10,41.83626,-87.70045
+CCH-00609,60,Male,Black or African American,Medicare,English,Humboldt Park,60651,West,Near South Health Center,3,113,19.8,41310,2021-03-02,41.91325,-87.71202
+CCH-00610,52,Male,Black or African American,Medicaid,Spanish,Austin,60644,West,Arlington Heights Health Center,3,129,32.8,35029,2024-05-19,41.89556,-87.75532
+CCH-00611,16,Male,White,Uninsured / Self-Pay,Arabic,Bronzeville,60653,South,Arlington Heights Health Center,4,128,40.0,32975,2023-02-15,41.82112,-87.6063
+CCH-00612,47,Male,Hispanic or Latino,Medicaid,Spanish,Pilsen,60608,Southwest,Englewood Health Center,2,124,22.1,22114,2022-05-25,41.86296,-87.64466
+CCH-00613,28,Female,Black or African American,Medicaid,English,Uptown,60640,Far North,Near South Health Center,2,128,23.8,27944,2024-10-20,41.97953,-87.64392
+CCH-00614,41,Female,White,Employer-Sponsored HMO,English,Garfield Park,60624,West,Arlington Heights Health Center,4,121,25.6,10000,2022-08-25,41.89464,-87.72322
+CCH-00615,69,Male,Hispanic or Latino,Medicare,English,Austin,60644,West,Robbins Health Center,8,106,34.8,32884,2021-12-11,41.87944,-87.7551
+CCH-00616,33,Female,Black or African American,Uninsured / Self-Pay,Cantonese,Uptown,60640,Far North,Near South Health Center,5,122,29.2,50136,2023-02-25,41.9718,-87.66514
+CCH-00617,9,Female,White,Medicaid,English,Englewood,60621,South,Cottage Grove Health Center,5,131,21.7,24404,2024-03-25,41.79248,-87.63929
+CCH-00618,26,Male,Hispanic or Latino,Uninsured / Self-Pay,English,Pilsen,60608,Southwest,Englewood Health Center,2,143,32.4,47398,2021-08-25,41.86082,-87.64775
+CCH-00619,37,Male,Hispanic or Latino,Uninsured / Self-Pay,English,Rogers Park,60626,Far North,John H. Stroger Jr. Hospital,3,120,37.7,10000,2024-04-23,42.00543,-87.6594
+CCH-00620,39,Male,Black or African American,Employer-Sponsored HMO,,Roseland,60628,Far South,Robbins Health Center,1,139,38.7,27293,2022-10-10,41.69379,-87.62009
+CCH-00621,27,Male,Black or African American,ACA Marketplace Silver,English,Englewood,60621,South,Prieto Health Center,2,126,32.8,20912,2021-09-10,41.78721,-87.63283
+CCH-00622,38,Female,White,Medicaid,Spanish,Pilsen,60608,Southwest,Cottage Grove Health Center,9,117,30.3,10000,2021-04-18,41.84296,-87.64699
+CCH-00623,44,Male,Black or African American,CountyCare Health Plan,Spanish,Garfield Park,60624,West,Near South Health Center,2,112,23.7,35728,2023-03-13,41.89186,-87.70777
+CCH-00624,43,Male,Asian,Employer-Sponsored PPO,English,Pilsen,60608,Southwest,Englewood Health Center,4,116,22.9,29947,2023-07-27,41.84412,-87.6616
+CCH-00625,8,Female,White,Medicaid,English,Roseland,60628,Far South,Ruth M. Rothstein CORE Center,11,129,18.4,51581,2023-02-11,41.71245,-87.61794
+CCH-00626,54,Non-Binary,Black or African American,CountyCare Health Plan,English,Englewood,60621,South,Ruth M. Rothstein CORE Center,5,122,28.5,46043,2024-07-08,41.79315,-87.65478
+CCH-00627,34,Male,White,Employer-Sponsored PPO,Spanish,Englewood,60621,South,Robbins Health Center,2,134,24.2,25168,2024-08-24,41.78438,-87.64704
+CCH-00628,55,Female,Hispanic or Latino,Medicaid,English,Uptown,60640,Far North,Englewood Health Center,6,126,31.2,54712,2021-07-13,41.97086,-87.65301
+CCH-00629,35,Male,Hispanic or Latino,ACA Marketplace Silver,English,Humboldt Park,60651,West,John H. Stroger Jr. Hospital,3,112,18.1,31362,2023-03-18,41.89696,-87.69559
+CCH-00630,25,Male,Black or African American,Employer-Sponsored PPO,Spanish,Bridgeport,60616,South,Provident Hospital of Cook County,7,127,28.2,36443,2022-01-06,41.84596,-87.64415
+CCH-00631,32,Female,White,Employer-Sponsored HMO,English,Rogers Park,60626,Far North,Provident Hospital of Cook County,2,130,31.9,35935,2023-11-03,42.00059,-87.68016
+CCH-00632,73,Female,Hispanic or Latino,Dual Eligible (Medicare/Medicaid),English,Austin,60644,West,Robbins Health Center,3,122,33.8,36692,2022-10-03,41.90399,-87.76342
+CCH-00633,35,Female,White,Medicaid,English,Chatham,60619,South,Ruth M. Rothstein CORE Center,3,123,24.5,30967,2024-05-18,41.72734,-87.6279
+CCH-00634,44,Male,Black or African American,CountyCare Health Plan,English,South Shore,60649,South,Arlington Heights Health Center,3,109,36.9,49148,2021-10-21,41.75705,-87.56289
+CCH-00635,74,Female,Black or African American,Medicare,Spanish,Bronzeville,60653,South,Near South Health Center,2,125,32.7,35295,2023-06-08,41.82691,-87.61357
+CCH-00636,44,Male,Black or African American,CountyCare Health Plan,English,Pilsen,60608,Southwest,Cottage Grove Health Center,1,145,17.5,67383,2022-07-15,41.84318,-87.65209
+CCH-00637,40,Male,White,Employer-Sponsored HMO,English,Englewood,60621,South,Near South Health Center,7,131,20.9,31036,2024-03-17,41.78059,-87.63203
+CCH-00638,55,Male,White,Employer-Sponsored HMO,English,Pilsen,60608,Southwest,Arlington Heights Health Center,3,120,27.9,62335,2023-09-04,41.84662,-87.64712
+CCH-00639,40,Female,Other,Employer-Sponsored PPO,Spanish,Rogers Park,60626,Far North,Cottage Grove Health Center,4,103,27.4,28196,2024-10-20,42.01646,-87.68341
+CCH-00640,79,Female,Asian,Dual Eligible (Medicare/Medicaid),English,South Shore,60649,South,Provident Hospital of Cook County,2,123,27.4,44421,2022-09-18,41.77418,-87.57438
+CCH-00641,72,Male,Asian,Medicare,Spanish,Englewood,60621,South,John H. Stroger Jr. Hospital,4,138,31.3,34430,2023-05-19,41.78206,-87.65576
+CCH-00642,19,Male,Asian,Employer-Sponsored HMO,Spanish,Albany Park,60625,North,Arlington Heights Health Center,5,126,28.7,64206,2023-12-31,41.97424,-87.71724
+CCH-00643,78,Male,Black or African American,Medicare,Arabic,Albany Park,60625,North,Prieto Health Center,1,116,26.3,44346,2022-04-06,41.97382,-87.72813
+CCH-00644,43,Female,Black or African American,ACA Marketplace Silver,English,Englewood,60621,South,Provident Hospital of Cook County,2,130,27.3,48664,2022-08-18,41.776,-87.6549
+CCH-00645,45,Female,Asian,CountyCare Health Plan,Arabic,South Shore,60649,South,Robbins Health Center,2,105,24.5,28520,2021-04-28,41.77347,-87.56123
+CCH-00646,45,Male,Black or African American,CountyCare Health Plan,English,Englewood,60621,South,Ruth M. Rothstein CORE Center,1,127,25.0,38735,2023-04-22,41.77686,-87.65803
+CCH-00647,39,Female,Black or African American,CountyCare Health Plan,Tagalog,South Shore,60649,South,Robbins Health Center,1,116,28.4,36273,2021-11-28,41.75653,-87.56323
+CCH-00648,68,Female,Asian,Dual Eligible (Medicare/Medicaid),English,South Shore,60649,South,Cottage Grove Health Center,11,109,31.3,37138,2023-09-09,41.74681,-87.57816
+CCH-00649,25,Male,Hispanic or Latino,ACA Marketplace Silver,Cantonese,Englewood,60621,South,Arlington Heights Health Center,1,127,29.3,40074,2021-09-27,41.77455,-87.63537
+CCH-00650,58,Male,Hispanic or Latino,CountyCare Health Plan,English,Near West Side,60612,Central,Robbins Health Center,2,141,33.7,46402,2022-08-16,41.86096,-87.6534
+CCH-00651,25,Female,Black or African American,Uninsured / Self-Pay,Spanish,South Shore,60649,South,Cottage Grove Health Center,5,108,31.7,14876,2023-08-29,41.7686,-87.56407
+CCH-00652,35,Non-Binary,Hispanic or Latino,Medicaid,English,Rogers Park,60626,Far North,Cottage Grove Health Center,2,125,26.5,33331,2021-10-27,42.01327,-87.68054
+CCH-00653,64,Female,Black or African American,CountyCare Health Plan,English,Uptown,60640,Far North,John H. Stroger Jr. Hospital,1,131,19.3,66952,2022-09-16,41.9802,-87.66165
+CCH-00654,43,Male,Black or African American,Employer-Sponsored PPO,English,Englewood,60621,South,Provident Hospital of Cook County,1,114,33.6,33147,2023-06-02,41.76603,-87.65674
+CCH-00655,44,Female,White,CountyCare Health Plan,Spanish,Albany Park,60625,North,Prieto Health Center,2,132,26.1,29101,2024-05-23,41.97641,-87.72549
+CCH-00656,18,Female,Asian,Uninsured / Self-Pay,Spanish,Bridgeport,60616,South,Cottage Grove Health Center,9,148,34.9,47122,2023-07-02,41.83946,-87.66247
+CCH-00657,31,Non-Binary,Hispanic or Latino,Medicaid,Spanish,Near West Side,60612,Central,Prieto Health Center,8,147,19.7,46089,2022-12-13,41.87541,-87.67369
+CCH-00658,52,Female,Black or African American,Medicaid,Polish,Garfield Park,60624,West,Englewood Health Center,11,122,42.8,53986,2021-04-04,41.89497,-87.71377
+CCH-00659,59,Female,White,Medicaid,English,Albany Park,60625,North,Arlington Heights Health Center,4,153,28.5,39309,2023-04-01,41.97941,-87.70025
+CCH-00660,25,Female,Hispanic or Latino,Employer-Sponsored PPO,English,Garfield Park,60624,West,Cottage Grove Health Center,5,116,25.0,34845,2022-08-30,41.89012,-87.72384
+CCH-00661,59,Female,Asian,Medicaid,English,Englewood,60621,South,Cottage Grove Health Center,3,129,33.8,38130,2022-03-07,41.79306,-87.64997
+CCH-00662,33,Female,Asian,Medicaid,English,Bridgeport,60616,South,John H. Stroger Jr. Hospital,6,116,30.2,27935,2024-07-05,41.84792,-87.65578
+CCH-00663,57,Non-Binary,Hispanic or Latino,Uninsured / Self-Pay,Spanish,Albany Park,60625,North,Arlington Heights Health Center,1,123,22.9,22474,2024-09-01,41.97302,-87.70336
+CCH-00664,52,Female,Black or African American,Employer-Sponsored PPO,English,Near West Side,60612,Central,Arlington Heights Health Center,1,142,21.7,40463,2023-01-25,41.87685,-87.65407
+CCH-00665,14,Female,Black or African American,CountyCare Health Plan,English,Rogers Park,60626,Far North,Ruth M. Rothstein CORE Center,4,133,29.6,46235,2023-03-19,42.00912,-87.66312
+CCH-00666,29,Male,White,Employer-Sponsored PPO,English,Pilsen,60608,Southwest,Arlington Heights Health Center,1,133,33.0,13915,2023-02-26,41.84421,-87.6555
+CCH-00667,43,Female,White,Employer-Sponsored HMO,English,Humboldt Park,60651,West,Provident Hospital of Cook County,5,122,23.6,59315,2024-01-16,41.89523,-87.68884
+CCH-00668,53,Male,Black or African American,CountyCare Health Plan,English,Little Village,60623,Southwest,Englewood Health Center,3,143,30.1,38641,2024-07-09,41.85526,-87.71968
+CCH-00669,38,Male,Hispanic or Latino,Medicaid,English,Pilsen,60608,Southwest,Englewood Health Center,9,123,24.9,15661,2022-04-08,41.84546,-87.64393
+CCH-00670,38,Female,Black or African American,  Medicare  ,English,Humboldt Park,60651,West,Near South Health Center,8,92,25.5,31883,2021-06-23,41.89394,-87.68831
+CCH-00671,23,Male,Black or African American,Employer-Sponsored HMO,Spanish,Englewood,60621,South,Englewood Health Center,4,121,38.1,26050,2023-10-20,41.79159,-87.63769
+CCH-00672,45,Female,Black or African American,Medicaid,English,Garfield Park,60624,West,Robbins Health Center,1,119,20.0,49344,2021-05-18,41.89574,-87.71417
+CCH-00673,56,Female,White,CountyCare Health Plan,English,Roseland,60628,Far South,Near South Health Center,6,137,25.9,28102,2021-10-11,41.70155,-87.63042
+CCH-00674,28,Male,White,Medicaid,English,Albany Park,60625,North,Cottage Grove Health Center,1,135,46.9,38920,2021-06-28,41.96939,-87.7225
+CCH-00675,69,Male,White,Medicare,Spanish,Garfield Park,60624,West,Ruth M. Rothstein CORE Center,3,128,32.1,20576,2022-08-27,41.8697,-87.71016
+CCH-00676,64,Female,White,Uninsured / Self-Pay,English,Near West Side,60612,Central,John H. Stroger Jr. Hospital,2,119,25.8,15500,2023-05-20,41.86108,-87.67417
+CCH-00677,77,Male,Black or African American,Medicare,Spanish,Austin,60644,West,Arlington Heights Health Center,5,139,25.3,39660,2021-11-03,41.88001,-87.77476
+CCH-00678,3,FEMALE,Black or African American,CountyCare Health Plan,English,Bridgeport,60616,South,John H. Stroger Jr. Hospital,5,119,27.5,37951,2024-05-22,41.83152,-87.64026
+CCH-00679,60,Male,Black or African American,Employer-Sponsored HMO,English,Albany Park,60625,North,Ruth M. Rothstein CORE Center,13,105,12.5,32048,2022-07-11,41.97464,-87.72166
+CCH-00680,55,male,Hispanic or Latino,Uninsured / Self-Pay,English,Near West Side,60612,Central,Robbins Health Center,2,133,21.6,14671,2023-09-05,41.87117,-87.65362
+CCH-00681,63,Male,White,CountyCare Health Plan,English,Near West Side,60612,Central,Cottage Grove Health Center,1,150,31.5,44847,2022-08-01,41.8675,-87.67517
+CCH-00682,86,Female,Other,Medicare,English,Near West Side,60612,Central,Robbins Health Center,1,128,32.6,45598,2021-04-04,41.87855,-87.67733
+CCH-00683,76,Male,Other,Dual Eligible (Medicare/Medicaid),Spanish,Albany Park,60625,North,Provident Hospital of Cook County,2,122,28.3,30627,2022-11-10,41.95915,-87.70684
+CCH-00684,50,Male,Black or African American,Medicaid,Spanish,Pilsen,60608,Southwest,Provident Hospital of Cook County,1,117,26.0,10000,2024-07-05,41.85551,-87.64524
+CCH-00685,56,Male,Hispanic or Latino,Uninsured / Self-Pay,English,Englewood,60621,South,Near South Health Center,6,104,25.5,50819,2023-07-06,41.7946,-87.64325
+CCH-00686,58,Male,Hispanic or Latino,Uninsured / Self-Pay,Arabic,Roseland,60628,Far South,Robbins Health Center,6,112,35.7,63260,2021-07-19,41.71049,-87.63283
+CCH-00687,1,Male,Black or African American,Medicaid,English,Humboldt Park,60651,West,Near South Health Center,1,113,32.7,62831,2022-12-25,41.90217,-87.70336
+CCH-00688,45,Female,Other,Uninsured / Self-Pay,English,Garfield Park,60624,West,Near South Health Center,2,144,36.5,10061,2022-08-11,41.87966,-87.70978
+CCH-00689,58,Male,Black or African American,CountyCare Health Plan,Spanish,Bronzeville,60653,South,John H. Stroger Jr. Hospital,13,137,38.0,47927,2024-06-25,41.82121,-87.61253
+CCH-00690,39,Female,Black or African American,CountyCare Health Plan,English,Humboldt Park,60651,West,Robbins Health Center,1,106,20.3,42882,2024-10-02,41.89592,-87.71225
+CCH-00691,63,Female,Hispanic or Latino,CountyCare Health Plan,English,Bridgeport,60616,South,Provident Hospital of Cook County,2,115,25.2,31253,2022-10-12,41.82465,-87.63491
+CCH-00692,46,Female,Black or African American,Employer-Sponsored HMO,English,Albany Park,60625,North,Arlington Heights Health Center,10,118,24.4,50971,2021-05-08,41.95797,-87.7153
+CCH-00693,41,Male,Black or African American,Employer-Sponsored HMO,English,Roseland,60628,Far South,Arlington Heights Health Center,2,126,25.6,10000,2021-06-17,41.71051,-87.6319
+CCH-00694,20,Female,Two or More Races,CountyCare Health Plan,English,Chatham,60619,South,Cottage Grove Health Center,10,122,21.3,40282,2022-12-17,41.72761,-87.60215
+CCH-00695,56,Female,White,Medicaid,English,Garfield Park,60624,West,Provident Hospital of Cook County,3,85,33.7,56638,2024-09-29,41.88719,-87.72583
+CCH-00696,60,Male,Black or African American,CountyCare Health Plan,Spanish,Bridgeport,60616,South,Provident Hospital of Cook County,2,102,27.9,37821,2024-10-12,41.8309,-87.65918
+CCH-00697,14,Female,White,Medicaid,English,Little Village,60623,Southwest,Prieto Health Center,4,135,29.2,48731,2021-12-07,41.84997,-87.71155
+CCH-00698,56,Male,Hispanic or Latino,ACA Marketplace Silver,Spanish,Bronzeville,60653,South,Robbins Health Center,24,148,23.8,45659,2024-08-21,41.83441,-87.63251
+CCH-00699,55,Non-Binary,Black or African American,CountyCare Health Plan,English,Bronzeville,60653,South,Prieto Health Center,2,111,33.4,17795,2023-06-12,41.8134,-87.62773
+CCH-00700,33,Male,White,Medicaid,English,Garfield Park,60624,West,John H. Stroger Jr. Hospital,9,130,36.1,54151,2024-06-16,41.89358,-87.73452
+CCH-00701,30,Male,Hispanic or Latino,Medicare,English,Albany Park,60625,North,Robbins Health Center,2,111,30.6,54974,2024-02-04,41.97074,-87.72842
+CCH-00702,80,Male,Hispanic or Latino,Dual Eligible (Medicare/Medicaid),Arabic,Pilsen,60608,Southwest,Cottage Grove Health Center,2,155,31.7,29392,2023-11-06,41.86844,-87.65195
+CCH-00703,63,Female,Black or African American,Medicaid,Spanish,Near West Side,60612,Central,Prieto Health Center,2,101,32.0,56296,2024-05-13,41.85952,-87.65103
+CCH-00704,26,Female,Hispanic or Latino,Employer-Sponsored PPO,English,Rogers Park,60626,Far North,Arlington Heights Health Center,2,134,27.0,46550,2021-12-22,42.01373,-87.66014
+CCH-00705,50,Female,Hispanic or Latino,ACA Marketplace Silver,English,Humboldt Park,60651,West,Prieto Health Center,10,150,29.1,44783,2021-11-22,41.90614,-87.69347
+CCH-00706,23,Male,Hispanic or Latino,Uninsured / Self-Pay,English,Austin,60644,West,Ruth M. Rothstein CORE Center,4,134,29.0,27872,2023-07-19,41.89414,-87.76269
+CCH-00707,39,Female,White,Employer-Sponsored PPO,Spanish,Chatham,60619,South,Englewood Health Center,10,116,22.6,21617,2021-06-19,41.73336,-87.6056
+CCH-00708,39,Female,Black or African American,Medicaid,English,Rogers Park,60626,Far North,Near South Health Center,2,122,27.2,38189,2022-03-02,41.99808,-87.68074
+CCH-00709,87,Female,Hispanic or Latino,Dual Eligible (Medicare/Medicaid),English,Uptown,60640,Far North,Englewood Health Center,8,144,24.0,18944,2021-01-21,41.9634,-87.64161
+CCH-00710,52,Female,Black or African American,CountyCare Health Plan,Spanish,Bronzeville,60653,South,Provident Hospital of Cook County,4,119,21.6,33670,2022-01-30,41.82452,-87.61458
+CCH-00711,47,Female,White,Medicaid,Arabic,Garfield Park,60624,West,Englewood Health Center,3,114,33.5,33709,2022-07-15,41.87291,-87.72767
+CCH-00712,32,Male,Black or African American,Uninsured / Self-Pay,English,Little Village,60623,Southwest,Englewood Health Center,1,121,30.5,17482,2023-03-16,41.84388,-87.70051
+CCH-00713,53,Male,White,Employer-Sponsored PPO,English,Pilsen,60608,Southwest,Arlington Heights Health Center,1,135,20.9,65279,2023-05-30,41.86769,-87.65859
+CCH-00714,55,Male,Asian,Employer-Sponsored HMO,Arabic,Albany Park,60625,North,Prieto Health Center,2,110,36.3,57206,2022-12-23,41.96089,-87.71711
+CCH-00715,36,Female,Black or African American,Employer-Sponsored PPO,English,Near West Side,60612,Central,John H. Stroger Jr. Hospital,1,130,23.7,32202,2022-11-05,41.87911,-87.66714
+CCH-00716,47,Female,Hispanic or Latino,Medicaid,Spanish,Near West Side,60612,Central,Provident Hospital of Cook County,8,131,19.8,50690,2024-03-21,41.87522,-87.67521
+CCH-00717,40,Female,Black or African American,Medicaid,English,Roseland,60628,Far South,Near South Health Center,2,138,24.2,31946,2024-04-25,41.70482,-87.6386
+CCH-00718,25,Non-Binary,Black or African American,Uninsured / Self-Pay,English,Garfield Park,60624,West,Prieto Health Center,2,101,34.9,39839,2021-03-22,41.88025,-87.73357
+CCH-00719,55,Female,Black or African American,Employer-Sponsored HMO,English,Bronzeville,60653,South,Arlington Heights Health Center,4,111,17.6,46753,2022-09-04,41.83261,-87.62099
+CCH-00720,55,Female,Black or African American,ACA Marketplace Silver,Tagalog,Rogers Park,60626,Far North,Arlington Heights Health Center,1,124,32.9,70175,2022-04-09,41.99748,-87.67828
+CCH-00721,20,Non-Binary,Black or African American,ACA Marketplace Silver,English,Garfield Park,60624,West,Englewood Health Center,2,151,24.5,11790,2021-06-03,41.88705,-87.73593
+CCH-00722,26,Male,White,ACA Marketplace Silver,Spanish,Rogers Park,60626,Far North,Arlington Heights Health Center,2,143,33.5,51624,2024-07-28,42.00822,-87.68121
+CCH-00723,23,Non-Binary,White,Medicaid,Spanish,Bronzeville,60653,South,Near South Health Center,7,114,28.8,61067,2024-02-18,41.83318,-87.61852
+CCH-00724,64,Female,White,Medicaid,English,Little Village,60623,Southwest,Provident Hospital of Cook County,1,106,22.4,27445,2022-11-29,41.83261,-87.72851
+CCH-00725,66,Female,Black or African American,Medicare,Cantonese,Little Village,60623,Southwest,Arlington Heights Health Center,7,104,18.3,35647,2023-07-16,41.85046,-87.70347
+CCH-00726,52,Female,Hispanic or Latino,Medicaid,English,South Shore,60649,South,Provident Hospital of Cook County,1,137,24.0,41069,2022-05-08,41.77414,-87.57268
+CCH-00727,25,Female,Black or African American,CountyCare Health Plan,English,Humboldt Park,60651,West,Prieto Health Center,1,128,28.0,45186,2022-11-15,41.91501,-87.71448
+CCH-00728,29,Female,Hispanic or Latino,Medicaid,English,South Shore,60649,South,Provident Hospital of Cook County,1,105,28.4,45764,2024-10-27,41.75128,-87.5847
+CCH-00729,75,Male,Hispanic or Latino,Medicare,Spanish,Near West Side,60612,Central,Arlington Heights Health Center,1,148,27.2,10000,2023-03-16,41.86138,-87.67527
+CCH-00730,45,Male,Black or African American,Medicare,English,Bronzeville,60653,South,Robbins Health Center,7,136,27.1,28959,2022-09-18,41.82911,-87.61182
+CCH-00731,42,Female,Black or African American,CountyCare Health Plan,English,Little Village,60623,Southwest,Englewood Health Center,1,117,28.5,35766,2021-06-07,41.83506,-87.72852
+CCH-00732,34,Female,Hispanic or Latino,ACA Marketplace Silver,Tagalog,Chatham,60619,South,Cottage Grove Health Center,3,140,28.7,10367,2023-12-12,41.73343,-87.62572
+CCH-00733,73,Female,Hispanic or Latino,Medicare,English,Little Village,60623,Southwest,John H. Stroger Jr. Hospital,2,142,24.9,54711,2022-12-24,41.85284,-87.69921
+CCH-00734,28,Male,Black or African American,Employer-Sponsored PPO,Polish,Little Village,60623,Southwest,Cottage Grove Health Center,18,98,27.5,41133,2024-09-12,41.83418,-87.70833
+CCH-00735,22,Female,Hispanic or Latino,Uninsured / Self-Pay,Polish,Near West Side,60612,Central,Prieto Health Center,15,114,31.0,31031,2023-07-10,41.88173,-87.67248
+CCH-00736,61,Female,Black or African American,Medicare,English,Rogers Park,60626,Far North,Near South Health Center,1,118,30.5,18141,2024-06-08,42.00692,-87.65518
+CCH-00737,51,Female,Black or African American,  CountyCare Health Plan  ,Polish,Austin,60644,West,Prieto Health Center,1,111,26.3,38483,2024-09-22,41.89057,-87.75843
+CCH-00738,41,Female,Hispanic or Latino,Medicare,Spanish,Chatham,60619,South,John H. Stroger Jr. Hospital,1,142,25.6,48553,2021-04-13,41.74379,-87.6274
+CCH-00739,63,Male,White,Medicaid,English,Englewood,60621,South,Provident Hospital of Cook County,1,107,23.0,40511,2022-08-19,41.79341,-87.6369
+CCH-00740,56,Female,Black or African American,Medicare,English,Garfield Park,60624,West,Near South Health Center,1,104,28.9,25937,2024-03-30,41.86934,-87.72966
+CCH-00741,36,Female,Black or African American,CountyCare Health Plan,Spanish,South Shore,60649,South,Arlington Heights Health Center,1,131,23.7,42951,2021-07-16,41.7626,-87.57115
+CCH-00742,73,Female,Asian,Medicare,English,Pilsen,60608,Southwest,Arlington Heights Health Center,5,115,24.7,29007,2021-07-01,41.8552,-87.64246
+CCH-00743,47,Female,White,Medicaid,English,Albany Park,60625,North,John H. Stroger Jr. Hospital,6,145,33.0,25429,2023-08-06,41.9803,-87.70307
+CCH-00744,52,Male,Hispanic or Latino,ACA Marketplace Silver,Spanish,Uptown,60640,Far North,John H. Stroger Jr. Hospital,5,127,,14665,2021-09-06,41.95401,-87.65047
+CCH-00745,58,Female,Hispanic or Latino,ACA Marketplace Silver,English,Bridgeport,60616,South,Englewood Health Center,6,129,25.6,30490,2021-01-14,41.85042,-87.65961
+CCH-00746,56,Male,White,CountyCare Health Plan,English,Albany Park,60625,North,John H. Stroger Jr. Hospital,2,129,24.7,39042,2021-09-07,41.95621,-87.72327
+CCH-00747,50,Female,Hispanic or Latino,Employer-Sponsored HMO,English,Rogers Park,60626,Far North,Ruth M. Rothstein CORE Center,6,156,26.5,29817,2021-10-18,42.01484,-87.65922
+CCH-00748,45,Female,Black or African American,Employer-Sponsored HMO,English,South Shore,60649,South,Arlington Heights Health Center,3,105,29.7,29650,2021-08-08,41.75428,-87.587
+CCH-00749,45,Female,Hispanic or Latino,ACA Marketplace Silver,English,Rogers Park,60626,Far North,Near South Health Center,3,133,27.6,25300,2021-10-13,42.00348,-87.66565
+CCH-00750,63,Male,Hispanic or Latino,CountyCare Health Plan,English,Albany Park,60625,North,Ruth M. Rothstein CORE Center,4,124,22.5,31141,2022-12-22,41.95962,-87.70232
+CCH-00751,53,Male,Hispanic or Latino,ACA Marketplace Silver,English,Uptown,60640,Far North,Robbins Health Center,4,119,16.6,21150,2024-05-25,41.95989,-87.65648
+CCH-00752,50,Female,White,Employer-Sponsored HMO,English,Bronzeville,60653,South,John H. Stroger Jr. Hospital,1,106,24.9,21782,2021-11-22,41.82767,-87.61558
+CCH-00753,40,Female,Asian,Medicaid,English,Roseland,60628,Far South,Arlington Heights Health Center,9,113,32.5,42609,2023-05-11,41.71426,-87.61802
+CCH-00754,76,Female,Black or African American,Employer-Sponsored PPO,Spanish,Bronzeville,60653,South,Arlington Heights Health Center,15,132,24.9,33224,2021-09-30,41.8282,-87.60778
+CCH-00755,46,Female,White,CountyCare Health Plan,English,Near West Side,60612,Central,John H. Stroger Jr. Hospital,11,143,29.6,40364,2024-07-12,41.88166,-87.66528
+CCH-00756,48,Male,White,Medicaid,Cantonese,Rogers Park,60626,Far North,Prieto Health Center,1,127,31.3,66935,2023-10-14,42.0108,-87.68284
+CCH-00757,30,Male,Black or African American,CountyCare Health Plan,English,Chatham,60619,South,Provident Hospital of Cook County,6,125,27.5,45650,2021-09-18,41.73014,-87.62699
+CCH-00758,49,Female,Hispanic or Latino,ACA Marketplace Silver,English,Near West Side,60612,Central,Ruth M. Rothstein CORE Center,1,147,18.3,23708,2022-08-13,41.88404,-87.6696
+CCH-00759,66,Female,Two or More Races,Medicare,Tagalog,Austin,60644,West,John H. Stroger Jr. Hospital,2,118,28.0,52406,2021-03-08,41.89198,-87.75225
+CCH-00760,47,Male,Black or African American,ACA Marketplace Silver,English,Bridgeport,60616,South,John H. Stroger Jr. Hospital,14,117,35.8,31311,2022-12-10,41.83129,-87.64098
+CCH-00761,41,Male,Hispanic or Latino,Medicaid,Spanish,Englewood,60621,South,Arlington Heights Health Center,2,121,37.5,10000,2023-09-06,41.77292,-87.65705
+CCH-00762,53,Male,White,CountyCare Health Plan,English,Roseland,60628,Far South,Robbins Health Center,2,126,26.2,43770,2021-04-17,41.69589,-87.62176
+CCH-00763,40,Female,Black or African American,CountyCare Health Plan,English,Humboldt Park,60651,West,John H. Stroger Jr. Hospital,1,106,24.9,31930,2022-05-03,41.91411,-87.68752
+CCH-00764,46,Male,Black or African American,ACA Marketplace Silver,English,Rogers Park,60626,Far North,John H. Stroger Jr. Hospital,2,92,27.4,51604,2021-09-17,41.99577,-87.66095
+CCH-00765,16,non-binary,Black or African American,Medicaid,English,Englewood,60621,South,Prieto Health Center,3,105,27.9,23029,2022-02-26,41.78298,-87.64394
+CCH-00766,57,Male,Hispanic or Latino,Employer-Sponsored HMO,English,Bronzeville,60653,South,Prieto Health Center,1,120,25.0,51516,2023-10-29,41.83341,-87.62422
+CCH-00767,66,Female,White,Medicare,English,Garfield Park,60624,West,Near South Health Center,1,120,29.0,55161,2021-10-18,41.87051,-87.70822
+CCH-00768,50,Female,White,CountyCare Health Plan,English,Chatham,60619,South,Englewood Health Center,2,86,34.1,39856,2024-06-02,41.72701,-87.62066
+CCH-00769,34,Female,Hispanic or Latino,Medicare,English,Uptown,60640,Far North,John H. Stroger Jr. Hospital,5,129,22.8,63729,2024-05-31,41.96373,-87.66673
+CCH-00770,44,Female,Hispanic or Latino,CountyCare Health Plan,Spanish,Austin,60644,West,John H. Stroger Jr. Hospital,3,152,41.3,27071,2021-08-12,41.88583,-87.75412
+CCH-00771,34,Male,Black or African American,CountyCare Health Plan,English,Pilsen,60608,Southwest,Cottage Grove Health Center,8,173,26.7,61790,2021-09-28,41.85838,-87.65425
+CCH-00772,36,Male,Black or African American,Employer-Sponsored HMO,Spanish,South Shore,60649,South,John H. Stroger Jr. Hospital,2,184,22.5,12232,2021-09-12,41.75573,-87.57816
+CCH-00773,58,Female,White,CountyCare Health Plan,English,Austin,60644,West,John H. Stroger Jr. Hospital,10,111,27.1,59664,2024-04-01,41.88959,-87.75002
+CCH-00774,44,Female,Black or African American,CountyCare Health Plan,English,Roseland,60628,Far South,John H. Stroger Jr. Hospital,1,131,37.0,43821,2022-04-22,41.7136,-87.63221
+CCH-00775,62,Female,Other,Uninsured / Self-Pay,English,Bridgeport,60616,South,Near South Health Center,5,109,24.1,29231,2024-01-12,41.82824,-87.63515
+CCH-00776,64,Female,White,ACA Marketplace Silver,English,Near West Side,60612,Central,Arlington Heights Health Center,1,134,23.7,62991,2022-08-03,41.86552,-87.66119
+CCH-00777,37,Male,Black or African American,Medicaid,English,Little Village,60623,Southwest,Ruth M. Rothstein CORE Center,1,140,20.2,19606,2024-04-25,41.85907,-87.72008
+CCH-00778,15,Female,Hispanic or Latino,Medicaid,Spanish,Rogers Park,60626,Far North,Ruth M. Rothstein CORE Center,5,124,19.8,10000,2023-02-20,42.01579,-87.6568
+CCH-00779,92,Male,Black or African American,Medicare,Spanish,Rogers Park,60626,Far North,John H. Stroger Jr. Hospital,3,113,22.2,35359,2024-05-28,42.01331,-87.66298
+CCH-00780,42,Female,Black or African American,Uninsured / Self-Pay,English,Near West Side,60612,Central,Provident Hospital of Cook County,2,156,34.1,33674,2022-05-09,41.86926,-87.65433
+CCH-00781,67,Female,Hispanic or Latino,Medicare,English,Bronzeville,60653,South,Ruth M. Rothstein CORE Center,1,135,35.7,25068,2024-01-07,41.8296,-87.61484
+CCH-00782,34,Male,Other,CountyCare Health Plan,English,Bronzeville,60653,South,Cottage Grove Health Center,7,107,31.3,38790,2022-01-04,41.81942,-87.63055
+CCH-00783,45,Male,Black or African American,ACA Marketplace Silver,English,Bridgeport,60616,South,Provident Hospital of Cook County,3,146,22.7,35095,2021-09-29,41.82443,-87.63762
+CCH-00784,38,Male,Asian,ACA Marketplace Silver,English,Near West Side,60612,Central,Provident Hospital of Cook County,1,129,40.9,19293,2021-04-03,41.88076,-87.67473
+CCH-00785,68,Male,Black or African American,Medicare,Spanish,Pilsen,60608,Southwest,Prieto Health Center,1,113,36.2,39048,2021-06-21,41.84988,-87.65699
+CCH-00786,37,Female,Black or African American,Uninsured / Self-Pay,English,Englewood,60621,South,Near South Health Center,3,110,34.5,25328,2021-04-09,41.78006,-87.64066
+CCH-00787,57,Female,Two or More Races,Medicaid,Spanish,Bronzeville,60653,South,Cottage Grove Health Center,3,111,21.3,27940,2023-06-01,41.83272,-87.60439
+CCH-00788,58,Female,Two or More Races,Medicaid,English,South Shore,60649,South,Provident Hospital of Cook County,4,133,30.9,46436,2022-04-20,41.7602,-87.58329
+CCH-00789,62,Female,Black or African American,CountyCare Health Plan,English,Garfield Park,60624,West,John H. Stroger Jr. Hospital,1,103,35.4,30555,2023-01-27,41.86759,-87.71078
+CCH-00790,44,Male,Black or African American,ACA Marketplace Silver,Spanish,South Shore,60649,South,Robbins Health Center,1,106,31.5,47793,2022-06-23,41.77314,-87.56851
+CCH-00791,23,MALE,Hispanic or Latino,Medicare,English,Bridgeport,60616,South,Prieto Health Center,6,89,27.0,24596,2024-10-08,41.8452,-87.64188
+CCH-00792,64,Male,White,Employer-Sponsored HMO,English,Roseland,60628,Far South,John H. Stroger Jr. Hospital,1,118,18.5,64887,2022-05-19,41.70564,-87.63429
+CCH-00793,40,Female,Hispanic or Latino,Medicaid,English,Chatham,60619,South,Prieto Health Center,1,114,35.2,46382,2022-03-15,41.73161,-87.6141
+CCH-00794,49,Female,Black or African American,Medicaid,English,South Shore,60649,South,Ruth M. Rothstein CORE Center,7,135,34.5,21203,2022-09-07,41.764,-87.57107
+CCH-00795,21,Male,Asian,Medicaid,Spanish,Albany Park,60625,North,Englewood Health Center,12,127,24.5,58982,2023-05-10,41.96773,-87.7265
+CCH-00796,62,Female,Asian,Medicaid,Spanish,Humboldt Park,60651,West,Robbins Health Center,2,137,28.9,51207,2024-05-15,41.89763,-87.70506
+CCH-00797,9,Male,Hispanic or Latino,CountyCare Health Plan,Spanish,Austin,60644,West,Arlington Heights Health Center,2,124,34.7,44208,2023-03-28,41.89247,-87.7693
+CCH-00798,51,Female,Black or African American,Medicaid,English,Little Village,60623,Southwest,Near South Health Center,4,148,37.6,41196,2021-09-22,41.84309,-87.71172
+CCH-00799,49,Male,Black or African American,Medicaid,English,Garfield Park,60624,West,Prieto Health Center,15,119,31.5,24345,2022-02-11,41.87698,-87.71452
+CCH-00800,44,Female,Two or More Races,Employer-Sponsored PPO,English,Bronzeville,60653,South,John H. Stroger Jr. Hospital,1,113,23.0,49025,2023-12-15,41.81995,-87.62653
+CCH-00801,55,Female,White,Employer-Sponsored PPO,English,Roseland,60628,Far South,Arlington Heights Health Center,6,137,36.6,15714,2021-09-26,41.71064,-87.63899
+CCH-00802,65,Male,Hispanic or Latino,CountyCare Health Plan,English,Bridgeport,60616,South,Arlington Heights Health Center,6,134,34.8,16313,2022-02-02,41.83386,-87.66326
+CCH-00803,20,Female,Hispanic or Latino,Employer-Sponsored HMO,English,Little Village,60623,Southwest,Provident Hospital of Cook County,12,137,22.2,31124,2022-04-01,41.83688,-87.72097
+CCH-00804,65,Female,White,  Employer-Sponsored PPO  ,Spanish,Austin,60644,West,Robbins Health Center,3,115,38.2,42280,2022-04-04,41.90539,-87.75717
+CCH-00805,27,Female,Black or African American,Uninsured / Self-Pay,English,South Shore,60649,South,Robbins Health Center,1,131,33.5,55185,2024-04-30,41.75557,-87.56571
+CCH-00806,18,Male,White,Medicaid,Spanish,Near West Side,60612,Central,John H. Stroger Jr. Hospital,4,130,18.8,19161,2022-10-21,41.86117,-87.6635
+CCH-00807,45,Male,Black or African American,Employer-Sponsored HMO,Spanish,Little Village,60623,Southwest,Prieto Health Center,7,136,30.8,37699,2024-02-11,41.84717,-87.71951
+CCH-00808,69,Female,Black or African American,Medicare,Spanish,Roseland,60628,Far South,Provident Hospital of Cook County,8,141,20.3,38679,2021-03-21,41.69041,-87.6244
+CCH-00809,37,Male,Black or African American,CountyCare Health Plan,Cantonese,Pilsen,60608,Southwest,Englewood Health Center,2,124,34.1,24816,2023-12-07,41.85318,-87.6624
+CCH-00810,54,Male,Black or African American,CountyCare Health Plan,English,Roseland,60628,Far South,Near South Health Center,1,137,27.0,20301,2021-10-05,41.70842,-87.61857
+CCH-00811,42,Female,Hispanic or Latino,Employer-Sponsored PPO,English,Austin,60644,West,John H. Stroger Jr. Hospital,3,135,31.4,50368,2024-07-03,41.88496,-87.77337
+CCH-00812,34,Male,Hispanic or Latino,ACA Marketplace Silver,Spanish,Garfield Park,60624,West,Near South Health Center,5,121,35.2,29763,2024-07-02,41.87218,-87.72897
+CCH-00813,39,Male,Black or African American,Medicaid,Spanish,Humboldt Park,60651,West,Arlington Heights Health Center,3,117,33.2,20640,2022-11-08,41.90912,-87.7086
+CCH-00814,75,Male,Other,Dual Eligible (Medicare/Medicaid),English,Garfield Park,60624,West,Ruth M. Rothstein CORE Center,1,120,32.0,27976,2021-10-21,41.8806,-87.73246
+CCH-00815,51,Female,White,Medicare,English,Little Village,60623,Southwest,Arlington Heights Health Center,5,122,26.9,23579,2023-02-12,41.84356,-87.71475
+CCH-00816,55,Female,White,Uninsured / Self-Pay,Spanish,Rogers Park,60626,Far North,Arlington Heights Health Center,2,114,26.9,26564,2024-02-22,42.01967,-87.65634
+CCH-00817,75,Male,Hispanic or Latino,Medicare,Spanish,Englewood,60621,South,Cottage Grove Health Center,3,149,42.1,37500,2024-06-17,41.76556,-87.64733
+CCH-00818,38,Male,Hispanic or Latino,Medicaid,English,Austin,60644,West,Near South Health Center,3,132,33.0,39042,2022-06-04,41.88148,-87.76817
+CCH-00819,31,Female,Hispanic or Latino,Medicaid,English,Bridgeport,60616,South,Robbins Health Center,4,107,21.8,39103,2024-05-29,41.84253,-87.65547
+CCH-00820,68,Male,White,Dual Eligible (Medicare/Medicaid),English,Austin,60644,West,Ruth M. Rothstein CORE Center,2,107,29.5,33520,2021-06-19,41.88669,-87.76061
+CCH-00821,42,Female,White,Employer-Sponsored HMO,English,Albany Park,60625,North,Near South Health Center,8,121,16.5,18043,2021-12-13,41.96162,-87.70382
+CCH-00822,4,Female,White,Medicaid,English,Chatham,60619,South,Englewood Health Center,1,122,36.0,44048,2021-06-21,41.74603,-87.62716
+CCH-00823,40,Male,Black or African American,Medicaid,English,Chatham,60619,South,Provident Hospital of Cook County,9,110,39.4,56824,2024-03-05,41.75114,-87.6289
+CCH-00824,50,Female,Black or African American,Employer-Sponsored PPO,English,Uptown,60640,Far North,Provident Hospital of Cook County,2,132,22.6,10000,2022-05-21,41.97977,-87.6453
+CCH-00825,66,Male,Black or African American,Medicare,English,South Shore,60649,South,Cottage Grove Health Center,2,106,33.5,80303,2022-01-21,41.7472,-87.56882
+CCH-00826,45,Female,Hispanic or Latino,Employer-Sponsored HMO,English,Bronzeville,60653,South,Ruth M. Rothstein CORE Center,10,143,25.5,33250,2021-03-17,41.82736,-87.62253
+CCH-00827,14,Female,Two or More Races,Medicaid,English,Roseland,60628,Far South,Englewood Health Center,3,104,29.4,48887,2021-07-05,41.71046,-87.63134
+CCH-00828,44,Female,Black or African American,Employer-Sponsored HMO,English,Uptown,60640,Far North,John H. Stroger Jr. Hospital,5,162,20.4,14542,2022-10-23,41.95639,-87.66411
+CCH-00829,65,Female,Black or African American,Medicare,English,Uptown,60640,Far North,John H. Stroger Jr. Hospital,6,126,21.1,43664,2023-06-19,41.97789,-87.66269
+CCH-00830,30,Male,Hispanic or Latino,CountyCare Health Plan,English,South Shore,60649,South,Cottage Grove Health Center,1,132,24.3,43691,2023-11-05,41.7673,-87.57197
+CCH-00831,25,Female,Two or More Races,Uninsured / Self-Pay,English,Englewood,60621,South,Ruth M. Rothstein CORE Center,4,115,28.9,32834,2021-09-24,41.79247,-87.6317
+CCH-00832,73,Female,Black or African American,Medicare,Spanish,Bronzeville,60653,South,Englewood Health Center,1,141,28.7,48747,2022-09-22,41.82376,-87.62804
+CCH-00833,58,Male,Black or African American,Medicaid,English,Chatham,60619,South,Arlington Heights Health Center,9,132,23.0,11690,2022-03-12,41.74927,-87.62885
+CCH-00834,38,Female,Black or African American,CountyCare Health Plan,English,Englewood,60621,South,Arlington Heights Health Center,2,99,34.4,46060,2024-05-07,41.77435,-87.63024
+CCH-00835,45,Female,Hispanic or Latino,CountyCare Health Plan,English,Rogers Park,60626,Far North,Arlington Heights Health Center,4,104,30.8,45875,2021-06-08,41.99974,-87.67795
+CCH-00836,51,Female,Hispanic or Latino,Medicare,English,Uptown,60640,Far North,Englewood Health Center,1,142,22.8,49525,2023-05-14,41.9562,-87.66378
+CCH-00837,72,Female,Black or African American,CountyCare Health Plan,English,Bridgeport,60616,South,Prieto Health Center,4,143,36.8,39695,2023-02-26,41.82444,-87.63783
+CCH-00838,37,Female,White,Employer-Sponsored HMO,English,Pilsen,60608,Southwest,Near South Health Center,5,111,37.0,10000,2023-08-28,41.84896,-87.65228
+CCH-00839,55,Female,Black or African American,Medicaid,Arabic,Roseland,60628,Far South,Englewood Health Center,3,132,19.6,16610,2022-02-09,41.7015,-87.61976
+CCH-00840,28,Female,White,ACA Marketplace Silver,English,Chatham,60619,South,Near South Health Center,2,133,31.5,19844,2024-10-14,41.74069,-87.61799
+CCH-00841,54,Female,White,Medicaid,English,Bronzeville,60653,South,Arlington Heights Health Center,1,139,25.5,36188,2022-05-25,41.81893,-87.63193
+CCH-00842,59,Male,White,Medicaid,Spanish,Bronzeville,60653,South,Prieto Health Center,3,140,33.4,45148,2024-03-11,41.83916,-87.61233
+CCH-00843,76,Male,Black or African American,Dual Eligible (Medicare/Medicaid),English,Garfield Park,60624,West,Englewood Health Center,2,160,32.3,62265,2023-05-16,41.86943,-87.72212
+CCH-00844,41,Female,Black or African American,Medicaid,English,Garfield Park,60624,West,Prieto Health Center,7,100,28.8,66637,2024-01-10,41.8794,-87.73401
+CCH-00845,32,Male,Hispanic or Latino,Medicaid,English,Pilsen,60608,Southwest,Arlington Heights Health Center,4,138,27.6,54195,2022-01-07,41.84944,-87.65063
+CCH-00846,65,Female,Black or African American,Dual Eligible (Medicare/Medicaid),English,South Shore,60649,South,Near South Health Center,1,127,26.2,62536,2022-03-29,41.75947,-87.56629
+CCH-00847,58,Male,Black or African American,Employer-Sponsored HMO,English,Bronzeville,60653,South,Robbins Health Center,3,107,28.2,27007,2021-11-07,41.82624,-87.61873
+CCH-00848,38,Female,Hispanic or Latino,Medicaid,Tagalog,Austin,60644,West,Provident Hospital of Cook County,5,103,23.5,35481,2022-03-02,41.89542,-87.76186
+CCH-00849,47,Female,Hispanic or Latino,CountyCare Health Plan,Tagalog,Englewood,60621,South,John H. Stroger Jr. Hospital,3,108,24.2,38679,2022-08-05,41.78355,-87.6533
+CCH-00850,55,male,Black or African American,Medicaid,English,Chatham,60619,South,Ruth M. Rothstein CORE Center,3,121,26.0,46987,2023-04-02,41.7297,-87.61713
+CCH-00851,58,Male,White,Uninsured / Self-Pay,English,Uptown,60640,Far North,Prieto Health Center,2,118,32.7,23522,2023-12-27,41.95397,-87.64176
+CCH-00852,14,Female,White,Medicaid,Spanish,Garfield Park,60624,West,Ruth M. Rothstein CORE Center,8,132,22.1,53576,2024-10-31,41.8926,-87.7255
+CCH-00853,65,Male,Black or African American,Medicare,English,Rogers Park,60626,Far North,Arlington Heights Health Center,2,123,28.4,58767,2021-02-16,42.00113,-87.66671
+CCH-00854,39,Female,Hispanic or Latino,CountyCare Health Plan,English,Bridgeport,60616,South,Ruth M. Rothstein CORE Center,2,127,30.9,30962,2023-07-27,41.83944,-87.64
+CCH-00855,84,Female,Hispanic or Latino,Medicare,Spanish,South Shore,60649,South,Robbins Health Center,6,112,35.1,34795,2022-05-11,41.74754,-87.58907
+CCH-00856,65,Female,Black or African American,Dual Eligible (Medicare/Medicaid),Spanish,Garfield Park,60624,West,Arlington Heights Health Center,19,140,29.8,33344,2023-12-01,41.89367,-87.73015
+CCH-00857,34,Male,White,Uninsured / Self-Pay,English,Humboldt Park,60651,West,John H. Stroger Jr. Hospital,6,132,32.8,15335,2022-08-23,41.90867,-87.69879
+CCH-00858,64,Male,Black or African American,Medicaid,English,Uptown,60640,Far North,Provident Hospital of Cook County,2,130,26.6,30629,2021-12-13,41.97029,-87.65544
+CCH-00859,47,Female,Hispanic or Latino,ACA Marketplace Silver,English,Bronzeville,60653,South,Englewood Health Center,2,144,18.8,47591,2022-12-03,41.82926,-87.63078
+CCH-00860,39,Male,Asian,Medicaid,English,Roseland,60628,Far South,Englewood Health Center,10,106,32.9,57020,2022-09-21,41.6942,-87.62435
+CCH-00861,27,Female,White,Employer-Sponsored HMO,English,Bridgeport,60616,South,Cottage Grove Health Center,7,128,25.6,33471,2021-02-27,41.84556,-87.65984
+CCH-00862,64,Female,Black or African American,Employer-Sponsored HMO,English,Chatham,60619,South,Ruth M. Rothstein CORE Center,7,127,26.2,52248,2024-04-17,41.75588,-87.61682
+CCH-00863,60,Female,Hispanic or Latino,CountyCare Health Plan,English,Albany Park,60625,North,Cottage Grove Health Center,1,112,33.1,55737,2022-09-26,41.96776,-87.71488
+CCH-00864,45,Female,White,ACA Marketplace Silver,Spanish,Little Village,60623,Southwest,Prieto Health Center,5,117,27.4,41126,2022-04-13,41.84458,-87.70152
+CCH-00865,15,Female,Asian,CountyCare Health Plan,Polish,South Shore,60649,South,John H. Stroger Jr. Hospital,3,97,28.5,50305,2023-07-04,41.7622,-87.57396
+CCH-00866,45,Male,Other,Medicaid,English,Near West Side,60612,Central,Englewood Health Center,5,101,27.0,10000,2021-07-07,41.86625,-87.65678
+CCH-00867,54,Female,Hispanic or Latino,Employer-Sponsored HMO,English,Near West Side,60612,Central,John H. Stroger Jr. Hospital,6,121,34.3,46086,2022-10-16,41.86623,-87.66073
+CCH-00868,27,Female,Hispanic or Latino,Employer-Sponsored HMO,Spanish,Rogers Park,60626,Far North,Provident Hospital of Cook County,6,132,32.0,65240,2023-06-26,42.00085,-87.67038
+CCH-00869,32,Female,Black or African American,Employer-Sponsored HMO,English,Roseland,60628,Far South,Englewood Health Center,2,114,31.3,29031,2024-08-14,41.70222,-87.63188
+CCH-00870,43,Female,Black or African American,Medicaid,Cantonese,Little Village,60623,Southwest,Prieto Health Center,3,146,32.6,62386,2023-08-22,41.83414,-87.7062
+CCH-00871,43,Male,White,  Medicaid  ,Spanish,Bronzeville,60653,South,Cottage Grove Health Center,3,119,25.4,55799,2022-09-22,41.82914,-87.61684
+CCH-00872,59,Male,Hispanic or Latino,Medicaid,English,Rogers Park,60626,Far North,Ruth M. Rothstein CORE Center,4,134,25.2,55148,2024-06-03,42.01456,-87.67529
+CCH-00873,23,Female,White,CountyCare Health Plan,English,Bridgeport,60616,South,Ruth M. Rothstein CORE Center,2,129,22.6,59014,2022-09-20,41.82948,-87.63571
+CCH-00874,28,Female,Hispanic or Latino,Medicaid,English,Pilsen,60608,Southwest,Ruth M. Rothstein CORE Center,5,131,37.4,41049,2023-07-25,41.84137,-87.6431
+CCH-00875,54,Female,Hispanic or Latino,CountyCare Health Plan,Spanish,Bronzeville,60653,South,Cottage Grove Health Center,3,150,30.1,32031,2024-06-18,41.81071,-87.62018
+CCH-00876,47,Female,White,Uninsured / Self-Pay,English,Bridgeport,60616,South,Robbins Health Center,2,140,24.0,28361,2022-05-27,41.83919,-87.63514
+CCH-00877,67,Female,Asian,Medicare,English,Bronzeville,60653,South,Arlington Heights Health Center,7,139,22.0,26820,2021-11-07,41.82314,-87.62447
+CCH-00878,29,Female,Black or African American,CountyCare Health Plan,English,Albany Park,60625,North,Provident Hospital of Cook County,11,119,22.0,59084,2022-10-05,41.97618,-87.72158
+CCH-00879,46,Female,White,Employer-Sponsored HMO,English,Near West Side,60612,Central,John H. Stroger Jr. Hospital,1,114,23.5,46546,2021-10-15,41.87322,-87.66831
+CCH-00880,41,Female,Other,Employer-Sponsored HMO,Arabic,Garfield Park,60624,West,Near South Health Center,3,126,21.1,27719,2024-01-09,41.89609,-87.7263
+CCH-00881,44,Non-Binary,White,CountyCare Health Plan,English,Roseland,60628,Far South,Robbins Health Center,4,105,29.2,43808,2024-06-03,41.69337,-87.63525
+CCH-00882,33,Female,Black or African American,Employer-Sponsored HMO,English,Garfield Park,60624,West,Near South Health Center,3,98,24.6,10267,2023-07-19,41.89282,-87.71533
+CCH-00883,43,Male,Black or African American,Medicaid,English,Austin,60644,West,Cottage Grove Health Center,4,127,25.4,53690,2024-04-11,41.89431,-87.7673
+CCH-00884,31,Male,Black or African American,Employer-Sponsored HMO,English,Bronzeville,60653,South,Englewood Health Center,1,102,14.8,29979,2022-01-07,41.8368,-87.61155
+CCH-00885,56,Female,Black or African American,Medicaid,English,Humboldt Park,60651,West,Arlington Heights Health Center,1,128,37.1,24720,2022-07-10,41.89702,-87.70754
+CCH-00886,83,Male,White,Medicare,Spanish,Humboldt Park,60651,West,Arlington Heights Health Center,2,131,25.2,44426,2021-04-11,41.91222,-87.70575
+CCH-00887,22,Female,Black or African American,CountyCare Health Plan,English,Englewood,60621,South,Robbins Health Center,2,146,34.4,37516,2024-05-23,41.78,-87.64095
+CCH-00888,48,Female,Black or African American,CountyCare Health Plan,Spanish,Little Village,60623,Southwest,Arlington Heights Health Center,2,132,38.8,27816,2021-07-24,41.83846,-87.72554
+CCH-00889,15,Female,Hispanic or Latino,Medicaid,Arabic,Bridgeport,60616,South,Englewood Health Center,8,138,39.2,46724,2024-08-18,41.82393,-87.64439
+CCH-00890,48,Female,White,Medicaid,Spanish,Englewood,60621,South,Englewood Health Center,4,127,31.1,23055,2023-02-01,41.78565,-87.63543
+CCH-00891,56,Female,Black or African American,ACA Marketplace Silver,English,Roseland,60628,Far South,Robbins Health Center,2,,19.4,13181,2022-02-22,41.71431,-87.63455
+CCH-00892,45,Male,Black or African American,Employer-Sponsored PPO,English,Bronzeville,60653,South,Prieto Health Center,5,140,27.8,28385,2023-02-12,41.81085,-87.61888
+CCH-00893,60,Female,Other,CountyCare Health Plan,Spanish,Pilsen,60608,Southwest,Prieto Health Center,1,134,21.8,24238,2023-06-21,41.87085,-87.66793
+CCH-00894,39,Male,Hispanic or Latino,Uninsured / Self-Pay,English,Englewood,60621,South,Robbins Health Center,1,142,29.0,46280,2024-03-15,41.77449,-87.6421
+CCH-00895,59,Female,Black or African American,Employer-Sponsored HMO,English,Humboldt Park,60651,West,Englewood Health Center,5,121,20.9,43038,2022-11-05,41.90872,-87.70853
+CCH-00896,9,Male,White,Medicaid,Spanish,Englewood,60621,South,Arlington Heights Health Center,1,120,29.6,47608,2024-07-18,41.77464,-87.64706
+CCH-00897,49,Male,White,CountyCare Health Plan,English,Englewood,60621,South,Arlington Heights Health Center,17,129,24.1,41621,2023-07-15,41.7767,-87.65795
+CCH-00898,19,Male,Black or African American,ACA Marketplace Silver,Spanish,Albany Park,60625,North,Robbins Health Center,3,135,37.8,55957,2024-01-30,41.98102,-87.71928
+CCH-00899,48,Male,Black or African American,Medicaid,English,Pilsen,60608,Southwest,Provident Hospital of Cook County,3,113,25.1,69191,2021-09-04,41.86047,-87.64236
+CCH-00900,40,Non-Binary,White,Medicaid,Spanish,Humboldt Park,60651,West,Prieto Health Center,1,142,24.2,12918,2022-02-04,41.91619,-87.68785
+CCH-00901,56,Female,White,CountyCare Health Plan,English,Roseland,60628,Far South,Cottage Grove Health Center,1,151,33.2,58302,2023-12-24,41.69455,-87.6142
+CCH-00902,23,Female,Hispanic or Latino,Uninsured / Self-Pay,Spanish,Garfield Park,60624,West,Englewood Health Center,11,102,33.0,33765,2021-04-11,41.88893,-87.73294
+CCH-00903,86,Male,Black or African American,Medicare,Spanish,Little Village,60623,Southwest,Englewood Health Center,9,101,17.3,11589,2022-03-04,41.84046,-87.70725
+CCH-00904,64,FEMALE,Other,Uninsured / Self-Pay,English,Chatham,60619,South,Ruth M. Rothstein CORE Center,2,131,24.7,31427,2024-08-16,41.73081,-87.59984
+CCH-00905,39,Male,Two or More Races,Employer-Sponsored PPO,English,Englewood,60621,South,Robbins Health Center,4,135,28.5,35650,2021-10-19,41.79158,-87.6546
+CCH-00906,58,Female,White,CountyCare Health Plan,English,Uptown,60640,Far North,Robbins Health Center,1,135,41.0,33373,2021-11-11,41.96875,-87.66133
+CCH-00907,39,Non-Binary,Hispanic or Latino,Employer-Sponsored HMO,English,Pilsen,60608,Southwest,Robbins Health Center,1,136,44.5,71527,2022-08-20,41.86634,-87.66364
+CCH-00908,27,Female,Hispanic or Latino,Employer-Sponsored PPO,English,Chatham,60619,South,Provident Hospital of Cook County,7,112,27.0,10000,2022-07-28,41.7515,-87.61416
+CCH-00909,36,Male,White,Medicaid,English,South Shore,60649,South,Robbins Health Center,3,114,27.0,31531,2022-03-30,41.77509,-87.58751
+CCH-00910,52,Male,Hispanic or Latino,ACA Marketplace Silver,English,Chatham,60619,South,Provident Hospital of Cook County,7,101,26.8,32306,2024-04-24,41.74297,-87.6108
+CCH-00911,85,Female,Hispanic or Latino,Medicare,Spanish,Rogers Park,60626,Far North,Near South Health Center,6,149,32.9,21278,2024-08-18,42.01458,-87.65789
+CCH-00912,4,Male,Black or African American,Employer-Sponsored HMO,English,Uptown,60640,Far North,Near South Health Center,2,120,27.2,40013,2021-07-22,41.97313,-87.65535
+CCH-00913,10,Female,Hispanic or Latino,Medicaid,English,Uptown,60640,Far North,Robbins Health Center,2,135,29.5,27442,2024-07-24,41.96112,-87.63909
+CCH-00914,49,Female,Hispanic or Latino,Medicaid,English,Pilsen,60608,Southwest,Near South Health Center,3,106,33.5,10000,2024-06-16,41.8638,-87.64787
+CCH-00915,40,Male,Black or African American,CountyCare Health Plan,English,Humboldt Park,60651,West,Englewood Health Center,2,138,32.6,10000,2023-09-22,41.90638,-87.70761
+CCH-00916,48,Female,Hispanic or Latino,CountyCare Health Plan,English,Humboldt Park,60651,West,Prieto Health Center,1,85,26.7,33691,2024-01-08,41.89289,-87.70768
+CCH-00917,70,Male,Hispanic or Latino,Dual Eligible (Medicare/Medicaid),English,Uptown,60640,Far North,Arlington Heights Health Center,7,139,27.4,10000,2021-08-01,41.96294,-87.6604
+CCH-00918,54,Non-Binary,Hispanic or Latino,Medicaid,Spanish,Bronzeville,60653,South,Englewood Health Center,3,104,36.7,10000,2021-02-23,41.83998,-87.61972
+CCH-00919,47,Male,White,Uninsured / Self-Pay,English,Near West Side,60612,Central,Robbins Health Center,3,137,32.2,37893,2023-04-29,41.86376,-87.6694
+CCH-00920,55,Female,White,Employer-Sponsored PPO,Tagalog,Rogers Park,60626,Far North,Englewood Health Center,2,143,39.4,15900,2023-06-03,42.02106,-87.65563
+CCH-00921,39,Male,White,Employer-Sponsored PPO,English,Englewood,60621,South,Provident Hospital of Cook County,5,139,25.7,36340,2023-11-06,41.77445,-87.63348
+CCH-00922,52,Female,Hispanic or Latino,Uninsured / Self-Pay,English,Bridgeport,60616,South,John H. Stroger Jr. Hospital,4,115,22.2,38308,2023-08-01,41.84075,-87.64708
+CCH-00923,57,Male,White,CountyCare Health Plan,English,Albany Park,60625,North,Near South Health Center,11,123,27.7,50029,2021-05-14,41.97281,-87.70252
+CCH-00924,50,Male,Black or African American,Uninsured / Self-Pay,English,Pilsen,60608,Southwest,Prieto Health Center,2,123,29.5,66463,2024-10-13,41.86233,-87.64302
+CCH-00925,28,Male,Black or African American,Uninsured / Self-Pay,Spanish,Uptown,60640,Far North,Provident Hospital of Cook County,4,125,19.2,33182,2021-05-26,41.96841,-87.64242
+CCH-00926,45,Male,Asian,Medicaid,Spanish,Roseland,60628,Far South,Near South Health Center,1,113,21.0,52159,2021-07-02,41.71969,-87.61493
+CCH-00927,34,Female,Black or African American,Medicaid,Spanish,Little Village,60623,Southwest,Englewood Health Center,1,99,28.1,48683,2023-10-21,41.83496,-87.7186
+CCH-00928,31,Female,Hispanic or Latino,Medicaid,Tagalog,Little Village,60623,Southwest,John H. Stroger Jr. Hospital,2,144,35.7,73905,2024-10-30,41.85335,-87.71318
+CCH-00929,45,Female,Black or African American,CountyCare Health Plan,English,Austin,60644,West,Robbins Health Center,3,125,31.0,36904,2022-01-08,41.8996,-87.76196
+CCH-00930,42,Female,Black or African American,ACA Marketplace Silver,English,Englewood,60621,South,Robbins Health Center,4,117,39.6,24753,2021-03-04,41.79154,-87.63711
+CCH-00931,49,Male,Hispanic or Latino,Medicaid,Cantonese,Garfield Park,60624,West,Robbins Health Center,4,118,41.4,37399,2022-01-31,41.87514,-87.72703
+CCH-00932,85,Male,Black or African American,Dual Eligible (Medicare/Medicaid),English,Pilsen,60608,Southwest,Ruth M. Rothstein CORE Center,11,111,18.1,39648,2022-05-06,41.86472,-87.64298
+CCH-00933,53,Non-Binary,White,Employer-Sponsored PPO,English,Little Village,60623,Southwest,Prieto Health Center,4,127,25.4,55694,2021-07-06,41.85513,-87.70161
+CCH-00934,27,Female,White,Medicaid,English,Albany Park,60625,North,Arlington Heights Health Center,2,117,29.5,39739,2023-04-08,41.9726,-87.72092
+CCH-00935,65,male,White,Medicare,English,South Shore,60649,South,John H. Stroger Jr. Hospital,10,138,25.7,57935,2022-01-21,41.76053,-87.56641
+CCH-00936,65,Male,Hispanic or Latino,Employer-Sponsored PPO,English,Bridgeport,60616,South,Prieto Health Center,6,114,25.9,22373,2021-04-18,41.82284,-87.66286
+CCH-00937,12,Female,Two or More Races,Medicaid,Cantonese,Uptown,60640,Far North,Near South Health Center,5,124,20.9,38617,2021-05-30,41.97178,-87.64098
+CCH-00938,42,Female,Black or African American,  Medicaid  ,Spanish,Garfield Park,60624,West,Near South Health Center,15,122,31.0,24323,2021-12-29,41.88708,-87.70977
+CCH-00939,49,Female,White,Uninsured / Self-Pay,Spanish,Near West Side,60612,Central,Englewood Health Center,10,121,21.1,10000,2022-02-24,41.87805,-87.67055
+CCH-00940,44,Male,Hispanic or Latino,ACA Marketplace Silver,English,Pilsen,60608,Southwest,Arlington Heights Health Center,4,127,20.3,45414,2021-03-27,41.84954,-87.64427
+CCH-00941,51,Female,Black or African American,CountyCare Health Plan,Spanish,Garfield Park,60624,West,Arlington Heights Health Center,3,148,26.8,58298,2022-08-07,41.89014,-87.7355
+CCH-00942,54,Male,Black or African American,ACA Marketplace Silver,English,Garfield Park,60624,West,John H. Stroger Jr. Hospital,3,131,29.6,40870,2023-08-19,41.87246,-87.7349
+CCH-00943,41,Male,Black or African American,CountyCare Health Plan,English,Humboldt Park,60651,West,John H. Stroger Jr. Hospital,10,130,28.8,27701,2024-09-19,41.89445,-87.69854
+CCH-00944,50,Male,Black or African American,Uninsured / Self-Pay,English,Englewood,60621,South,John H. Stroger Jr. Hospital,2,139,34.9,31771,2023-03-13,41.77504,-87.62979
+CCH-00945,50,Female,Black or African American,Medicaid,English,Bridgeport,60616,South,Prieto Health Center,1,148,30.3,36779,2021-11-26,41.83457,-87.63756
+CCH-00946,39,Male,Black or African American,Medicare,Cantonese,Rogers Park,60626,Far North,Cottage Grove Health Center,2,110,18.6,26739,2021-01-13,42.01601,-87.66328
+CCH-00947,48,Female,White,Medicaid,English,Uptown,60640,Far North,Arlington Heights Health Center,4,117,18.8,60939,2022-08-02,41.95186,-87.65193
+CCH-00948,48,Female,Hispanic or Latino,Medicaid,English,Uptown,60640,Far North,Ruth M. Rothstein CORE Center,4,144,35.3,75220,2022-08-11,41.96445,-87.64072
+CCH-00949,84,Female,Hispanic or Latino,Medicare,Spanish,Austin,60644,West,Cottage Grove Health Center,1,125,25.6,30198,2023-04-04,41.88855,-87.77
+CCH-00950,16,Female,Black or African American,Medicaid,English,Little Village,60623,Southwest,Prieto Health Center,1,144,26.6,17829,2022-02-26,41.84412,-87.71725
+CCH-00951,74,Male,Hispanic or Latino,Dual Eligible (Medicare/Medicaid),English,Bronzeville,60653,South,Cottage Grove Health Center,1,117,34.9,52670,2023-03-16,41.83701,-87.61655
+CCH-00952,36,Male,Asian,CountyCare Health Plan,Spanish,Rogers Park,60626,Far North,Prieto Health Center,1,154,20.0,46633,2023-06-04,42.00676,-87.67902
+CCH-00953,26,Female,Hispanic or Latino,Employer-Sponsored HMO,Spanish,Bridgeport,60616,South,Ruth M. Rothstein CORE Center,2,141,28.7,64195,2023-04-23,41.84182,-87.64062
+CCH-00954,48,Male,Hispanic or Latino,ACA Marketplace Silver,Spanish,Roseland,60628,Far South,Provident Hospital of Cook County,1,107,29.6,33989,2021-02-13,41.70837,-87.61794
+CCH-00955,56,Male,Black or African American,Medicare,English,Near West Side,60612,Central,Near South Health Center,8,114,23.4,42788,2024-04-09,41.88171,-87.64956
+CCH-00956,53,Male,Hispanic or Latino,CountyCare Health Plan,English,Englewood,60621,South,Ruth M. Rothstein CORE Center,3,138,12.1,46699,2024-02-25,41.79182,-87.65374
+CCH-00957,32,Non-Binary,Black or African American,Medicaid,Spanish,Uptown,60640,Far North,Robbins Health Center,3,93,29.2,16868,2023-02-16,41.97916,-87.64102
+CCH-00958,64,Female,Two or More Races,Uninsured / Self-Pay,English,Rogers Park,60626,Far North,Near South Health Center,8,124,31.2,41613,2021-06-24,41.99986,-87.65818
+CCH-00959,41,Female,Black or African American,Uninsured / Self-Pay,Spanish,Garfield Park,60624,West,Provident Hospital of Cook County,4,141,28.7,35266,2022-12-28,41.89013,-87.71743
+CCH-00960,61,Female,Asian,Uninsured / Self-Pay,English,Chatham,60619,South,Near South Health Center,1,115,28.7,51658,2021-12-08,41.73358,-87.6136
+CCH-00961,28,Female,Black or African American,Employer-Sponsored HMO,English,Bridgeport,60616,South,John H. Stroger Jr. Hospital,1,131,19.2,61633,2024-03-20,41.85125,-87.644
+CCH-00962,43,Male,Other,CountyCare Health Plan,English,Bridgeport,60616,South,Near South Health Center,10,128,27.0,18093,2021-09-29,41.83265,-87.6527
+CCH-00963,32,Male,Asian,ACA Marketplace Silver,Cantonese,Garfield Park,60624,West,John H. Stroger Jr. Hospital,6,126,30.2,41920,2021-09-21,41.88655,-87.71334
+CCH-00964,39,Male,White,Employer-Sponsored PPO,English,Roseland,60628,Far South,Provident Hospital of Cook County,3,132,43.3,28962,2021-11-16,41.69262,-87.63774
+CCH-00965,36,Male,White,Medicaid,English,Rogers Park,60626,Far North,Provident Hospital of Cook County,1,115,29.5,26739,2021-07-07,41.99806,-87.66388
+CCH-00966,53,Female,Hispanic or Latino,Employer-Sponsored PPO,Spanish,Albany Park,60625,North,Robbins Health Center,5,128,18.7,20667,2022-08-13,41.95908,-87.70487
+CCH-00967,26,Female,Black or African American,Employer-Sponsored HMO,English,Near West Side,60612,Central,Provident Hospital of Cook County,1,132,20.6,82788,2022-01-21,41.8673,-87.65195
+CCH-00968,60,Male,Black or African American,Medicaid,English,Rogers Park,60626,Far North,Cottage Grove Health Center,1,145,35.2,22594,2023-12-23,42.00677,-87.66578
+CCH-00969,44,Female,White,Employer-Sponsored HMO,English,Little Village,60623,Southwest,Robbins Health Center,13,135,26.1,25537,2021-01-25,41.84113,-87.70691
+CCH-00970,52,Male,White,Medicaid,English,Rogers Park,60626,Far North,Robbins Health Center,3,90,28.8,24172,2023-01-29,42.01475,-87.68302
+CCH-00971,58,Male,Black or African American,ACA Marketplace Silver,Spanish,Austin,60644,West,Arlington Heights Health Center,7,125,25.1,40043,2023-08-08,41.89633,-87.76671
+CCH-00972,45,Male,Hispanic or Latino,Uninsured / Self-Pay,English,Chatham,60619,South,John H. Stroger Jr. Hospital,6,110,26.5,29620,2023-06-09,41.73018,-87.6195
+CCH-00973,37,Female,Hispanic or Latino,Medicaid,English,Pilsen,60608,Southwest,Prieto Health Center,1,120,19.1,40168,2022-07-23,41.85537,-87.66317
+CCH-00974,7,Female,Black or African American,Medicaid,English,Uptown,60640,Far North,Englewood Health Center,1,141,38.2,27938,2021-10-17,41.95259,-87.63946
+CCH-00975,44,Female,Hispanic or Latino,Employer-Sponsored HMO,English,Englewood,60621,South,Prieto Health Center,2,127,22.2,55457,2022-08-01,41.77496,-87.64898
+CCH-00976,63,Female,Black or African American,Medicaid,English,Austin,60644,West,Near South Health Center,9,140,38.4,33168,2024-07-22,41.88901,-87.76649
+CCH-00977,24,Female,Hispanic or Latino,Employer-Sponsored PPO,Cantonese,Near West Side,60612,Central,Cottage Grove Health Center,3,118,27.3,38598,2022-05-26,41.88646,-87.64934
+CCH-00978,38,Male,Asian,CountyCare Health Plan,Arabic,Rogers Park,60626,Far North,Englewood Health Center,2,125,30.2,10096,2021-05-18,42.00405,-87.66912
+CCH-00979,45,Male,Black or African American,Medicaid,English,Austin,60644,West,Prieto Health Center,6,134,34.8,33045,2021-10-27,41.88981,-87.7723
+CCH-00980,32,Female,Black or African American,Employer-Sponsored HMO,Spanish,Roseland,60628,Far South,Cottage Grove Health Center,6,156,26.3,65711,2023-12-09,41.70938,-87.61127
+CCH-00981,17,Female,Hispanic or Latino,Medicaid,English,South Shore,60649,South,Near South Health Center,5,139,34.7,37232,2023-08-11,41.75173,-87.58112
+CCH-00982,39,Female,White,Medicaid,English,Bronzeville,60653,South,Ruth M. Rothstein CORE Center,1,132,31.3,35758,2024-04-16,41.81323,-87.62479
+CCH-00983,62,Female,Hispanic or Latino,Medicaid,English,Bronzeville,60653,South,Ruth M. Rothstein CORE Center,4,111,29.0,15066,2022-10-31,41.83495,-87.62175
+CCH-00984,33,Female,Black or African American,Medicaid,English,Albany Park,60625,North,Ruth M. Rothstein CORE Center,3,150,32.3,33697,2021-07-29,41.95498,-87.70788
+CCH-00985,48,Female,Black or African American,CountyCare Health Plan,English,Pilsen,60608,Southwest,Arlington Heights Health Center,3,83,31.7,43812,2021-11-14,41.85151,-87.66921
+CCH-00986,63,Male,Black or African American,Employer-Sponsored HMO,Spanish,Near West Side,60612,Central,Cottage Grove Health Center,1,148,29.2,49424,2023-09-08,41.86658,-87.65896
+CCH-00987,67,Female,Hispanic or Latino,Medicare,English,Bronzeville,60653,South,John H. Stroger Jr. Hospital,5,152,26.5,41057,2024-10-03,41.82163,-87.61397
+CCH-00988,48,Female,Black or African American,Employer-Sponsored HMO,Cantonese,Little Village,60623,Southwest,Ruth M. Rothstein CORE Center,1,130,15.8,29978,2023-03-25,41.83101,-87.70785
+CCH-00989,46,Male,Black or African American,Employer-Sponsored PPO,English,Albany Park,60625,North,Englewood Health Center,1,113,28.1,41774,2023-03-16,41.96495,-87.70436
+CCH-00990,26,Female,Black or African American,CountyCare Health Plan,Arabic,Pilsen,60608,Southwest,Cottage Grove Health Center,5,111,28.0,24578,2022-02-14,41.84734,-87.66792
+CCH-00991,42,Male,Hispanic or Latino,Employer-Sponsored HMO,Spanish,South Shore,60649,South,Englewood Health Center,3,115,26.9,48392,2022-03-21,41.75643,-87.58837
+CCH-00992,53,Female,Hispanic or Latino,Uninsured / Self-Pay,English,Bridgeport,60616,South,Robbins Health Center,3,139,24.6,83907,2023-09-11,41.83306,-87.65388
+CCH-00993,55,Male,Black or African American,Medicaid,English,Garfield Park,60624,West,John H. Stroger Jr. Hospital,2,116,26.4,10000,2022-09-14,41.86641,-87.73656
+CCH-00994,61,Male,Hispanic or Latino,Medicaid,English,Pilsen,60608,Southwest,John H. Stroger Jr. Hospital,2,134,27.3,74793,2021-09-03,41.86346,-87.66012
+CCH-00995,71,Female,Asian,Dual Eligible (Medicare/Medicaid),Arabic,Garfield Park,60624,West,Ruth M. Rothstein CORE Center,1,107,27.4,20585,2021-01-30,41.8855,-87.70893
+CCH-00996,67,Female,Black or African American,Dual Eligible (Medicare/Medicaid),English,Austin,60644,West,Arlington Heights Health Center,1,109,22.5,45373,2021-03-03,41.89669,-87.76461
+CCH-00997,48,Male,Black or African American,Medicare,English,Uptown,60640,Far North,Englewood Health Center,4,128,32.0,35632,2021-02-19,41.95269,-87.64521
+CCH-00998,34,Non-Binary,Two or More Races,CountyCare Health Plan,English,Austin,60644,West,Cottage Grove Health Center,2,98,33.1,46074,2021-04-07,41.90181,-87.75394
+CCH-00999,56,Female,White,Medicaid,English,Garfield Park,60624,West,Ruth M. Rothstein CORE Center,2,107,23.2,40999,2024-04-03,41.87754,-87.72097
+CCH-01000,38,Male,Black or African American,Uninsured / Self-Pay,English,Little Village,60623,Southwest,Ruth M. Rothstein CORE Center,9,154,24.5,24128,2022-11-13,41.85107,-87.71667
+CCH-01001,20,Male,Hispanic or Latino,Employer-Sponsored HMO,English,Bronzeville,60653,South,Ruth M. Rothstein CORE Center,1,120,30.0,28065,2024-03-20,41.82519,-87.60721
+CCH-01002,44,Female,Hispanic or Latino,CountyCare Health Plan,English,Humboldt Park,60651,West,Prieto Health Center,10,119,27.8,13763,2024-09-23,41.91692,-87.70068
+CCH-01003,51,Female,Hispanic or Latino,CountyCare Health Plan,English,Chatham,60619,South,Near South Health Center,4,107,32.5,37134,2023-04-16,41.74991,-87.61255
+CCH-01004,40,Male,Hispanic or Latino,Employer-Sponsored PPO,English,Roseland,60628,Far South,Ruth M. Rothstein CORE Center,4,118,25.0,63187,2021-05-28,41.69565,-87.63998
+CCH-01005,42,Male,Black or African American,  Medicare  ,Spanish,Chatham,60619,South,Provident Hospital of Cook County,1,136,34.2,32925,2021-05-18,41.73173,-87.62851
+CCH-01006,35,Male,Hispanic or Latino,Medicare,Cantonese,South Shore,60649,South,John H. Stroger Jr. Hospital,3,138,33.4,40762,2024-10-22,41.7559,-87.57875
+CCH-01007,74,Male,Hispanic or Latino,Medicare,Spanish,Pilsen,60608,Southwest,Robbins Health Center,2,130,37.9,31742,2021-02-25,41.86379,-87.64821
+CCH-01008,58,Female,Hispanic or Latino,Uninsured / Self-Pay,Spanish,Near West Side,60612,Central,Cottage Grove Health Center,14,132,33.3,40950,2024-05-21,41.88113,-87.65683
+CCH-01009,53,Female,Hispanic or Latino,Employer-Sponsored HMO,English,Pilsen,60608,Southwest,Prieto Health Center,1,95,30.3,49645,2023-06-30,41.84405,-87.65079
+CCH-01010,17,Male,Hispanic or Latino,CountyCare Health Plan,Cantonese,Bridgeport,60616,South,Englewood Health Center,1,114,23.5,27983,2021-11-30,41.82286,-87.64613
+CCH-01011,28,Female,White,Employer-Sponsored PPO,Cantonese,Little Village,60623,Southwest,Arlington Heights Health Center,2,87,30.3,69607,2021-03-31,41.84539,-87.72873
+CCH-01012,28,Male,Black or African American,Medicaid,Spanish,Roseland,60628,Far South,John H. Stroger Jr. Hospital,3,116,30.1,21689,2023-06-17,41.71102,-87.61265
+CCH-01013,37,Female,Hispanic or Latino,Medicaid,English,Albany Park,60625,North,Provident Hospital of Cook County,2,92,33.6,33227,2021-06-28,41.95649,-87.71519
+CCH-01014,14,Male,Black or African American,Medicaid,English,Garfield Park,60624,West,Prieto Health Center,3,146,13.1,43894,2023-02-04,41.87053,-87.73678
+CCH-01015,33,Female,White,Medicaid,English,Austin,60644,West,John H. Stroger Jr. Hospital,6,108,34.9,53415,2023-11-11,41.88257,-87.77458
+CCH-01016,44,Male,Black or African American,CountyCare Health Plan,Spanish,Englewood,60621,South,Robbins Health Center,1,124,31.8,55940,2023-09-08,41.77439,-87.65099
+CCH-01017,22,FEMALE,Black or African American,ACA Marketplace Silver,English,Uptown,60640,Far North,Provident Hospital of Cook County,1,103,24.2,26170,2024-03-05,41.95461,-87.653
+CCH-01018,17,Male,White,Employer-Sponsored HMO,English,Pilsen,60608,Southwest,Near South Health Center,2,99,30.5,28224,2023-03-12,41.84299,-87.65834
+CCH-01019,64,Male,Black or African American,Employer-Sponsored PPO,English,Albany Park,60625,North,Englewood Health Center,5,115,27.1,39644,2023-10-16,41.97996,-87.71002
+CCH-01020,53,male,Black or African American,Medicaid,Spanish,Englewood,60621,South,Near South Health Center,7,128,18.1,15943,2022-09-14,41.78799,-87.6571
+CCH-01021,59,Female,Asian,Employer-Sponsored PPO,English,Roseland,60628,Far South,Ruth M. Rothstein CORE Center,2,111,22.7,10000,2023-08-20,41.71613,-87.61935
+CCH-01022,22,Female,Hispanic or Latino,Medicare,English,Uptown,60640,Far North,Near South Health Center,3,121,25.5,49146,2022-05-06,41.95885,-87.66016
+CCH-01023,56,Female,Hispanic or Latino,Medicaid,Spanish,South Shore,60649,South,Englewood Health Center,4,108,23.7,53303,2022-01-25,41.76353,-87.56991
+CCH-01024,33,Male,Black or African American,Medicare,English,Englewood,60621,South,Near South Health Center,8,151,30.5,23561,2022-01-10,41.76832,-87.63662
+CCH-01025,24,Male,Black or African American,Employer-Sponsored HMO,Polish,Little Village,60623,Southwest,Prieto Health Center,1,142,33.5,72603,2023-03-17,41.84692,-87.72451
+CCH-01026,64,Non-Binary,Black or African American,CountyCare Health Plan,Tagalog,Rogers Park,60626,Far North,Robbins Health Center,1,118,23.8,43333,2024-05-04,42.01903,-87.66967
+CCH-01027,52,Male,Hispanic or Latino,Medicaid,English,Austin,60644,West,Provident Hospital of Cook County,1,132,34.2,24944,2023-05-17,41.87683,-87.77689
+CCH-01028,63,Male,Hispanic or Latino,Medicaid,Spanish,South Shore,60649,South,Prieto Health Center,7,126,32.7,54569,2022-12-26,41.75413,-87.58278
+CCH-01029,41,Male,Black or African American,Medicaid,English,Chatham,60619,South,Englewood Health Center,1,136,28.5,54336,2023-09-23,41.7375,-87.61275
+CCH-01030,48,Male,Black or African American,Medicaid,English,Garfield Park,60624,West,Arlington Heights Health Center,1,147,30.3,41902,2023-07-03,41.87301,-87.73428
+CCH-01031,42,Male,White,Medicaid,English,Pilsen,60608,Southwest,Robbins Health Center,6,109,23.3,35886,2023-06-14,41.86672,-87.64878
+CCH-01032,22,Male,White,Medicaid,Spanish,Rogers Park,60626,Far North,Ruth M. Rothstein CORE Center,1,126,26.1,52997,2023-04-08,42.00056,-87.68066
+CCH-01033,47,Female,Hispanic or Latino,Employer-Sponsored HMO,English,Rogers Park,60626,Far North,Provident Hospital of Cook County,5,139,35.9,40855,2023-07-16,42.02073,-87.65618
+CCH-01034,44,Female,Black or African American,Medicaid,English,Little Village,60623,Southwest,Englewood Health Center,1,128,29.9,58836,2023-09-08,41.85808,-87.72622
+CCH-01035,24,Female,Black or African American,Employer-Sponsored PPO,Cantonese,Austin,60644,West,Provident Hospital of Cook County,4,123,30.6,40011,2024-06-14,41.90497,-87.76806
+CCH-01036,64,Female,Hispanic or Latino,Medicaid,English,Chatham,60619,South,Provident Hospital of Cook County,7,118,22.9,23628,2022-04-20,41.73908,-87.60287
+CCH-01037,54,Male,Asian,Uninsured / Self-Pay,English,Bridgeport,60616,South,Cottage Grove Health Center,5,94,30.8,41041,2024-05-19,41.82668,-87.64726
+CCH-01038,51,Female,Hispanic or Latino,Medicaid,English,Little Village,60623,Southwest,John H. Stroger Jr. Hospital,7,116,29.1,18901,2022-10-29,41.8474,-87.71783
+CCH-01039,68,Female,Black or African American,CountyCare Health Plan,English,Englewood,60621,South,Near South Health Center,6,128,22.2,42125,2024-03-21,41.76981,-87.64423
+CCH-01040,39,Female,Black or African American,CountyCare Health Plan,English,Rogers Park,60626,Far North,Robbins Health Center,5,101,19.5,29992,2024-10-19,42.01704,-87.68299
+CCH-01041,62,Male,White,Employer-Sponsored PPO,Spanish,Albany Park,60625,North,Prieto Health Center,1,114,30.3,31526,2023-04-15,41.96392,-87.71123
+CCH-01042,53,Non-Binary,Black or African American,CountyCare Health Plan,English,Chatham,60619,South,Near South Health Center,1,127,34.6,39721,2023-09-25,41.73495,-87.61087
+CCH-01043,40,Male,Hispanic or Latino,Employer-Sponsored PPO,English,Roseland,60628,Far South,Cottage Grove Health Center,1,119,21.0,52954,2023-06-19,41.71276,-87.6358
+CCH-01044,38,Female,Black or African American,Employer-Sponsored HMO,English,Austin,60644,West,Near South Health Center,9,133,37.3,16855,2023-08-11,41.88296,-87.77463
+CCH-01045,60,Male,Hispanic or Latino,ACA Marketplace Silver,English,Albany Park,60625,North,Cottage Grove Health Center,9,132,37.5,81001,2022-09-28,41.96761,-87.70138
+CCH-01046,64,Female,Hispanic or Latino,CountyCare Health Plan,English,Austin,60644,West,Robbins Health Center,4,146,28.0,43048,2022-12-12,41.89089,-87.76008
+CCH-01047,37,Female,Hispanic or Latino,Employer-Sponsored HMO,Spanish,Little Village,60623,Southwest,Prieto Health Center,23,125,34.6,62518,2021-05-18,41.8438,-87.71348
+CCH-01048,33,Male,Black or African American,ACA Marketplace Silver,English,Uptown,60640,Far North,Arlington Heights Health Center,1,148,23.7,75473,2022-03-28,41.95881,-87.66403
+CCH-01049,54,Female,Other,Employer-Sponsored HMO,English,Chatham,60619,South,Provident Hospital of Cook County,7,145,27.8,56282,2021-12-01,41.75249,-87.61619
+CCH-01050,65,Non-Binary,White,Dual Eligible (Medicare/Medicaid),English,Garfield Park,60624,West,Near South Health Center,11,133,28.0,58435,2023-08-19,41.88658,-87.73407
+CCH-01051,72,Female,White,Dual Eligible (Medicare/Medicaid),English,Uptown,60640,Far North,Englewood Health Center,6,107,28.7,67376,2024-05-01,41.9606,-87.66363
+CCH-01052,33,Male,Two or More Races,CountyCare Health Plan,English,South Shore,60649,South,Englewood Health Center,6,131,17.9,27541,2021-08-07,41.76057,-87.56827
+CCH-01053,55,Female,Hispanic or Latino,CountyCare Health Plan,English,Englewood,60621,South,Near South Health Center,1,165,31.9,53625,2022-09-05,41.79258,-87.63738
+CCH-01054,53,Female,Hispanic or Latino,CountyCare Health Plan,Polish,Garfield Park,60624,West,Near South Health Center,1,123,29.5,70757,2023-01-29,41.86811,-87.72532
+CCH-01055,1,Male,White,Medicaid,English,Pilsen,60608,Southwest,Near South Health Center,2,128,30.5,41294,2024-04-30,41.8541,-87.66425
+CCH-01056,47,Male,White,Employer-Sponsored PPO,English,Little Village,60623,Southwest,John H. Stroger Jr. Hospital,3,123,33.1,40708,2021-01-05,41.8577,-87.70087
+CCH-01057,62,Male,Asian,Medicaid,English,Bridgeport,60616,South,John H. Stroger Jr. Hospital,1,105,28.5,38081,2024-04-08,41.83212,-87.64654
+CCH-01058,75,Male,Hispanic or Latino,Medicare,English,Chatham,60619,South,Englewood Health Center,1,112,24.9,30318,2021-10-11,41.7558,-87.62577
+CCH-01059,29,Female,Black or African American,CountyCare Health Plan,English,Rogers Park,60626,Far North,Robbins Health Center,2,106,23.6,37256,2023-07-16,42.00111,-87.67649
+CCH-01060,41,Male,Black or African American,Employer-Sponsored HMO,English,Near West Side,60612,Central,Ruth M. Rothstein CORE Center,1,110,25.9,33808,2021-03-17,41.88323,-87.65289
+CCH-01061,62,Female,Black or African American,Medicare,English,Humboldt Park,60651,West,Arlington Heights Health Center,9,136,24.1,17201,2021-09-09,41.89567,-87.70702
+CCH-01062,45,Male,Black or African American,Medicaid,English,Garfield Park,60624,West,John H. Stroger Jr. Hospital,2,112,30.9,21504,2022-06-01,41.8806,-87.73648
+CCH-01063,77,Male,Hispanic or Latino,Employer-Sponsored PPO,English,Little Village,60623,Southwest,Ruth M. Rothstein CORE Center,7,120,30.7,48428,2021-01-16,41.83479,-87.71909
+CCH-01064,77,Female,Two or More Races,Dual Eligible (Medicare/Medicaid),Cantonese,Austin,60644,West,Ruth M. Rothstein CORE Center,1,144,33.9,38876,2023-05-06,41.90213,-87.7718
+CCH-01065,33,Female,Black or African American,CountyCare Health Plan,English,Humboldt Park,60651,West,Prieto Health Center,3,144,42.6,10000,2022-07-15,41.90168,-87.69227
+CCH-01066,28,Female,Hispanic or Latino,Employer-Sponsored PPO,English,Bridgeport,60616,South,Robbins Health Center,2,111,36.1,40397,2021-04-02,41.84541,-87.65005
+CCH-01067,53,Male,Black or African American,Employer-Sponsored HMO,English,Pilsen,60608,Southwest,Cottage Grove Health Center,2,124,37.2,18288,2023-07-10,41.86907,-87.64388
+CCH-01068,57,Male,Two or More Races,Medicaid,English,Pilsen,60608,Southwest,Arlington Heights Health Center,2,104,38.5,30595,2021-01-05,41.84916,-87.65538
+CCH-01069,42,Male,White,Employer-Sponsored PPO,Spanish,Pilsen,60608,Southwest,John H. Stroger Jr. Hospital,15,155,30.3,60924,2023-10-15,41.84169,-87.64524
+CCH-01070,44,Female,Black or African American,CountyCare Health Plan,Spanish,Pilsen,60608,Southwest,Provident Hospital of Cook County,4,133,29.5,36922,2022-11-05,41.85802,-87.66144
+CCH-01071,67,Female,Hispanic or Latino,Medicare,Spanish,Uptown,60640,Far North,Near South Health Center,5,145,23.5,92495,2021-07-19,41.95957,-87.66059
+CCH-01072,37,Female,Black or African American,  Medicaid  ,Spanish,Englewood,60621,South,Englewood Health Center,1,104,25.6,40453,2022-01-02,41.791,-87.63271
+CCH-01073,50,Female,Black or African American,Employer-Sponsored PPO,English,Humboldt Park,60651,West,Ruth M. Rothstein CORE Center,6,98,24.2,34589,2023-03-06,41.90164,-87.69857
+CCH-01074,86,Male,Black or African American,Medicare,English,Roseland,60628,Far South,Prieto Health Center,3,130,35.7,27698,2022-02-02,41.71299,-87.61024
+CCH-01075,81,Male,Black or African American,CountyCare Health Plan,English,Pilsen,60608,Southwest,Robbins Health Center,5,131,45.1,58575,2024-04-15,41.84431,-87.65593
+CCH-01076,50,Male,Black or African American,Medicare,Cantonese,Little Village,60623,Southwest,John H. Stroger Jr. Hospital,1,149,27.4,36718,2023-07-17,41.84752,-87.71516
+CCH-01077,38,Female,Black or African American,ACA Marketplace Silver,Spanish,Bridgeport,60616,South,Prieto Health Center,5,112,22.9,28014,2024-02-24,41.84653,-87.63461
+CCH-01078,25,Male,Black or African American,ACA Marketplace Silver,English,Humboldt Park,60651,West,Arlington Heights Health Center,1,119,39.2,61491,2022-08-24,41.90595,-87.71603
+CCH-01079,14,Male,Hispanic or Latino,Medicaid,English,Chatham,60619,South,Prieto Health Center,1,76,26.6,50609,2023-01-16,41.73739,-87.62441
+CCH-01080,92,Female,Hispanic or Latino,Medicare,English,Bridgeport,60616,South,Provident Hospital of Cook County,13,132,29.0,24082,2021-07-14,41.82419,-87.65958
+CCH-01081,63,Male,Hispanic or Latino,ACA Marketplace Silver,English,Humboldt Park,60651,West,Provident Hospital of Cook County,10,140,33.4,23367,2024-01-30,41.89415,-87.7087
+CCH-01082,68,Female,Hispanic or Latino,Employer-Sponsored PPO,Spanish,Pilsen,60608,Southwest,Englewood Health Center,1,112,40.0,59502,2021-04-17,41.86377,-87.67008
+CCH-01083,84,Female,Hispanic or Latino,Medicare,English,Roseland,60628,Far South,Cottage Grove Health Center,2,126,33.5,70865,2021-06-17,41.70083,-87.62374
+CCH-01084,44,Male,Two or More Races,Medicaid,Spanish,Little Village,60623,Southwest,Prieto Health Center,16,118,35.5,38646,2022-05-04,41.83735,-87.70766
+CCH-01085,42,Male,Hispanic or Latino,CountyCare Health Plan,English,Near West Side,60612,Central,Prieto Health Center,2,154,22.0,50075,2022-08-23,41.87418,-87.67116
+CCH-01086,59,Female,Hispanic or Latino,Medicaid,English,Chatham,60619,South,Provident Hospital of Cook County,3,118,28.2,13473,2023-04-11,41.75269,-87.60779
+CCH-01087,17,Male,Black or African American,Medicaid,English,Uptown,60640,Far North,Provident Hospital of Cook County,2,112,33.0,35208,2024-11-01,41.95826,-87.64697
+CCH-01088,48,Female,Black or African American,Medicaid,English,Humboldt Park,60651,West,Provident Hospital of Cook County,2,126,21.2,50444,2023-01-26,41.9121,-87.71659
+CCH-01089,38,Female,Hispanic or Latino,Medicaid,Arabic,Uptown,60640,Far North,Cottage Grove Health Center,3,110,28.1,43011,2023-10-01,41.95518,-87.65662
+CCH-01090,67,Female,Black or African American,Medicare,English,Garfield Park,60624,West,Englewood Health Center,2,126,32.8,62566,2021-10-16,41.89141,-87.71505
+CCH-01091,16,Female,White,Medicaid,English,Little Village,60623,Southwest,Robbins Health Center,2,130,22.2,40115,2023-03-11,41.84124,-87.70957
+CCH-01092,67,Male,Two or More Races,Medicare,English,Pilsen,60608,Southwest,Near South Health Center,1,146,37.8,56528,2023-12-06,41.84777,-87.64284
+CCH-01093,31,Female,Black or African American,Medicaid,Spanish,Humboldt Park,60651,West,Prieto Health Center,3,124,40.0,21484,2024-06-10,41.90421,-87.69046
+CCH-01094,12,Female,Hispanic or Latino,CountyCare Health Plan,English,Austin,60644,West,Cottage Grove Health Center,1,94,25.0,63510,2022-01-19,41.88542,-87.75831
+CCH-01095,46,Male,Hispanic or Latino,Employer-Sponsored HMO,English,Uptown,60640,Far North,Robbins Health Center,1,154,28.5,42897,2024-07-03,41.96286,-87.64304
+CCH-01096,36,Female,White,Employer-Sponsored HMO,English,Bronzeville,60653,South,Ruth M. Rothstein CORE Center,2,141,34.7,42886,2022-04-19,41.82479,-87.62008
+CCH-01097,18,Female,Black or African American,CountyCare Health Plan,English,Albany Park,60625,North,Englewood Health Center,9,120,13.4,64638,2021-01-24,41.96654,-87.72533
+CCH-01098,23,Male,White,Medicaid,Spanish,Humboldt Park,60651,West,Prieto Health Center,10,99,28.8,56162,2024-07-12,41.89742,-87.7099
+CCH-01099,45,Male,Black or African American,ACA Marketplace Silver,English,Bridgeport,60616,South,Near South Health Center,1,135,17.0,19890,2021-07-24,41.82159,-87.63844
+CCH-01100,43,Female,White,Medicaid,Tagalog,Bronzeville,60653,South,John H. Stroger Jr. Hospital,2,142,30.0,46250,2024-09-28,41.8326,-87.61631
+CCH-01101,44,Female,Hispanic or Latino,Medicaid,English,Near West Side,60612,Central,John H. Stroger Jr. Hospital,5,100,27.5,22910,2021-08-30,41.86533,-87.66945
+CCH-01102,48,Male,Hispanic or Latino,ACA Marketplace Silver,English,Pilsen,60608,Southwest,Near South Health Center,3,98,23.5,10000,2021-03-13,41.84582,-87.6694
+CCH-01103,70,Female,Black or African American,Dual Eligible (Medicare/Medicaid),Spanish,Englewood,60621,South,Prieto Health Center,3,143,34.7,25512,2024-10-18,41.77725,-87.64526
+CCH-01104,70,Female,Hispanic or Latino,Medicare,Arabic,Little Village,60623,Southwest,Arlington Heights Health Center,4,120,29.7,25561,2021-12-19,41.83552,-87.69898
+CCH-01105,46,male,White,Medicare,English,Roseland,60628,Far South,Provident Hospital of Cook County,1,137,24.1,10000,2024-04-05,41.71507,-87.63411
+CCH-01106,50,Male,White,Employer-Sponsored HMO,Spanish,Humboldt Park,60651,West,John H. Stroger Jr. Hospital,1,150,35.8,17837,2023-11-27,41.904,-87.70516
+CCH-01107,47,Male,Black or African American,Employer-Sponsored HMO,English,Albany Park,60625,North,Englewood Health Center,2,131,30.8,45570,2022-06-19,41.97983,-87.72216
+CCH-01108,15,Female,Black or African American,Medicaid,English,Roseland,60628,Far South,Arlington Heights Health Center,3,139,28.0,23940,2024-07-22,41.7137,-87.61904
+CCH-01109,54,Male,Hispanic or Latino,Medicaid,English,Austin,60644,West,John H. Stroger Jr. Hospital,2,137,28.9,10000,2021-06-21,41.87659,-87.77865
+CCH-01110,40,Female,Black or African American,CountyCare Health Plan,Spanish,Roseland,60628,Far South,John H. Stroger Jr. Hospital,15,122,25.1,60057,2021-11-03,41.69295,-87.61649
+CCH-01111,52,Female,Hispanic or Latino,ACA Marketplace Silver,English,South Shore,60649,South,Robbins Health Center,3,107,30.4,34585,2022-08-12,41.75342,-87.58745
+CCH-01112,60,Female,Hispanic or Latino,Medicaid,English,Roseland,60628,Far South,John H. Stroger Jr. Hospital,4,150,32.7,27749,2021-01-06,41.69127,-87.62862
+CCH-01113,41,Male,Black or African American,Employer-Sponsored HMO,English,South Shore,60649,South,Englewood Health Center,1,120,24.7,59199,2023-11-14,41.7615,-87.57784
+CCH-01114,24,Male,Hispanic or Latino,Medicaid,English,Pilsen,60608,Southwest,Cottage Grove Health Center,4,148,23.5,26319,2023-04-21,41.86309,-87.65472
+CCH-01115,6,Male,Black or African American,Employer-Sponsored HMO,English,Roseland,60628,Far South,Englewood Health Center,9,172,31.3,28849,2021-04-07,41.70909,-87.61184
+CCH-01116,9,Male,White,Medicaid,English,Bridgeport,60616,South,Robbins Health Center,8,119,28.4,48503,2023-10-18,41.82155,-87.64493
+CCH-01117,44,Male,White,Medicaid,English,Pilsen,60608,Southwest,Englewood Health Center,3,115,23.1,19235,2021-12-16,41.84923,-87.66665
+CCH-01118,41,Female,White,CountyCare Health Plan,English,Garfield Park,60624,West,Cottage Grove Health Center,2,138,28.8,31478,2021-08-02,41.87899,-87.71599
+CCH-01119,70,Female,White,Dual Eligible (Medicare/Medicaid),Spanish,Uptown,60640,Far North,John H. Stroger Jr. Hospital,2,104,29.5,61806,2022-01-18,41.9625,-87.65766
+CCH-01120,32,Female,Black or African American,Medicaid,English,Chatham,60619,South,Englewood Health Center,3,146,35.3,33104,2022-08-19,41.75334,-87.6283
+CCH-01121,50,Female,Black or African American,CountyCare Health Plan,Tagalog,Humboldt Park,60651,West,Near South Health Center,3,124,29.4,33033,2021-10-02,41.89825,-87.70032
+CCH-01122,45,Male,Black or African American,Medicaid,Polish,Austin,60644,West,Near South Health Center,6,121,28.2,51903,2022-02-02,41.90539,-87.77026
+CCH-01123,42,Female,Hispanic or Latino,Employer-Sponsored PPO,English,Englewood,60621,South,Provident Hospital of Cook County,1,110,32.7,36184,2024-01-20,41.78898,-87.6556
+CCH-01124,69,Female,Asian,Medicare,Spanish,Englewood,60621,South,Provident Hospital of Cook County,9,139,23.2,25735,2021-06-21,41.77695,-87.64861
+CCH-01125,47,Female,White,Employer-Sponsored PPO,English,Little Village,60623,Southwest,John H. Stroger Jr. Hospital,9,111,28.7,41588,2021-01-22,41.85962,-87.70315
+CCH-01126,55,Female,Asian,Employer-Sponsored HMO,English,Pilsen,60608,Southwest,Arlington Heights Health Center,3,106,27.1,26021,2022-11-15,41.84456,-87.66746
+CCH-01127,36,Female,White,ACA Marketplace Silver,English,Bridgeport,60616,South,Near South Health Center,8,169,35.4,48035,2021-10-02,41.84864,-87.6362
+CCH-01128,60,Male,Hispanic or Latino,Medicaid,English,Rogers Park,60626,Far North,John H. Stroger Jr. Hospital,1,95,32.2,37797,2024-04-16,42.00301,-87.66882
+CCH-01129,51,Female,Black or African American,CountyCare Health Plan,English,Rogers Park,60626,Far North,Provident Hospital of Cook County,10,117,24.6,10000,2022-06-07,42.00958,-87.68279
+CCH-01130,41,FEMALE,White,Medicaid,English,Bridgeport,60616,South,Arlington Heights Health Center,2,144,28.9,33230,2023-05-28,41.82269,-87.65269
+CCH-01131,43,Female,Asian,Uninsured / Self-Pay,English,Roseland,60628,Far South,Cottage Grove Health Center,2,118,30.3,33433,2023-01-10,41.7154,-87.61183
+CCH-01132,49,Female,Two or More Races,Medicaid,Spanish,Little Village,60623,Southwest,Englewood Health Center,2,123,31.2,20600,2022-11-29,41.83298,-87.70069
+CCH-01133,56,Female,Black or African American,Employer-Sponsored HMO,English,Chatham,60619,South,Prieto Health Center,2,145,31.2,36177,2022-06-25,41.74056,-87.60611
+CCH-01134,39,Male,Asian,Medicaid,Cantonese,Little Village,60623,Southwest,Prieto Health Center,2,145,30.4,60376,2021-10-07,41.85421,-87.71862
+CCH-01135,40,Female,Black or African American,Employer-Sponsored HMO,English,Bronzeville,60653,South,Provident Hospital of Cook County,2,120,28.8,40594,2022-08-16,41.82355,-87.61218
+CCH-01136,92,Male,Two or More Races,Medicare,English,Englewood,60621,South,Arlington Heights Health Center,2,124,20.9,30913,2024-09-07,41.77689,-87.64036
+CCH-01137,23,Male,Hispanic or Latino,Medicare,English,Chatham,60619,South,Arlington Heights Health Center,11,110,28.5,52327,2024-07-28,41.73969,-87.60233
+CCH-01138,49,Female,Two or More Races,ACA Marketplace Silver,Cantonese,South Shore,60649,South,Provident Hospital of Cook County,7,127,29.8,27356,2022-01-14,41.76268,-87.56623
+CCH-01139,52,Female,White,  CountyCare Health Plan  ,Tagalog,Rogers Park,60626,Far North,Robbins Health Center,2,98,35.7,56320,2021-11-14,42.0112,-87.65687
+CCH-01140,51,Female,Black or African American,Uninsured / Self-Pay,English,Bridgeport,60616,South,Near South Health Center,4,125,35.4,25311,2024-10-04,41.82788,-87.64685
+CCH-01141,64,Male,White,Uninsured / Self-Pay,Cantonese,Albany Park,60625,North,Arlington Heights Health Center,1,114,34.0,57242,2024-09-21,41.97601,-87.70432
+CCH-01142,34,Male,Hispanic or Latino,Employer-Sponsored PPO,English,Chatham,60619,South,Englewood Health Center,6,116,24.2,48503,2021-07-11,41.74952,-87.61681
+CCH-01143,41,Male,White,Medicaid,Spanish,Austin,60644,West,Cottage Grove Health Center,2,129,21.6,69034,2023-12-19,41.89245,-87.75474
+CCH-01144,72,Male,Black or African American,Dual Eligible (Medicare/Medicaid),English,Pilsen,60608,Southwest,John H. Stroger Jr. Hospital,6,147,33.4,60944,2021-03-02,41.85744,-87.66408
+CCH-01145,73,Female,Black or African American,Medicare,Spanish,Rogers Park,60626,Far North,Arlington Heights Health Center,1,126,31.7,43122,2023-10-29,42.00612,-87.65844
+CCH-01146,21,Male,Hispanic or Latino,CountyCare Health Plan,English,Austin,60644,West,Englewood Health Center,4,106,31.6,27022,2024-07-13,41.87704,-87.77701
+CCH-01147,17,Male,Hispanic or Latino,Medicaid,English,Albany Park,60625,North,Near South Health Center,4,134,26.8,71749,2022-03-28,41.95918,-87.71193
+CCH-01148,24,Female,Hispanic or Latino,Medicaid,Spanish,Austin,60644,West,Ruth M. Rothstein CORE Center,1,133,38.7,41494,2024-05-06,41.89703,-87.76553
+CCH-01149,46,Male,Hispanic or Latino,Uninsured / Self-Pay,Arabic,Little Village,60623,Southwest,Provident Hospital of Cook County,1,107,36.4,28695,2022-06-24,41.85848,-87.70121
+CCH-01150,43,Female,Black or African American,Uninsured / Self-Pay,Spanish,Little Village,60623,Southwest,Ruth M. Rothstein CORE Center,2,168,31.1,36138,2022-02-19,41.83776,-87.70078
+CCH-01151,39,Female,Black or African American,Employer-Sponsored HMO,English,Chatham,60619,South,Arlington Heights Health Center,1,124,18.8,52081,2021-08-19,41.75588,-87.60177
+CCH-01152,62,Female,Black or African American,Medicaid,English,Albany Park,60625,North,Prieto Health Center,2,124,20.6,23857,2022-08-31,41.9705,-87.71905
+CCH-01153,58,Female,Black or African American,Uninsured / Self-Pay,English,Chatham,60619,South,John H. Stroger Jr. Hospital,3,144,23.9,10491,2022-04-30,41.73787,-87.61369
+CCH-01154,29,Male,Black or African American,Employer-Sponsored HMO,English,Garfield Park,60624,West,John H. Stroger Jr. Hospital,4,137,37.3,14501,2021-11-27,41.8803,-87.71377
+CCH-01155,18,Female,Hispanic or Latino,Medicaid,English,Near West Side,60612,Central,Robbins Health Center,2,110,29.0,10000,2024-05-27,41.86723,-87.65038
+CCH-01156,50,Female,Black or African American,Employer-Sponsored HMO,English,Humboldt Park,60651,West,Cottage Grove Health Center,5,155,29.6,37138,2024-03-18,41.91264,-87.71168
+CCH-01157,52,Male,Hispanic or Latino,Medicaid,English,Pilsen,60608,Southwest,Robbins Health Center,8,105,17.9,34671,2022-04-29,41.85328,-87.64349
+CCH-01158,49,Male,Black or African American,ACA Marketplace Silver,English,Pilsen,60608,Southwest,Near South Health Center,1,123,37.1,36811,2024-10-12,41.85742,-87.66877
+CCH-01159,45,Female,Black or African American,CountyCare Health Plan,English,Little Village,60623,Southwest,Ruth M. Rothstein CORE Center,14,123,33.2,53865,2021-05-29,41.85891,-87.7083
+CCH-01160,76,Male,Hispanic or Latino,Medicare,English,Albany Park,60625,North,Englewood Health Center,7,120,31.3,35578,2024-01-25,41.97102,-87.70622
+CCH-01161,77,Male,Hispanic or Latino,CountyCare Health Plan,Spanish,Rogers Park,60626,Far North,Englewood Health Center,12,110,25.5,27189,2023-11-06,42.01515,-87.67811
+CCH-01162,19,Male,Hispanic or Latino,Medicare,English,Albany Park,60625,North,Robbins Health Center,4,106,23.3,43411,2021-03-15,41.97219,-87.70998
+CCH-01163,63,Female,Black or African American,Uninsured / Self-Pay,Arabic,Pilsen,60608,Southwest,Robbins Health Center,2,156,35.5,48390,2022-07-17,41.85553,-87.65512
+CCH-01164,41,Female,Hispanic or Latino,Medicaid,Cantonese,Rogers Park,60626,Far North,Prieto Health Center,5,102,34.6,62965,2023-10-16,42.01037,-87.67347
+CCH-01165,36,Female,Hispanic or Latino,Medicare,English,Bridgeport,60616,South,Ruth M. Rothstein CORE Center,4,144,28.5,43206,2024-10-29,41.82255,-87.6444
+CCH-01166,46,Male,Black or African American,Employer-Sponsored PPO,English,Bronzeville,60653,South,John H. Stroger Jr. Hospital,4,129,34.5,67854,2021-03-04,41.83267,-87.6213
+CCH-01167,60,Male,Hispanic or Latino,CountyCare Health Plan,English,South Shore,60649,South,Near South Health Center,2,149,23.1,20677,2024-06-06,41.75314,-87.56197
+CCH-01168,61,Male,Two or More Races,Medicaid,English,South Shore,60649,South,Provident Hospital of Cook County,2,140,27.8,62246,2022-11-28,41.76929,-87.56509
+CCH-01169,56,Male,Black or African American,ACA Marketplace Silver,English,Bridgeport,60616,South,Ruth M. Rothstein CORE Center,10,120,30.0,62253,2023-04-07,41.85108,-87.6492
+CCH-01170,33,Male,Hispanic or Latino,CountyCare Health Plan,English,Humboldt Park,60651,West,Near South Health Center,11,144,23.9,38813,2021-02-22,41.89391,-87.68726
+CCH-01171,20,Female,White,Employer-Sponsored HMO,English,Rogers Park,60626,Far North,Cottage Grove Health Center,4,146,34.7,54428,2022-09-20,42.00401,-87.67037
+CCH-01172,23,Male,Black or African American,Medicaid,Spanish,Humboldt Park,60651,West,Near South Health Center,1,124,29.1,31465,2024-04-06,41.91462,-87.69903
+CCH-01173,35,Female,Black or African American,Medicare,Spanish,South Shore,60649,South,Near South Health Center,8,138,31.1,21426,2024-06-22,41.75921,-87.5802
+CCH-01174,59,Female,Hispanic or Latino,Medicaid,Arabic,Pilsen,60608,Southwest,Ruth M. Rothstein CORE Center,6,109,26.3,64817,2024-08-10,41.85462,-87.66178
+CCH-01175,73,Female,Hispanic or Latino,Medicare,English,Pilsen,60608,Southwest,John H. Stroger Jr. Hospital,5,140,32.9,51427,2024-05-24,41.85967,-87.64286
+CCH-01176,45,Male,Asian,CountyCare Health Plan,Arabic,Albany Park,60625,North,Prieto Health Center,2,134,39.5,29188,2023-05-27,41.97003,-87.70639
+CCH-01177,30,Male,Hispanic or Latino,Medicaid,English,Albany Park,60625,North,Near South Health Center,2,117,22.0,18807,2024-10-02,41.96657,-87.72044
+CCH-01178,31,Male,Black or African American,Medicaid,Arabic,Roseland,60628,Far South,Provident Hospital of Cook County,6,133,23.7,44277,2021-06-19,41.71138,-87.62159
+CCH-01179,70,Male,Hispanic or Latino,Dual Eligible (Medicare/Medicaid),Spanish,Austin,60644,West,Provident Hospital of Cook County,1,149,37.0,14911,2022-04-30,41.88028,-87.76979
+CCH-01180,62,Male,Hispanic or Latino,CountyCare Health Plan,English,Humboldt Park,60651,West,Arlington Heights Health Center,5,100,26.4,26099,2024-02-12,41.89345,-87.70728
+CCH-01181,42,Male,Hispanic or Latino,CountyCare Health Plan,Spanish,Pilsen,60608,Southwest,Cottage Grove Health Center,2,144,24.3,24889,2023-05-17,41.85879,-87.64145
+CCH-01182,71,Female,White,Employer-Sponsored PPO,Cantonese,Austin,60644,West,Englewood Health Center,10,118,32.1,42756,2022-03-05,41.87949,-87.75362
+CCH-01183,57,Male,Black or African American,Medicaid,English,Humboldt Park,60651,West,John H. Stroger Jr. Hospital,2,102,33.1,46556,2024-07-07,41.90931,-87.71129
+CCH-01184,54,Female,Black or African American,Employer-Sponsored HMO,English,South Shore,60649,South,Robbins Health Center,3,126,33.9,47186,2023-04-08,41.76029,-87.58388
+CCH-01185,55,Female,Black or African American,Employer-Sponsored HMO,English,Bronzeville,60653,South,Ruth M. Rothstein CORE Center,10,92,24.7,57766,2024-03-15,41.81781,-87.6038
+CCH-01186,15,Male,Black or African American,Medicaid,English,Little Village,60623,Southwest,Ruth M. Rothstein CORE Center,11,124,26.2,30128,2023-06-20,41.84227,-87.70917
+CCH-01187,34,Female,Two or More Races,Employer-Sponsored HMO,Arabic,Bridgeport,60616,South,John H. Stroger Jr. Hospital,1,128,36.5,71006,2022-10-30,41.84325,-87.63593
+CCH-01188,57,Female,Hispanic or Latino,Employer-Sponsored PPO,English,Englewood,60621,South,Englewood Health Center,3,120,36.0,64790,2022-04-29,41.79346,-87.63632
+CCH-01189,39,Male,Hispanic or Latino,Medicaid,English,Roseland,60628,Far South,Arlington Heights Health Center,3,139,22.6,17373,2021-09-08,41.70733,-87.61316
+CCH-01190,56,male,Asian,CountyCare Health Plan,English,South Shore,60649,South,Robbins Health Center,5,118,37.5,60618,2024-06-05,41.75301,-87.58941
+CCH-01191,19,Male,Black or African American,Medicaid,English,Austin,60644,West,Robbins Health Center,9,107,27.6,27102,2023-12-16,41.8812,-87.77377
+CCH-01192,38,Female,Black or African American,Medicaid,Spanish,Albany Park,60625,North,Provident Hospital of Cook County,6,97,20.2,55039,2021-10-03,41.98167,-87.71383
+CCH-01193,61,Female,White,CountyCare Health Plan,Spanish,Garfield Park,60624,West,Robbins Health Center,3,110,32.5,25010,2023-11-29,41.86773,-87.71467
+CCH-01194,35,Male,Hispanic or Latino,Medicaid,English,Garfield Park,60624,West,John H. Stroger Jr. Hospital,1,103,27.5,51359,2021-03-24,41.87757,-87.72207
+CCH-01195,69,Male,Black or African American,Medicare,Spanish,Chatham,60619,South,Cottage Grove Health Center,8,115,29.2,35457,2024-03-14,41.74983,-87.61938
+CCH-01196,60,Male,Black or African American,Employer-Sponsored HMO,English,Bridgeport,60616,South,Englewood Health Center,7,142,26.4,37609,2024-08-31,41.84965,-87.64122
+CCH-01197,64,Male,Hispanic or Latino,CountyCare Health Plan,English,Little Village,60623,Southwest,Arlington Heights Health Center,4,94,28.1,30122,2021-04-10,41.83328,-87.7083
+CCH-01198,66,Male,Black or African American,Medicare,Spanish,Little Village,60623,Southwest,Provident Hospital of Cook County,1,152,25.9,42836,2021-08-26,41.8431,-87.70632
+CCH-01199,50,Male,Hispanic or Latino,Employer-Sponsored PPO,English,Little Village,60623,Southwest,Cottage Grove Health Center,9,133,28.3,26896,2022-02-10,41.83488,-87.71861
+CCH-01200,43,Female,Asian,CountyCare Health Plan,Spanish,Near West Side,60612,Central,Prieto Health Center,1,136,29.2,28279,2021-08-01,41.87548,-87.65849
+CCH-00011,51,Female,Black or African American,CountyCare Health Plan,Spanish,Rogers Park,60626,Far North,Ruth M. Rothstein CORE Center,4,114,31.7,34849,2021-09-20,42.02281,-87.68243
+CCH-00046,33,Female,Black or African American,CountyCare Health Plan,English,Chatham,60619,South,Englewood Health Center,1,116,30.7,35829,2024-02-13,41.73575,-87.61437
+CCH-00121,10,Female,Two or More Races,Medicaid,English,Humboldt Park,60651,West,Prieto Health Center,7,140,28.4,60717,2022-08-05,41.90274,-87.70788
+CCH-00251,31,Male,Black or African American,Uninsured / Self-Pay,English,Roseland,60628,Far South,Robbins Health Center,1,129,29.5,17261,2022-07-15,41.69242,-87.63002
+CCH-00401,41,Female,Black or African American,Medicaid,English,Pilsen,60608,Southwest,Prieto Health Center,7,110,24.5,50792,2023-02-27,41.85338,-87.65824
