@@ -319,7 +319,7 @@ export default function App() {
             }`}
           >
             <FileSpreadsheet className="w-4 h-4" />
-            01 Data Overview
+            Data Overview
           </button>
           <button
             onClick={() => setActiveTab('quality')}
@@ -330,7 +330,7 @@ export default function App() {
             }`}
           >
             <CheckCircle className="w-4 h-4" />
-            02 Data Quality
+            Data Quality
           </button>
           <button
             onClick={() => setActiveTab('eda')}
@@ -341,7 +341,7 @@ export default function App() {
             }`}
           >
             <BarChart2 className="w-4 h-4" />
-            03 Exploratory EDA
+            Exploratory EDA
           </button>
           <button
             onClick={() => setActiveTab('demographics')}
@@ -352,7 +352,7 @@ export default function App() {
             }`}
           >
             <Users className="w-4 h-4" />
-            04 Demographics
+            Demographics
           </button>
           <button
             onClick={() => setActiveTab('insurance')}
@@ -363,7 +363,7 @@ export default function App() {
             }`}
           >
             <CreditCard className="w-4 h-4" />
-            05 Insurance & Payer Mix
+            Insurance & Payer Mix
           </button>
           <button
             onClick={() => setActiveTab('geography')}
@@ -374,7 +374,7 @@ export default function App() {
             }`}
           >
             <MapPin className="w-4 h-4" />
-            06 Geography
+            Geography
           </button>
           <button
             onClick={() => setActiveTab('notebook')}
