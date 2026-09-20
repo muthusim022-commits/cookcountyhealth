@@ -536,7 +536,7 @@ export default function App() {
             <strong>CookCountyHealth</strong> • Portfolio Exploratory Data Analysis & Quality Audit Application
           </div>
           <div className="text-slate-400">
-            Streamlit Architecture & Python Statistical Engine • Zero Hardcoded Analytics
+            Streamlit Architecture & Python Statistical Engine • nalytics for Bussiness Intelligent
           </div>
         </div>
       </footer>

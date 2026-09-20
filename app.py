@@ -10,7 +10,7 @@ import numpy as np
 
 # Set page configuration
 st.set_page_config(
-    page_title="CookCountyHealth",
+    page_title="CookCountyHealth — Patient Demographics & Insurance EDA",
     page_icon="🏥",
     layout="wide",
     initial_sidebar_state="expanded",
