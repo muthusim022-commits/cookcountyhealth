@@ -6,7 +6,7 @@ An interactive Exploratory Data Analysis (EDA) application built with Python and
 
 ## Overview
 
-I designed and engineered **CookCountyHealth** as a full-featured, production-ready data exploration application. I built this system to solve a common limitation in standard portfolio dashboards: rigid hardcoding. Rather than fixing metrics, labels, and charts to one pre-determined file, I created an adaptable analytical engine that dynamically calculates every key performance indicator, distribution, statistical test, outlier boundary, and visualization at runtime from whichever CSV dataset the user uploads.
+I designed and engineered **CookCountyHealth** as a full-featured, production-ready data exploration application. I built this system to solve a common limitation in standard dashboards: rigid hardcoding. Rather than fixing metrics, labels, and charts to one pre-determined file, I created an adaptable analytical engine that dynamically calculates every key performance indicator, distribution, statistical test, outlier boundary, and visualization at runtime from whichever dataset the user uploads.
 
 The application incorporates an automated diagnostic data-quality audit, interactive cleaning pipeline controls with before-and-after audit tracking, dynamic univariate and bivariate exploratory analysis, intelligent visualization routing based on variable data types, and interactive geographic mapping.
 
@@ -23,7 +23,7 @@ Specifically, I set out to prove that I can:
 - Implement robust data ingestion that handles multi-encoding files and variable delimiters.
 - Build automated profiling engines that audit missingness, duplicates, constant columns, and cardinality without manual configuration.
 - Design transparent data cleaning pipelines with interactive controls and audit tracking.
-- Apply statistical techniques (e.g., IQR fences, Pearson correlation, cross-tabulations) dynamically.
+- Apply statistical techniques (like IQR fences, Pearson correlation, cross-tabulations) dynamically.
 - Implement rule-based visualization routing that chooses optimal charts based on mathematical variable types.
 - Deliver interactive spatial mapping with dynamic color and size dimensions using Plotly.
 
@@ -39,7 +39,6 @@ Specifically, I set out to prove that I can:
 - **Statistical Outlier Detection:** Implements IQR fences ($\text{Lower} = Q_1 - 1.5 \times \text{IQR}$, $\text{Upper} = Q_3 + 1.5 \times \text{IQR}$) with outlier counts and visual boundary thresholds.
 - **Categorical Frequency Breakdown:** Calculates value counts, percentages, and cumulative proportions with adjustable Top-N horizontal bar charts.
 - **Temporal Trend Analysis:** Automatically parses datetime fields to plot registration and encounter volumes over monthly and yearly intervals.
-- **Correlation Matrix Heatmap:** Computes Pearson correlation matrices for all or user-selected numeric fields, accompanied by an annotated heatmap and statistical causation disclaimers.
 - **Automated Relationship Explorer:** Automatically evaluates the data types of user-selected X and Y variables to route to the mathematically appropriate chart:
   - *Numeric × Numeric* $\rightarrow$ Scatter Plot with trendline
   - *Categorical × Numeric* $\rightarrow$ Box Plot
@@ -60,7 +59,6 @@ Specifically, I set out to prove that I can:
 - **Application Framework:** Streamlit
 - **Data Manipulation:** Pandas, NumPy
 - **Interactive Visualization:** Plotly (Plotly Express & Graph Objects)
-- **Static Plotting & Diagnostics:** Seaborn, Matplotlib
 
 ---
 
@@ -116,19 +114,21 @@ I structured the application to reflect the standard data analysis lifecycle:
 
 ## Key Technical Features & Design Choices
 
-### 1. Dynamic Execution (Zero Hardcoded Analytics)
-I made it a strict architectural requirement that no analytical conclusions, counts, categories, or percentages are hardcoded. Every metric is computed at runtime from the active DataFrame. If a user uploads a dataset with 50 rows or 50,000 rows, the application recalculates all summaries automatically.
+### 1. Dynamic Execution
+I made it a strict architectural requirement that analytical conclusions, counts, categories, or percentages are dynamic and based on the user-provided data. Every metric is computed at runtime from the active DataFrame. If a user uploads a dataset with 50 rows or 50,000 rows, the application recalculates all summaries automatically.
 
 ### 2. Flexible Healthcare Field Matching
 Rather than requiring exact column names like `Patient_Age` or `Insurance_Type`, I built a regex-based matcher in `src/utils.py` that recognizes common naming variations (e.g., `age`, `patient_age`, `age_years`, `payer`, `coverage`, `plan`). If a specific column type is absent, the application gracefully informs the user without throwing exceptions or crashing.
 
 ### 3. Automated Visualization Routing
-In the Relationship Explorer (`pages/03_EDA.py`), I developed a routing engine that inspects the datatypes of the selected X and Y variables and automatically selects the appropriate chart type (scatter plot for continuous variables, box plots for mixed continuous/categorical, grouped bars for categorical pairs, or line charts for time-series).
+In the Relationship Explorer (`pages/03_EDA.py`), I developed a routing engine that inspects the datatypes of the selected X and Y variables and automatically selects the appropriate chart type.
 
 ### 4. Interactive GIS Mapping
 I implemented mapping using Plotly's `scatter_mapbox` with Carto-Positron tiles, avoiding external proprietary map API tokens. Users can dynamically configure marker color and marker size from any detected column.
 
 ---
+## Application Live Link
+https://cookcountyhealth.vercel.app/
 
 ## Running Locally
 
@@ -177,5 +177,4 @@ In this project, I demonstrated my ability to:
 ## Limitations
 
 - **Browser Memory Constraints:** While the application handles datasets of tens of thousands of rows smoothly, uploading exceptionally large files (>500,000 rows) directly into browser memory may cause rendering latency in Plotly charts unless downsampling is applied.
-- **Non-Coordinate Geographies:** When coordinates (latitude and longitude) are not present in the dataset, the application provides aggregated bar charts by community area or ZIP code rather than polygon choropleths, as shapefile boundaries are not bundled to keep dependencies lightweight.
 - **Bivariate Correlation:** The correlation engine currently focuses on Pearson correlation for numerical variables; non-linear associations and categorical association metrics (such as Cramér's V) are not yet integrated into the automated matrix.
