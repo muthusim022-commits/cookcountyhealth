@@ -303,7 +303,7 @@ export default function App() {
               className="px-3.5 py-1.5 bg-blue-600 hover:bg-blue-700 text-white rounded-lg text-xs font-semibold shadow-xs transition flex items-center gap-1.5 disabled:opacity-50"
             >
               <Database className="w-3.5 h-3.5" />
-              {isLoading ? 'Loading...' : 'Load Cook County Cohort'}
+              {isLoading ? 'Loading...' : 'Load Sample Data'}
             </button>
           </div>
         </div>
