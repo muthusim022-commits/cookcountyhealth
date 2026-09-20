@@ -376,17 +376,6 @@ export default function App() {
             <MapPin className="w-4 h-4" />
             Geography
           </button>
-          <button
-            onClick={() => setActiveTab('notebook')}
-            className={`py-2.5 px-3.5 border-b-2 flex items-center gap-1.5 transition whitespace-nowrap ${
-              activeTab === 'notebook'
-                ? 'border-blue-600 text-blue-600 bg-blue-50/40'
-                : 'border-transparent text-slate-500 hover:text-slate-900'
-            }`}
-          >
-            <BookOpen className="w-4 h-4" />
-            07 Thought Process (.ipynb)
-          </button>
         </div>
       </header>
 
@@ -526,17 +515,16 @@ export default function App() {
           <GeographyView healthcare={healthcareFields} data={filteredData} profiles={columnProfiles} />
         )}
 
-        {activeTab === 'notebook' && <NotebookView />}
       </main>
 
       {/* Footer */}
       <footer className="bg-white border-t border-slate-200 py-4 text-xs text-slate-500 mt-auto" id="app-footer">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-2">
           <div>
-            <strong>CookCountyHealth</strong> • Portfolio Exploratory Data Analysis & Quality Audit Application
+            <strong>CookCountyHealth</strong> • Data & Quality Audit Application
           </div>
           <div className="text-slate-400">
-            Streamlit Architecture & Python Statistical Engine • nalytics for Bussiness Intelligent
+            Python & Streamlit Architecture • Analytics for Bussiness Intelligent
           </div>
         </div>
       </footer>
