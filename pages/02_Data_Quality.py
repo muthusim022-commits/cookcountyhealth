@@ -116,7 +116,7 @@ with tab_download:
     st.download_button(
         label="📥 Download Cleaned Dataset (CSV)",
         data=csv_bytes,
-        file_name="CookCountyHealth_cleaned.csv",
+        file_name="Cleaned.csv",
         mime="text/csv",
         type="primary"
     )
